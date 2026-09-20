@@ -1,0 +1,4001 @@
+id_aluno,nome,semana,presenca,entregas,participacao_comunidade
+1,Maria Luísa Novaes,1,15,62,30
+1,Maria Luísa Novaes,2,1,53,12
+1,Maria Luísa Novaes,3,30,66,51
+1,Maria Luísa Novaes,4,10,91,33
+1,Maria Luísa Novaes,5,5,92,41
+1,Maria Luísa Novaes,6,41,70,35
+1,Maria Luísa Novaes,7,6,81,13
+1,Maria Luísa Novaes,8,10,74,29
+2,Marcelo Melo,1,28,76,80
+2,Marcelo Melo,2,15,100,84
+2,Marcelo Melo,3,7,89,72
+2,Marcelo Melo,4,36,93,80
+2,Marcelo Melo,5,23,79,85
+2,Marcelo Melo,6,18,72,64
+2,Marcelo Melo,7,43,99,67
+2,Marcelo Melo,8,9,75,63
+3,Srta. Kamilly Pacheco,1,84,81,24
+3,Srta. Kamilly Pacheco,2,95,95,20
+3,Srta. Kamilly Pacheco,3,74,93,26
+3,Srta. Kamilly Pacheco,4,95,68,23
+3,Srta. Kamilly Pacheco,5,85,88,0
+3,Srta. Kamilly Pacheco,6,96,83,26
+3,Srta. Kamilly Pacheco,7,79,71,0
+3,Srta. Kamilly Pacheco,8,100,100,0
+4,Julia da Rosa,1,33,63,30
+4,Julia da Rosa,2,25,75,44
+4,Julia da Rosa,3,55,86,43
+4,Julia da Rosa,4,20,54,58
+4,Julia da Rosa,5,43,50,45
+4,Julia da Rosa,6,32,87,41
+4,Julia da Rosa,7,26,83,42
+4,Julia da Rosa,8,20,82,62
+5,Sr. Diego da Cruz,1,10,26,27
+5,Sr. Diego da Cruz,2,32,34,52
+5,Sr. Diego da Cruz,3,32,33,38
+5,Sr. Diego da Cruz,4,40,36,33
+5,Sr. Diego da Cruz,5,3,40,52
+5,Sr. Diego da Cruz,6,29,44,35
+5,Sr. Diego da Cruz,7,24,21,49
+5,Sr. Diego da Cruz,8,29,9,22
+6,João Pedro Barbosa,1,100,74,46
+6,João Pedro Barbosa,2,80,87,26
+6,João Pedro Barbosa,3,100,85,30
+6,João Pedro Barbosa,4,82,100,49
+6,João Pedro Barbosa,5,95,82,21
+6,João Pedro Barbosa,6,80,82,24
+6,João Pedro Barbosa,7,100,97,50
+6,João Pedro Barbosa,8,100,79,33
+7,Dr. Ryan Castro,1,64,38,56
+7,Dr. Ryan Castro,2,63,23,48
+7,Dr. Ryan Castro,3,76,22,57
+7,Dr. Ryan Castro,4,74,58,67
+7,Dr. Ryan Castro,5,74,26,43
+7,Dr. Ryan Castro,6,55,38,43
+7,Dr. Ryan Castro,7,80,21,75
+7,Dr. Ryan Castro,8,48,52,47
+8,Joana Moreira,1,31,85,91
+8,Joana Moreira,2,23,84,79
+8,Joana Moreira,3,44,55,80
+8,Joana Moreira,4,42,82,81
+8,Joana Moreira,5,21,50,100
+8,Joana Moreira,6,51,52,100
+8,Joana Moreira,7,49,70,100
+8,Joana Moreira,8,54,60,71
+9,Sra. Ester da Cunha,1,67,40,0
+9,Sra. Ester da Cunha,2,72,32,14
+9,Sra. Ester da Cunha,3,52,25,5
+9,Sra. Ester da Cunha,4,64,57,3
+9,Sra. Ester da Cunha,5,66,23,4
+9,Sra. Ester da Cunha,6,52,38,20
+9,Sra. Ester da Cunha,7,41,35,8
+9,Sra. Ester da Cunha,8,71,45,30
+10,Letícia Peixoto,1,67,38,0
+10,Letícia Peixoto,2,48,43,0
+10,Letícia Peixoto,3,70,19,0
+10,Letícia Peixoto,4,55,43,20
+10,Letícia Peixoto,5,54,27,0
+10,Letícia Peixoto,6,55,27,20
+10,Letícia Peixoto,7,65,7,14
+10,Letícia Peixoto,8,35,34,0
+11,Felipe Souza,1,98,9,51
+11,Felipe Souza,2,100,10,51
+11,Felipe Souza,3,73,24,41
+11,Felipe Souza,4,70,46,52
+11,Felipe Souza,5,83,17,32
+11,Felipe Souza,6,84,34,40
+11,Felipe Souza,7,69,24,66
+11,Felipe Souza,8,100,39,42
+12,André Azevedo,1,100,64,0
+12,André Azevedo,2,92,73,0
+12,André Azevedo,3,81,64,0
+12,André Azevedo,4,73,54,0
+12,André Azevedo,5,84,40,0
+12,André Azevedo,6,85,71,25
+12,André Azevedo,7,71,73,23
+12,André Azevedo,8,88,53,6
+13,Luiza Pimenta,1,23,0,45
+13,Luiza Pimenta,2,21,5,44
+13,Luiza Pimenta,3,21,10,30
+13,Luiza Pimenta,4,19,21,13
+13,Luiza Pimenta,5,16,13,33
+13,Luiza Pimenta,6,41,0,16
+13,Luiza Pimenta,7,44,17,39
+13,Luiza Pimenta,8,14,11,22
+14,Thomas Alves,1,84,82,72
+14,Thomas Alves,2,82,70,87
+14,Thomas Alves,3,95,84,68
+14,Thomas Alves,4,77,100,57
+14,Thomas Alves,5,100,84,57
+14,Thomas Alves,6,100,85,65
+14,Thomas Alves,7,89,89,55
+14,Thomas Alves,8,86,71,88
+15,Bruno Fonseca,1,66,0,45
+15,Bruno Fonseca,2,32,22,39
+15,Bruno Fonseca,3,38,14,38
+15,Bruno Fonseca,4,46,29,18
+15,Bruno Fonseca,5,63,0,42
+15,Bruno Fonseca,6,57,18,10
+15,Bruno Fonseca,7,59,0,17
+15,Bruno Fonseca,8,46,11,11
+16,Helena Peixoto,1,41,64,57
+16,Helena Peixoto,2,35,64,55
+16,Helena Peixoto,3,14,97,85
+16,Helena Peixoto,4,6,87,85
+16,Helena Peixoto,5,20,92,74
+16,Helena Peixoto,6,29,70,47
+16,Helena Peixoto,7,5,94,58
+16,Helena Peixoto,8,15,67,65
+17,Levi Oliveira,1,60,36,76
+17,Levi Oliveira,2,67,47,87
+17,Levi Oliveira,3,85,33,100
+17,Levi Oliveira,4,84,44,86
+17,Levi Oliveira,5,77,24,88
+17,Levi Oliveira,6,86,49,100
+17,Levi Oliveira,7,57,19,96
+17,Levi Oliveira,8,63,41,74
+18,Dra. Beatriz Ribeiro,1,34,93,57
+18,Dra. Beatriz Ribeiro,2,73,66,79
+18,Dra. Beatriz Ribeiro,3,53,95,86
+18,Dra. Beatriz Ribeiro,4,49,92,88
+18,Dra. Beatriz Ribeiro,5,54,92,83
+18,Dra. Beatriz Ribeiro,6,49,97,87
+18,Dra. Beatriz Ribeiro,7,41,73,74
+18,Dra. Beatriz Ribeiro,8,37,98,67
+19,Vinicius Camargo,1,48,38,0
+19,Vinicius Camargo,2,50,28,27
+19,Vinicius Camargo,3,81,35,0
+19,Vinicius Camargo,4,75,47,3
+19,Vinicius Camargo,5,81,9,16
+19,Vinicius Camargo,6,54,23,0
+19,Vinicius Camargo,7,68,20,11
+19,Vinicius Camargo,8,54,18,29
+20,Melissa Pimenta,1,90,11,95
+20,Melissa Pimenta,2,90,31,100
+20,Melissa Pimenta,3,63,4,100
+20,Melissa Pimenta,4,65,8,100
+20,Melissa Pimenta,5,82,3,93
+20,Melissa Pimenta,6,95,8,89
+20,Melissa Pimenta,7,96,32,79
+20,Melissa Pimenta,8,92,21,96
+21,Ana Luiza Costa,1,97,10,2
+21,Ana Luiza Costa,2,85,19,15
+21,Ana Luiza Costa,3,59,45,27
+21,Ana Luiza Costa,4,82,14,35
+21,Ana Luiza Costa,5,81,30,14
+21,Ana Luiza Costa,6,88,40,34
+21,Ana Luiza Costa,7,85,33,15
+21,Ana Luiza Costa,8,58,32,26
+22,Dr. Pedro Lucas Albuquerque,1,45,56,77
+22,Dr. Pedro Lucas Albuquerque,2,14,77,72
+22,Dr. Pedro Lucas Albuquerque,3,35,63,50
+22,Dr. Pedro Lucas Albuquerque,4,37,48,78
+22,Dr. Pedro Lucas Albuquerque,5,21,58,70
+22,Dr. Pedro Lucas Albuquerque,6,29,61,64
+22,Dr. Pedro Lucas Albuquerque,7,30,78,83
+22,Dr. Pedro Lucas Albuquerque,8,33,56,68
+23,Dr. Gael Sampaio,1,51,28,81
+23,Dr. Gael Sampaio,2,34,8,94
+23,Dr. Gael Sampaio,3,53,27,80
+23,Dr. Gael Sampaio,4,47,23,72
+23,Dr. Gael Sampaio,5,49,10,72
+23,Dr. Gael Sampaio,6,37,11,90
+23,Dr. Gael Sampaio,7,34,13,90
+23,Dr. Gael Sampaio,8,31,28,79
+24,Ana Julia Duarte,1,24,70,43
+24,Ana Julia Duarte,2,37,85,30
+24,Ana Julia Duarte,3,36,76,42
+24,Ana Julia Duarte,4,24,77,14
+24,Ana Julia Duarte,5,14,68,32
+24,Ana Julia Duarte,6,42,100,5
+24,Ana Julia Duarte,7,44,70,25
+24,Ana Julia Duarte,8,14,84,44
+25,Isabella Pastor,1,25,50,0
+25,Isabella Pastor,2,24,69,16
+25,Isabella Pastor,3,53,38,14
+25,Isabella Pastor,4,35,52,14
+25,Isabella Pastor,5,42,58,0
+25,Isabella Pastor,6,21,67,0
+25,Isabella Pastor,7,59,45,17
+25,Isabella Pastor,8,54,47,25
+26,João Gabriel Araújo,1,67,67,16
+26,João Gabriel Araújo,2,38,86,56
+26,João Gabriel Araújo,3,51,73,32
+26,João Gabriel Araújo,4,62,75,26
+26,João Gabriel Araújo,5,61,82,19
+26,João Gabriel Araújo,6,68,86,37
+26,João Gabriel Araújo,7,46,80,44
+26,João Gabriel Araújo,8,48,76,48
+27,Sr. João Guilherme Barros,1,52,80,70
+27,Sr. João Guilherme Barros,2,59,50,44
+27,Sr. João Guilherme Barros,3,49,67,39
+27,Sr. João Guilherme Barros,4,42,59,48
+27,Sr. João Guilherme Barros,5,50,88,39
+27,Sr. João Guilherme Barros,6,60,51,45
+27,Sr. João Guilherme Barros,7,73,85,52
+27,Sr. João Guilherme Barros,8,71,70,51
+28,Juan Souza,1,45,46,60
+28,Juan Souza,2,54,64,52
+28,Juan Souza,3,69,77,51
+28,Juan Souza,4,63,54,73
+28,Juan Souza,5,55,52,49
+28,Juan Souza,6,47,60,46
+28,Juan Souza,7,82,42,49
+28,Juan Souza,8,70,70,71
+29,Zoe Jesus,1,56,77,56
+29,Zoe Jesus,2,70,90,84
+29,Zoe Jesus,3,45,80,70
+29,Zoe Jesus,4,49,87,63
+29,Zoe Jesus,5,71,89,69
+29,Zoe Jesus,6,61,67,58
+29,Zoe Jesus,7,65,79,65
+29,Zoe Jesus,8,48,67,80
+30,Vinicius Gonçalves,1,100,15,51
+30,Vinicius Gonçalves,2,100,34,58
+30,Vinicius Gonçalves,3,84,28,43
+30,Vinicius Gonçalves,4,100,27,70
+30,Vinicius Gonçalves,5,99,45,71
+30,Vinicius Gonçalves,6,92,48,74
+30,Vinicius Gonçalves,7,100,32,69
+30,Vinicius Gonçalves,8,90,28,70
+31,Nicole da Paz,1,19,97,62
+31,Nicole da Paz,2,46,94,63
+31,Nicole da Paz,3,17,90,70
+31,Nicole da Paz,4,32,100,59
+31,Nicole da Paz,5,14,100,35
+31,Nicole da Paz,6,39,100,46
+31,Nicole da Paz,7,51,84,39
+31,Nicole da Paz,8,20,83,59
+32,Ana Cecília Duarte,1,93,25,15
+32,Ana Cecília Duarte,2,97,3,5
+32,Ana Cecília Duarte,3,85,35,6
+32,Ana Cecília Duarte,4,81,39,14
+32,Ana Cecília Duarte,5,100,3,19
+32,Ana Cecília Duarte,6,97,27,0
+32,Ana Cecília Duarte,7,100,13,23
+32,Ana Cecília Duarte,8,73,18,23
+33,Arthur Melo,1,47,47,81
+33,Arthur Melo,2,51,55,100
+33,Arthur Melo,3,54,34,72
+33,Arthur Melo,4,58,46,79
+33,Arthur Melo,5,59,21,88
+33,Arthur Melo,6,44,54,100
+33,Arthur Melo,7,49,45,90
+33,Arthur Melo,8,57,15,82
+34,Davi Lucca Cirino,1,81,93,14
+34,Davi Lucca Cirino,2,78,100,14
+34,Davi Lucca Cirino,3,54,87,0
+34,Davi Lucca Cirino,4,84,100,0
+34,Davi Lucca Cirino,5,82,97,20
+34,Davi Lucca Cirino,6,77,77,0
+34,Davi Lucca Cirino,7,45,100,23
+34,Davi Lucca Cirino,8,45,100,11
+35,Raul Fernandes,1,58,89,68
+35,Raul Fernandes,2,83,100,83
+35,Raul Fernandes,3,78,99,62
+35,Raul Fernandes,4,85,100,72
+35,Raul Fernandes,5,78,100,49
+35,Raul Fernandes,6,46,100,61
+35,Raul Fernandes,7,47,82,69
+35,Raul Fernandes,8,58,96,57
+36,Lunna da Costa,1,36,58,69
+36,Lunna da Costa,2,43,36,75
+36,Lunna da Costa,3,41,54,95
+36,Lunna da Costa,4,15,65,73
+36,Lunna da Costa,5,25,32,68
+36,Lunna da Costa,6,35,46,65
+36,Lunna da Costa,7,26,65,70
+36,Lunna da Costa,8,40,48,61
+37,Dr. Gustavo Henrique da Cunha,1,22,0,17
+37,Dr. Gustavo Henrique da Cunha,2,25,0,30
+37,Dr. Gustavo Henrique da Cunha,3,19,12,9
+37,Dr. Gustavo Henrique da Cunha,4,48,16,16
+37,Dr. Gustavo Henrique da Cunha,5,19,6,0
+37,Dr. Gustavo Henrique da Cunha,6,16,0,14
+37,Dr. Gustavo Henrique da Cunha,7,29,5,0
+37,Dr. Gustavo Henrique da Cunha,8,16,30,29
+38,Maria Alice Nunes,1,31,68,47
+38,Maria Alice Nunes,2,20,72,42
+38,Maria Alice Nunes,3,14,70,59
+38,Maria Alice Nunes,4,19,92,59
+38,Maria Alice Nunes,5,41,68,61
+38,Maria Alice Nunes,6,10,81,29
+38,Maria Alice Nunes,7,21,97,50
+38,Maria Alice Nunes,8,4,97,28
+39,Ana Beatriz Sousa,1,37,32,23
+39,Ana Beatriz Sousa,2,70,31,37
+39,Ana Beatriz Sousa,3,75,55,54
+39,Ana Beatriz Sousa,4,40,59,52
+39,Ana Beatriz Sousa,5,64,55,41
+39,Ana Beatriz Sousa,6,66,59,48
+39,Ana Beatriz Sousa,7,38,46,53
+39,Ana Beatriz Sousa,8,40,37,47
+40,Larissa Cunha,1,14,51,25
+40,Larissa Cunha,2,24,56,44
+40,Larissa Cunha,3,7,57,37
+40,Larissa Cunha,4,25,66,20
+40,Larissa Cunha,5,34,55,32
+40,Larissa Cunha,6,14,86,51
+40,Larissa Cunha,7,19,71,27
+40,Larissa Cunha,8,27,61,21
+41,Ravi Lucca Santos,1,79,40,0
+41,Ravi Lucca Santos,2,73,28,5
+41,Ravi Lucca Santos,3,60,6,4
+41,Ravi Lucca Santos,4,74,18,29
+41,Ravi Lucca Santos,5,85,43,9
+41,Ravi Lucca Santos,6,62,43,32
+41,Ravi Lucca Santos,7,58,27,5
+41,Ravi Lucca Santos,8,71,33,25
+42,Bianca Mendes,1,86,0,37
+42,Bianca Mendes,2,75,4,21
+42,Bianca Mendes,3,67,0,22
+42,Bianca Mendes,4,88,5,18
+42,Bianca Mendes,5,77,15,22
+42,Bianca Mendes,6,61,0,30
+42,Bianca Mendes,7,86,17,26
+42,Bianca Mendes,8,76,0,47
+43,Luiz Henrique Araújo,1,57,69,37
+43,Luiz Henrique Araújo,2,80,66,38
+43,Luiz Henrique Araújo,3,68,70,47
+43,Luiz Henrique Araújo,4,52,58,43
+43,Luiz Henrique Araújo,5,78,50,36
+43,Luiz Henrique Araújo,6,45,51,25
+43,Luiz Henrique Araújo,7,68,56,25
+43,Luiz Henrique Araújo,8,41,67,38
+44,Lunna Garcia,1,85,64,17
+44,Lunna Garcia,2,100,95,16
+44,Lunna Garcia,3,99,88,16
+44,Lunna Garcia,4,100,91,24
+44,Lunna Garcia,5,100,79,24
+44,Lunna Garcia,6,100,71,31
+44,Lunna Garcia,7,96,78,36
+44,Lunna Garcia,8,79,72,16
+45,Esther Lopes,1,62,17,19
+45,Esther Lopes,2,58,17,21
+45,Esther Lopes,3,68,13,4
+45,Esther Lopes,4,58,1,0
+45,Esther Lopes,5,43,10,19
+45,Esther Lopes,6,57,15,17
+45,Esther Lopes,7,43,25,15
+45,Esther Lopes,8,63,0,5
+46,Maria Alice Martins,1,57,84,81
+46,Maria Alice Martins,2,31,84,63
+46,Maria Alice Martins,3,41,98,81
+46,Maria Alice Martins,4,62,92,49
+46,Maria Alice Martins,5,30,80,71
+46,Maria Alice Martins,6,36,74,83
+46,Maria Alice Martins,7,45,61,69
+46,Maria Alice Martins,8,51,98,59
+47,João Vasconcelos,1,62,31,8
+47,João Vasconcelos,2,42,28,0
+47,João Vasconcelos,3,71,3,0
+47,João Vasconcelos,4,36,32,17
+47,João Vasconcelos,5,47,20,0
+47,João Vasconcelos,6,47,22,0
+47,João Vasconcelos,7,50,15,4
+47,João Vasconcelos,8,45,18,0
+48,Matheus da Rosa,1,87,19,60
+48,Matheus da Rosa,2,57,34,64
+48,Matheus da Rosa,3,86,29,44
+48,Matheus da Rosa,4,48,32,64
+48,Matheus da Rosa,5,53,13,71
+48,Matheus da Rosa,6,49,37,42
+48,Matheus da Rosa,7,48,46,50
+48,Matheus da Rosa,8,68,36,75
+49,Emanuel Campos,1,39,47,94
+49,Emanuel Campos,2,32,57,88
+49,Emanuel Campos,3,46,79,71
+49,Emanuel Campos,4,24,69,100
+49,Emanuel Campos,5,44,60,64
+49,Emanuel Campos,6,30,47,95
+49,Emanuel Campos,7,29,49,80
+49,Emanuel Campos,8,50,62,98
+50,Dra. Kamilly Costela,1,92,0,58
+50,Dra. Kamilly Costela,2,100,22,83
+50,Dra. Kamilly Costela,3,100,5,91
+50,Dra. Kamilly Costela,4,92,18,57
+50,Dra. Kamilly Costela,5,87,12,58
+50,Dra. Kamilly Costela,6,85,9,90
+50,Dra. Kamilly Costela,7,87,30,88
+50,Dra. Kamilly Costela,8,91,29,85
+51,Camila Peixoto,1,58,39,21
+51,Camila Peixoto,2,26,47,0
+51,Camila Peixoto,3,35,11,8
+51,Camila Peixoto,4,50,19,31
+51,Camila Peixoto,5,37,28,0
+51,Camila Peixoto,6,45,12,26
+51,Camila Peixoto,7,32,21,0
+51,Camila Peixoto,8,32,39,26
+52,Sophia Fonseca,1,40,15,74
+52,Sophia Fonseca,2,58,16,58
+52,Sophia Fonseca,3,39,9,37
+52,Sophia Fonseca,4,42,1,58
+52,Sophia Fonseca,5,32,13,71
+52,Sophia Fonseca,6,54,14,73
+52,Sophia Fonseca,7,65,9,49
+52,Sophia Fonseca,8,45,22,70
+53,Ana Vitória Rocha,1,44,39,55
+53,Ana Vitória Rocha,2,40,52,80
+53,Ana Vitória Rocha,3,39,43,85
+53,Ana Vitória Rocha,4,24,22,62
+53,Ana Vitória Rocha,5,17,38,79
+53,Ana Vitória Rocha,6,24,24,56
+53,Ana Vitória Rocha,7,17,25,71
+53,Ana Vitória Rocha,8,48,25,54
+54,Dr. Matheus da Rosa,1,42,50,68
+54,Dr. Matheus da Rosa,2,38,48,56
+54,Dr. Matheus da Rosa,3,73,33,68
+54,Dr. Matheus da Rosa,4,53,27,76
+54,Dr. Matheus da Rosa,5,63,55,82
+54,Dr. Matheus da Rosa,6,45,47,86
+54,Dr. Matheus da Rosa,7,59,28,90
+54,Dr. Matheus da Rosa,8,56,30,76
+55,Eloah da Rocha,1,30,0,7
+55,Eloah da Rocha,2,33,15,0
+55,Eloah da Rocha,3,29,0,1
+55,Eloah da Rocha,4,52,20,33
+55,Eloah da Rocha,5,52,18,0
+55,Eloah da Rocha,6,36,19,18
+55,Eloah da Rocha,7,34,0,0
+55,Eloah da Rocha,8,25,19,23
+56,Manuella Vieira,1,93,8,25
+56,Manuella Vieira,2,71,0,22
+56,Manuella Vieira,3,88,21,53
+56,Manuella Vieira,4,70,0,42
+56,Manuella Vieira,5,71,0,58
+56,Manuella Vieira,6,79,0,54
+56,Manuella Vieira,7,96,6,55
+56,Manuella Vieira,8,65,10,45
+57,Maria Helena Peixoto,1,80,63,100
+57,Maria Helena Peixoto,2,100,55,73
+57,Maria Helena Peixoto,3,89,66,84
+57,Maria Helena Peixoto,4,79,57,84
+57,Maria Helena Peixoto,5,67,84,81
+57,Maria Helena Peixoto,6,100,56,65
+57,Maria Helena Peixoto,7,95,69,70
+57,Maria Helena Peixoto,8,99,69,87
+58,Samuel Castro,1,91,90,64
+58,Samuel Castro,2,79,79,86
+58,Samuel Castro,3,65,65,76
+58,Samuel Castro,4,82,69,87
+58,Samuel Castro,5,53,93,67
+58,Samuel Castro,6,57,66,78
+58,Samuel Castro,7,71,71,73
+58,Samuel Castro,8,61,82,58
+59,Maria Vitória Nunes,1,14,39,74
+59,Maria Vitória Nunes,2,54,53,100
+59,Maria Vitória Nunes,3,25,48,90
+59,Maria Vitória Nunes,4,17,45,95
+59,Maria Vitória Nunes,5,24,50,79
+59,Maria Vitória Nunes,6,20,56,100
+59,Maria Vitória Nunes,7,21,39,69
+59,Maria Vitória Nunes,8,17,29,81
+60,Marina Silva,1,94,71,67
+60,Marina Silva,2,100,85,58
+60,Marina Silva,3,76,68,85
+60,Marina Silva,4,100,76,61
+60,Marina Silva,5,77,55,78
+60,Marina Silva,6,76,85,85
+60,Marina Silva,7,88,49,60
+60,Marina Silva,8,90,65,77
+61,Dra. Eduarda Santos,1,63,28,78
+61,Dra. Eduarda Santos,2,70,9,84
+61,Dra. Eduarda Santos,3,83,35,92
+61,Dra. Eduarda Santos,4,74,27,67
+61,Dra. Eduarda Santos,5,59,34,92
+61,Dra. Eduarda Santos,6,58,38,87
+61,Dra. Eduarda Santos,7,84,37,75
+61,Dra. Eduarda Santos,8,76,21,61
+62,Cecilia Cavalcante,1,94,9,9
+62,Cecilia Cavalcante,2,80,21,19
+62,Cecilia Cavalcante,3,100,11,42
+62,Cecilia Cavalcante,4,100,35,31
+62,Cecilia Cavalcante,5,100,30,32
+62,Cecilia Cavalcante,6,100,23,21
+62,Cecilia Cavalcante,7,100,34,24
+62,Cecilia Cavalcante,8,100,38,25
+63,Vitória Nunes,1,39,18,82
+63,Vitória Nunes,2,52,34,97
+63,Vitória Nunes,3,41,55,72
+63,Vitória Nunes,4,46,24,91
+63,Vitória Nunes,5,28,40,80
+63,Vitória Nunes,6,51,42,82
+63,Vitória Nunes,7,38,23,100
+63,Vitória Nunes,8,58,42,79
+64,Marcelo Azevedo,1,87,12,76
+64,Marcelo Azevedo,2,91,3,90
+64,Marcelo Azevedo,3,86,15,56
+64,Marcelo Azevedo,4,87,5,74
+64,Marcelo Azevedo,5,100,4,91
+64,Marcelo Azevedo,6,91,9,87
+64,Marcelo Azevedo,7,100,5,81
+64,Marcelo Azevedo,8,83,25,54
+65,João Felipe Silveira,1,59,75,41
+65,João Felipe Silveira,2,74,76,63
+65,João Felipe Silveira,3,73,69,44
+65,João Felipe Silveira,4,59,100,48
+65,João Felipe Silveira,5,46,100,31
+65,João Felipe Silveira,6,52,79,55
+65,João Felipe Silveira,7,64,88,38
+65,João Felipe Silveira,8,70,100,27
+66,Matheus da Luz,1,66,4,43
+66,Matheus da Luz,2,89,0,38
+66,Matheus da Luz,3,90,15,52
+66,Matheus da Luz,4,69,0,60
+66,Matheus da Luz,5,56,0,58
+66,Matheus da Luz,6,62,0,64
+66,Matheus da Luz,7,62,0,61
+66,Matheus da Luz,8,73,0,47
+67,Ravy Ferreira,1,85,72,18
+67,Ravy Ferreira,2,57,65,0
+67,Ravy Ferreira,3,69,71,13
+67,Ravy Ferreira,4,66,89,20
+67,Ravy Ferreira,5,68,84,18
+67,Ravy Ferreira,6,80,55,0
+67,Ravy Ferreira,7,59,86,19
+67,Ravy Ferreira,8,79,56,9
+68,Maria Vitória Borges,1,61,88,61
+68,Maria Vitória Borges,2,73,83,78
+68,Maria Vitória Borges,3,82,82,52
+68,Maria Vitória Borges,4,62,97,75
+68,Maria Vitória Borges,5,75,78,54
+68,Maria Vitória Borges,6,100,82,82
+68,Maria Vitória Borges,7,71,75,60
+68,Maria Vitória Borges,8,77,95,73
+69,Sr. Oliver Campos,1,100,25,67
+69,Sr. Oliver Campos,2,80,55,59
+69,Sr. Oliver Campos,3,89,59,68
+69,Sr. Oliver Campos,4,100,23,54
+69,Sr. Oliver Campos,5,93,48,55
+69,Sr. Oliver Campos,6,100,22,47
+69,Sr. Oliver Campos,7,97,21,45
+69,Sr. Oliver Campos,8,97,49,71
+70,Dra. Maria Eduarda Rocha,1,80,84,67
+70,Dra. Maria Eduarda Rocha,2,56,66,56
+70,Dra. Maria Eduarda Rocha,3,71,94,70
+70,Dra. Maria Eduarda Rocha,4,56,65,55
+70,Dra. Maria Eduarda Rocha,5,77,73,66
+70,Dra. Maria Eduarda Rocha,6,63,82,48
+70,Dra. Maria Eduarda Rocha,7,58,96,40
+70,Dra. Maria Eduarda Rocha,8,68,96,62
+71,Samuel Pinto,1,49,58,100
+71,Samuel Pinto,2,48,78,70
+71,Samuel Pinto,3,72,50,74
+71,Samuel Pinto,4,70,65,97
+71,Samuel Pinto,5,48,59,88
+71,Samuel Pinto,6,42,62,83
+71,Samuel Pinto,7,61,63,91
+71,Samuel Pinto,8,48,79,76
+72,Esther Vargas,1,74,100,20
+72,Esther Vargas,2,79,99,0
+72,Esther Vargas,3,62,100,4
+72,Esther Vargas,4,77,91,0
+72,Esther Vargas,5,63,91,19
+72,Esther Vargas,6,74,100,6
+72,Esther Vargas,7,86,85,15
+72,Esther Vargas,8,70,94,14
+73,Jade Teixeira,1,74,78,26
+73,Jade Teixeira,2,79,90,23
+73,Jade Teixeira,3,63,70,31
+73,Jade Teixeira,4,66,57,39
+73,Jade Teixeira,5,75,52,36
+73,Jade Teixeira,6,76,80,15
+73,Jade Teixeira,7,86,76,26
+73,Jade Teixeira,8,92,91,47
+74,Davi Lucca Machado,1,54,24,30
+74,Davi Lucca Machado,2,73,14,50
+74,Davi Lucca Machado,3,63,4,32
+74,Davi Lucca Machado,4,56,34,39
+74,Davi Lucca Machado,5,66,11,41
+74,Davi Lucca Machado,6,58,0,46
+74,Davi Lucca Machado,7,70,11,39
+74,Davi Lucca Machado,8,72,33,59
+75,Luiz Henrique Camargo,1,30,40,0
+75,Luiz Henrique Camargo,2,40,59,0
+75,Luiz Henrique Camargo,3,10,62,20
+75,Luiz Henrique Camargo,4,5,38,22
+75,Luiz Henrique Camargo,5,41,73,0
+75,Luiz Henrique Camargo,6,28,73,10
+75,Luiz Henrique Camargo,7,15,40,8
+75,Luiz Henrique Camargo,8,39,36,11
+76,Léo Marques,1,49,58,50
+76,Léo Marques,2,33,42,41
+76,Léo Marques,3,38,48,24
+76,Léo Marques,4,14,56,53
+76,Léo Marques,5,53,28,35
+76,Léo Marques,6,16,29,38
+76,Léo Marques,7,48,51,32
+76,Léo Marques,8,18,44,37
+77,Jade Costela,1,37,42,0
+77,Jade Costela,2,4,48,4
+77,Jade Costela,3,38,67,17
+77,Jade Costela,4,15,29,0
+77,Jade Costela,5,41,58,2
+77,Jade Costela,6,15,55,20
+77,Jade Costela,7,13,48,1
+77,Jade Costela,8,23,63,0
+78,Srta. Eloá da Cunha,1,18,46,51
+78,Srta. Eloá da Cunha,2,31,33,55
+78,Srta. Eloá da Cunha,3,5,69,29
+78,Srta. Eloá da Cunha,4,40,64,35
+78,Srta. Eloá da Cunha,5,20,57,36
+78,Srta. Eloá da Cunha,6,45,71,25
+78,Srta. Eloá da Cunha,7,27,49,52
+78,Srta. Eloá da Cunha,8,32,56,43
+79,Brenda Pereira,1,18,77,96
+79,Brenda Pereira,2,35,73,85
+79,Brenda Pereira,3,34,79,62
+79,Brenda Pereira,4,31,98,95
+79,Brenda Pereira,5,52,86,56
+79,Brenda Pereira,6,26,81,87
+79,Brenda Pereira,7,27,75,64
+79,Brenda Pereira,8,34,98,70
+80,Ísis Leão,1,86,60,100
+80,Ísis Leão,2,81,57,80
+80,Ísis Leão,3,80,52,89
+80,Ísis Leão,4,88,60,100
+80,Ísis Leão,5,98,41,81
+80,Ísis Leão,6,97,45,99
+80,Ísis Leão,7,89,48,94
+80,Ísis Leão,8,100,36,84
+81,Henry Gabriel Cirino,1,67,27,52
+81,Henry Gabriel Cirino,2,80,12,81
+81,Henry Gabriel Cirino,3,95,0,79
+81,Henry Gabriel Cirino,4,100,4,55
+81,Henry Gabriel Cirino,5,83,1,47
+81,Henry Gabriel Cirino,6,82,14,60
+81,Henry Gabriel Cirino,7,87,3,75
+81,Henry Gabriel Cirino,8,82,21,49
+82,Dra. Maya Nunes,1,95,67,88
+82,Dra. Maya Nunes,2,79,64,86
+82,Dra. Maya Nunes,3,78,69,56
+82,Dra. Maya Nunes,4,100,59,87
+82,Dra. Maya Nunes,5,99,52,89
+82,Dra. Maya Nunes,6,70,47,85
+82,Dra. Maya Nunes,7,77,61,80
+82,Dra. Maya Nunes,8,77,66,76
+83,Sr. Leandro da Rosa,1,68,83,73
+83,Sr. Leandro da Rosa,2,75,71,48
+83,Sr. Leandro da Rosa,3,81,80,73
+83,Sr. Leandro da Rosa,4,92,100,65
+83,Sr. Leandro da Rosa,5,93,68,59
+83,Sr. Leandro da Rosa,6,73,68,41
+83,Sr. Leandro da Rosa,7,88,85,61
+83,Sr. Leandro da Rosa,8,85,60,40
+84,Aurora Aragão,1,66,36,59
+84,Aurora Aragão,2,63,5,37
+84,Aurora Aragão,3,82,29,48
+84,Aurora Aragão,4,68,29,31
+84,Aurora Aragão,5,82,29,38
+84,Aurora Aragão,6,77,12,24
+84,Aurora Aragão,7,81,19,54
+84,Aurora Aragão,8,64,17,32
+85,Sr. Ravy da Cruz,1,46,45,70
+85,Sr. Ravy da Cruz,2,45,58,59
+85,Sr. Ravy da Cruz,3,53,56,72
+85,Sr. Ravy da Cruz,4,65,33,86
+85,Sr. Ravy da Cruz,5,51,28,63
+85,Sr. Ravy da Cruz,6,71,62,81
+85,Sr. Ravy da Cruz,7,35,55,81
+85,Sr. Ravy da Cruz,8,37,31,59
+86,Rafael Nascimento,1,99,1,0
+86,Rafael Nascimento,2,95,18,1
+86,Rafael Nascimento,3,86,17,23
+86,Rafael Nascimento,4,90,1,0
+86,Rafael Nascimento,5,92,0,0
+86,Rafael Nascimento,6,73,0,0
+86,Rafael Nascimento,7,71,0,0
+86,Rafael Nascimento,8,95,0,0
+87,Dra. Anna Liz Albuquerque,1,61,75,47
+87,Dra. Anna Liz Albuquerque,2,55,94,73
+87,Dra. Anna Liz Albuquerque,3,88,58,73
+87,Dra. Anna Liz Albuquerque,4,63,65,71
+87,Dra. Anna Liz Albuquerque,5,54,90,47
+87,Dra. Anna Liz Albuquerque,6,94,61,45
+87,Dra. Anna Liz Albuquerque,7,80,75,40
+87,Dra. Anna Liz Albuquerque,8,93,65,74
+88,Sr. Luiz Felipe Fernandes,1,37,71,60
+88,Sr. Luiz Felipe Fernandes,2,44,100,46
+88,Sr. Luiz Felipe Fernandes,3,35,79,60
+88,Sr. Luiz Felipe Fernandes,4,34,73,70
+88,Sr. Luiz Felipe Fernandes,5,11,87,81
+88,Sr. Luiz Felipe Fernandes,6,42,76,57
+88,Sr. Luiz Felipe Fernandes,7,23,77,65
+88,Sr. Luiz Felipe Fernandes,8,35,100,78
+89,Theo Costela,1,62,81,59
+89,Theo Costela,2,29,63,77
+89,Theo Costela,3,48,62,46
+89,Theo Costela,4,33,89,69
+89,Theo Costela,5,56,58,77
+89,Theo Costela,6,50,66,45
+89,Theo Costela,7,59,80,70
+89,Theo Costela,8,42,75,65
+90,Beatriz Macedo,1,57,30,63
+90,Beatriz Macedo,2,56,36,73
+90,Beatriz Macedo,3,47,27,89
+90,Beatriz Macedo,4,53,21,78
+90,Beatriz Macedo,5,55,18,79
+90,Beatriz Macedo,6,41,23,85
+90,Beatriz Macedo,7,51,28,52
+90,Beatriz Macedo,8,33,27,54
+91,Anna Liz Rocha,1,54,4,40
+91,Anna Liz Rocha,2,68,19,56
+91,Anna Liz Rocha,3,68,30,34
+91,Anna Liz Rocha,4,61,30,56
+91,Anna Liz Rocha,5,66,7,36
+91,Anna Liz Rocha,6,39,0,38
+91,Anna Liz Rocha,7,48,3,61
+91,Anna Liz Rocha,8,36,1,38
+92,Nicolas Jesus,1,56,63,22
+92,Nicolas Jesus,2,60,72,0
+92,Nicolas Jesus,3,29,89,14
+92,Nicolas Jesus,4,46,100,16
+92,Nicolas Jesus,5,65,93,13
+92,Nicolas Jesus,6,60,73,22
+92,Nicolas Jesus,7,64,80,22
+92,Nicolas Jesus,8,50,85,0
+93,Francisco Viana,1,100,87,89
+93,Francisco Viana,2,84,94,77
+93,Francisco Viana,3,100,69,67
+93,Francisco Viana,4,100,89,72
+93,Francisco Viana,5,100,71,59
+93,Francisco Viana,6,100,80,84
+93,Francisco Viana,7,94,84,85
+93,Francisco Viana,8,82,64,91
+94,Maria Sophia Aragão,1,56,15,59
+94,Maria Sophia Aragão,2,82,14,78
+94,Maria Sophia Aragão,3,87,18,58
+94,Maria Sophia Aragão,4,73,0,63
+94,Maria Sophia Aragão,5,51,13,62
+94,Maria Sophia Aragão,6,57,17,82
+94,Maria Sophia Aragão,7,77,18,79
+94,Maria Sophia Aragão,8,53,0,53
+95,Henry Gabriel Moraes,1,46,31,5
+95,Henry Gabriel Moraes,2,34,38,3
+95,Henry Gabriel Moraes,3,27,16,17
+95,Henry Gabriel Moraes,4,33,27,6
+95,Henry Gabriel Moraes,5,49,17,10
+95,Henry Gabriel Moraes,6,49,32,13
+95,Henry Gabriel Moraes,7,10,29,31
+95,Henry Gabriel Moraes,8,28,15,29
+96,Ryan Almeida,1,19,96,50
+96,Ryan Almeida,2,39,79,34
+96,Ryan Almeida,3,27,89,47
+96,Ryan Almeida,4,24,84,51
+96,Ryan Almeida,5,41,77,31
+96,Ryan Almeida,6,24,75,53
+96,Ryan Almeida,7,41,99,32
+96,Ryan Almeida,8,39,68,20
+97,Nathan Sá,1,76,60,48
+97,Nathan Sá,2,66,89,36
+97,Nathan Sá,3,67,78,41
+97,Nathan Sá,4,78,80,26
+97,Nathan Sá,5,63,84,55
+97,Nathan Sá,6,93,71,65
+97,Nathan Sá,7,91,64,26
+97,Nathan Sá,8,94,59,55
+98,Maria Fernanda Campos,1,100,40,93
+98,Maria Fernanda Campos,2,79,69,83
+98,Maria Fernanda Campos,3,98,51,100
+98,Maria Fernanda Campos,4,82,47,94
+98,Maria Fernanda Campos,5,100,41,100
+98,Maria Fernanda Campos,6,69,58,100
+98,Maria Fernanda Campos,7,100,49,94
+98,Maria Fernanda Campos,8,84,60,79
+99,Heloisa da Rosa,1,100,100,35
+99,Heloisa da Rosa,2,69,100,40
+99,Heloisa da Rosa,3,73,100,18
+99,Heloisa da Rosa,4,79,84,30
+99,Heloisa da Rosa,5,82,80,39
+99,Heloisa da Rosa,6,93,98,42
+99,Heloisa da Rosa,7,95,100,7
+99,Heloisa da Rosa,8,88,93,30
+100,Mateus Novais,1,61,24,6
+100,Mateus Novais,2,61,7,38
+100,Mateus Novais,3,51,4,6
+100,Mateus Novais,4,54,4,31
+100,Mateus Novais,5,76,12,12
+100,Mateus Novais,6,74,22,16
+100,Mateus Novais,7,91,0,31
+100,Mateus Novais,8,71,0,11
+101,Josué Correia,1,42,33,99
+101,Josué Correia,2,52,56,100
+101,Josué Correia,3,34,69,95
+101,Josué Correia,4,64,48,89
+101,Josué Correia,5,55,35,90
+101,Josué Correia,6,49,59,99
+101,Josué Correia,7,62,57,100
+101,Josué Correia,8,68,61,89
+102,Isaque Pires,1,17,70,24
+102,Isaque Pires,2,43,66,22
+102,Isaque Pires,3,8,71,22
+102,Isaque Pires,4,38,85,26
+102,Isaque Pires,5,40,85,21
+102,Isaque Pires,6,30,92,4
+102,Isaque Pires,7,27,65,24
+102,Isaque Pires,8,26,81,6
+103,Nathan Aparecida,1,68,17,35
+103,Nathan Aparecida,2,53,38,35
+103,Nathan Aparecida,3,52,40,20
+103,Nathan Aparecida,4,79,39,40
+103,Nathan Aparecida,5,73,12,38
+103,Nathan Aparecida,6,50,19,12
+103,Nathan Aparecida,7,79,39,23
+103,Nathan Aparecida,8,83,19,38
+104,João da Mota,1,77,67,37
+104,João da Mota,2,58,97,54
+104,João da Mota,3,57,84,30
+104,João da Mota,4,76,63,40
+104,João da Mota,5,80,100,18
+104,João da Mota,6,54,92,22
+104,João da Mota,7,69,67,29
+104,João da Mota,8,79,96,54
+105,Pedro Leão,1,42,11,38
+105,Pedro Leão,2,44,1,49
+105,Pedro Leão,3,45,0,37
+105,Pedro Leão,4,48,0,28
+105,Pedro Leão,5,16,0,60
+105,Pedro Leão,6,48,8,31
+105,Pedro Leão,7,15,15,33
+105,Pedro Leão,8,22,8,63
+106,João Gabriel Porto,1,79,57,38
+106,João Gabriel Porto,2,71,64,54
+106,João Gabriel Porto,3,69,49,54
+106,João Gabriel Porto,4,62,57,50
+106,João Gabriel Porto,5,75,54,53
+106,João Gabriel Porto,6,51,47,42
+106,João Gabriel Porto,7,51,41,32
+106,João Gabriel Porto,8,85,39,51
+107,André Brito,1,91,71,100
+107,André Brito,2,80,87,87
+107,André Brito,3,100,91,75
+107,André Brito,4,89,81,100
+107,André Brito,5,95,97,97
+107,André Brito,6,80,83,89
+107,André Brito,7,100,84,100
+107,André Brito,8,100,100,78
+108,Mariane Albuquerque,1,54,8,16
+108,Mariane Albuquerque,2,81,24,20
+108,Mariane Albuquerque,3,89,37,18
+108,Mariane Albuquerque,4,63,18,12
+108,Mariane Albuquerque,5,55,3,16
+108,Mariane Albuquerque,6,52,26,15
+108,Mariane Albuquerque,7,54,24,36
+108,Mariane Albuquerque,8,86,14,19
+109,Aylla Borges,1,54,64,50
+109,Aylla Borges,2,69,67,65
+109,Aylla Borges,3,75,71,63
+109,Aylla Borges,4,54,86,65
+109,Aylla Borges,5,53,81,51
+109,Aylla Borges,6,41,62,62
+109,Aylla Borges,7,50,68,75
+109,Aylla Borges,8,64,80,60
+110,Dr. Léo Fernandes,1,100,41,1
+110,Dr. Léo Fernandes,2,96,34,15
+110,Dr. Léo Fernandes,3,87,70,12
+110,Dr. Léo Fernandes,4,100,55,27
+110,Dr. Léo Fernandes,5,84,48,14
+110,Dr. Léo Fernandes,6,100,67,11
+110,Dr. Léo Fernandes,7,81,48,5
+110,Dr. Léo Fernandes,8,84,63,5
+111,Rafael Cassiano,1,38,100,8
+111,Rafael Cassiano,2,43,95,6
+111,Rafael Cassiano,3,6,82,30
+111,Rafael Cassiano,4,42,89,30
+111,Rafael Cassiano,5,16,96,27
+111,Rafael Cassiano,6,44,74,3
+111,Rafael Cassiano,7,7,84,31
+111,Rafael Cassiano,8,17,77,27
+112,Anthony da Rocha,1,79,68,64
+112,Anthony da Rocha,2,81,65,72
+112,Anthony da Rocha,3,65,93,71
+112,Anthony da Rocha,4,64,73,74
+112,Anthony da Rocha,5,100,88,68
+112,Anthony da Rocha,6,73,60,69
+112,Anthony da Rocha,7,78,86,86
+112,Anthony da Rocha,8,73,80,65
+113,Clarice Ramos,1,88,27,1
+113,Clarice Ramos,2,93,41,16
+113,Clarice Ramos,3,89,24,3
+113,Clarice Ramos,4,88,20,25
+113,Clarice Ramos,5,100,53,7
+113,Clarice Ramos,6,100,36,8
+113,Clarice Ramos,7,96,46,5
+113,Clarice Ramos,8,87,39,12
+114,Sr. Theodoro Souza,1,44,44,25
+114,Sr. Theodoro Souza,2,65,64,38
+114,Sr. Theodoro Souza,3,70,58,27
+114,Sr. Theodoro Souza,4,46,32,31
+114,Sr. Theodoro Souza,5,40,66,19
+114,Sr. Theodoro Souza,6,62,56,28
+114,Sr. Theodoro Souza,7,39,43,23
+114,Sr. Theodoro Souza,8,42,44,55
+115,Aurora Cassiano,1,44,40,2
+115,Aurora Cassiano,2,38,27,13
+115,Aurora Cassiano,3,56,56,8
+115,Aurora Cassiano,4,41,34,26
+115,Aurora Cassiano,5,40,54,0
+115,Aurora Cassiano,6,57,61,10
+115,Aurora Cassiano,7,24,58,0
+115,Aurora Cassiano,8,38,41,0
+116,Miguel Castro,1,73,34,78
+116,Miguel Castro,2,80,6,51
+116,Miguel Castro,3,82,34,45
+116,Miguel Castro,4,72,20,43
+116,Miguel Castro,5,58,40,59
+116,Miguel Castro,6,83,1,78
+116,Miguel Castro,7,78,5,73
+116,Miguel Castro,8,83,15,67
+117,Nicolas Alves,1,66,100,15
+117,Nicolas Alves,2,64,85,11
+117,Nicolas Alves,3,90,98,11
+117,Nicolas Alves,4,87,71,10
+117,Nicolas Alves,5,64,100,27
+117,Nicolas Alves,6,70,76,6
+117,Nicolas Alves,7,98,100,30
+117,Nicolas Alves,8,65,85,23
+118,Ana Liz Ribeiro,1,100,51,18
+118,Ana Liz Ribeiro,2,100,65,39
+118,Ana Liz Ribeiro,3,100,71,36
+118,Ana Liz Ribeiro,4,100,53,9
+118,Ana Liz Ribeiro,5,100,59,24
+118,Ana Liz Ribeiro,6,95,69,8
+118,Ana Liz Ribeiro,7,100,70,37
+118,Ana Liz Ribeiro,8,88,64,35
+119,Sra. Maria Clara Silveira,1,76,49,37
+119,Sra. Maria Clara Silveira,2,76,38,19
+119,Sra. Maria Clara Silveira,3,96,24,51
+119,Sra. Maria Clara Silveira,4,74,46,15
+119,Sra. Maria Clara Silveira,5,96,54,28
+119,Sra. Maria Clara Silveira,6,79,44,31
+119,Sra. Maria Clara Silveira,7,97,53,41
+119,Sra. Maria Clara Silveira,8,66,18,41
+120,Thomas Freitas,1,54,24,39
+120,Thomas Freitas,2,69,43,51
+120,Thomas Freitas,3,40,10,52
+120,Thomas Freitas,4,55,23,44
+120,Thomas Freitas,5,42,33,64
+120,Thomas Freitas,6,63,24,43
+120,Thomas Freitas,7,45,9,44
+120,Thomas Freitas,8,46,17,64
+121,Ísis Siqueira,1,31,77,24
+121,Ísis Siqueira,2,11,88,63
+121,Ísis Siqueira,3,51,94,39
+121,Ísis Siqueira,4,39,92,63
+121,Ísis Siqueira,5,40,80,62
+121,Ísis Siqueira,6,48,75,28
+121,Ísis Siqueira,7,28,100,33
+121,Ísis Siqueira,8,31,85,43
+122,Augusto Monteiro,1,56,0,89
+122,Augusto Monteiro,2,54,20,82
+122,Augusto Monteiro,3,47,14,85
+122,Augusto Monteiro,4,67,8,55
+122,Augusto Monteiro,5,69,10,66
+122,Augusto Monteiro,6,67,0,80
+122,Augusto Monteiro,7,39,0,90
+122,Augusto Monteiro,8,32,22,68
+123,Heloisa Moreira,1,27,26,54
+123,Heloisa Moreira,2,16,50,62
+123,Heloisa Moreira,3,32,47,39
+123,Heloisa Moreira,4,47,25,65
+123,Heloisa Moreira,5,37,39,75
+123,Heloisa Moreira,6,41,53,64
+123,Heloisa Moreira,7,45,37,54
+123,Heloisa Moreira,8,47,62,74
+124,Luiz Gustavo Rodrigues,1,75,83,77
+124,Luiz Gustavo Rodrigues,2,76,50,68
+124,Luiz Gustavo Rodrigues,3,48,74,69
+124,Luiz Gustavo Rodrigues,4,58,60,51
+124,Luiz Gustavo Rodrigues,5,58,48,77
+124,Luiz Gustavo Rodrigues,6,67,76,61
+124,Luiz Gustavo Rodrigues,7,45,65,43
+124,Luiz Gustavo Rodrigues,8,71,73,58
+125,Alícia Aragão,1,13,68,15
+125,Alícia Aragão,2,17,42,44
+125,Alícia Aragão,3,30,62,19
+125,Alícia Aragão,4,43,68,17
+125,Alícia Aragão,5,29,60,33
+125,Alícia Aragão,6,28,69,37
+125,Alícia Aragão,7,35,81,50
+125,Alícia Aragão,8,36,69,23
+126,Lívia Silveira,1,58,93,100
+126,Lívia Silveira,2,70,100,77
+126,Lívia Silveira,3,75,100,94
+126,Lívia Silveira,4,53,74,86
+126,Lívia Silveira,5,74,100,100
+126,Lívia Silveira,6,60,78,100
+126,Lívia Silveira,7,63,74,100
+126,Lívia Silveira,8,58,96,100
+127,Dr. João Pedro Borges,1,52,84,73
+127,Dr. João Pedro Borges,2,67,66,72
+127,Dr. João Pedro Borges,3,74,95,66
+127,Dr. João Pedro Borges,4,83,68,79
+127,Dr. João Pedro Borges,5,75,78,73
+127,Dr. João Pedro Borges,6,58,67,63
+127,Dr. João Pedro Borges,7,72,94,81
+127,Dr. João Pedro Borges,8,75,97,64
+128,Vitor Hugo Siqueira,1,99,13,2
+128,Vitor Hugo Siqueira,2,78,0,0
+128,Vitor Hugo Siqueira,3,100,0,4
+128,Vitor Hugo Siqueira,4,100,0,14
+128,Vitor Hugo Siqueira,5,78,10,19
+128,Vitor Hugo Siqueira,6,76,20,0
+128,Vitor Hugo Siqueira,7,92,0,8
+128,Vitor Hugo Siqueira,8,79,25,10
+129,Hellena Duarte,1,100,98,28
+129,Hellena Duarte,2,100,92,30
+129,Hellena Duarte,3,85,100,17
+129,Hellena Duarte,4,95,99,36
+129,Hellena Duarte,5,100,93,37
+129,Hellena Duarte,6,89,100,25
+129,Hellena Duarte,7,85,100,24
+129,Hellena Duarte,8,94,100,23
+130,Sr. Miguel Freitas,1,78,7,0
+130,Sr. Miguel Freitas,2,64,7,5
+130,Sr. Miguel Freitas,3,70,17,17
+130,Sr. Miguel Freitas,4,59,0,0
+130,Sr. Miguel Freitas,5,75,0,0
+130,Sr. Miguel Freitas,6,67,6,2
+130,Sr. Miguel Freitas,7,85,0,0
+130,Sr. Miguel Freitas,8,63,0,0
+131,Ana Carolina Vieira,1,65,80,87
+131,Ana Carolina Vieira,2,65,51,71
+131,Ana Carolina Vieira,3,72,68,74
+131,Ana Carolina Vieira,4,71,70,88
+131,Ana Carolina Vieira,5,73,59,70
+131,Ana Carolina Vieira,6,75,73,71
+131,Ana Carolina Vieira,7,62,54,100
+131,Ana Carolina Vieira,8,75,75,79
+132,Leonardo Souza,1,42,18,93
+132,Leonardo Souza,2,54,0,93
+132,Leonardo Souza,3,57,5,71
+132,Leonardo Souza,4,49,1,97
+132,Leonardo Souza,5,67,4,85
+132,Leonardo Souza,6,58,0,96
+132,Leonardo Souza,7,38,12,88
+132,Leonardo Souza,8,37,19,63
+133,Ravi Lucca Câmara,1,89,47,50
+133,Ravi Lucca Câmara,2,66,41,49
+133,Ravi Lucca Câmara,3,97,70,34
+133,Ravi Lucca Câmara,4,76,42,45
+133,Ravi Lucca Câmara,5,68,60,34
+133,Ravi Lucca Câmara,6,95,44,49
+133,Ravi Lucca Câmara,7,61,55,73
+133,Ravi Lucca Câmara,8,72,74,35
+134,Luiz Fernando Mendes,1,36,21,24
+134,Luiz Fernando Mendes,2,31,7,24
+134,Luiz Fernando Mendes,3,40,23,29
+134,Luiz Fernando Mendes,4,19,37,3
+134,Luiz Fernando Mendes,5,29,2,15
+134,Luiz Fernando Mendes,6,38,15,0
+134,Luiz Fernando Mendes,7,48,25,32
+134,Luiz Fernando Mendes,8,50,40,24
+135,Maria Clara Fogaça,1,100,8,0
+135,Maria Clara Fogaça,2,100,6,11
+135,Maria Clara Fogaça,3,100,0,11
+135,Maria Clara Fogaça,4,100,0,21
+135,Maria Clara Fogaça,5,96,21,0
+135,Maria Clara Fogaça,6,86,0,0
+135,Maria Clara Fogaça,7,77,0,17
+135,Maria Clara Fogaça,8,91,1,23
+136,Helena Ribeiro,1,77,52,95
+136,Helena Ribeiro,2,86,30,98
+136,Helena Ribeiro,3,74,41,76
+136,Helena Ribeiro,4,95,22,96
+136,Helena Ribeiro,5,100,30,68
+136,Helena Ribeiro,6,81,29,74
+136,Helena Ribeiro,7,100,15,59
+136,Helena Ribeiro,8,93,53,79
+137,Mateus Moreira,1,83,19,81
+137,Mateus Moreira,2,94,3,73
+137,Mateus Moreira,3,100,23,89
+137,Mateus Moreira,4,98,27,62
+137,Mateus Moreira,5,79,36,83
+137,Mateus Moreira,6,84,14,72
+137,Mateus Moreira,7,66,2,72
+137,Mateus Moreira,8,87,32,90
+138,Ravi Lucca Machado,1,40,18,66
+138,Ravi Lucca Machado,2,45,0,57
+138,Ravi Lucca Machado,3,8,0,49
+138,Ravi Lucca Machado,4,37,0,51
+138,Ravi Lucca Machado,5,24,22,82
+138,Ravi Lucca Machado,6,13,4,71
+138,Ravi Lucca Machado,7,34,9,54
+138,Ravi Lucca Machado,8,40,15,68
+139,Bernardo Fonseca,1,49,73,0
+139,Bernardo Fonseca,2,22,95,3
+139,Bernardo Fonseca,3,48,73,8
+139,Bernardo Fonseca,4,18,91,4
+139,Bernardo Fonseca,5,24,87,2
+139,Bernardo Fonseca,6,32,95,0
+139,Bernardo Fonseca,7,27,72,5
+139,Bernardo Fonseca,8,50,90,0
+140,Sophie Nogueira,1,75,65,0
+140,Sophie Nogueira,2,75,53,0
+140,Sophie Nogueira,3,79,42,8
+140,Sophie Nogueira,4,100,62,0
+140,Sophie Nogueira,5,96,49,0
+140,Sophie Nogueira,6,89,69,14
+140,Sophie Nogueira,7,81,56,0
+140,Sophie Nogueira,8,89,39,27
+141,Marcos Vinicius Dias,1,87,16,21
+141,Marcos Vinicius Dias,2,79,13,32
+141,Marcos Vinicius Dias,3,76,18,21
+141,Marcos Vinicius Dias,4,90,15,27
+141,Marcos Vinicius Dias,5,70,2,17
+141,Marcos Vinicius Dias,6,76,20,17
+141,Marcos Vinicius Dias,7,72,15,0
+141,Marcos Vinicius Dias,8,66,35,9
+142,Srta. Luna Vasconcelos,1,91,69,44
+142,Srta. Luna Vasconcelos,2,100,79,19
+142,Srta. Luna Vasconcelos,3,70,95,13
+142,Srta. Luna Vasconcelos,4,84,91,42
+142,Srta. Luna Vasconcelos,5,96,96,13
+142,Srta. Luna Vasconcelos,6,74,63,45
+142,Srta. Luna Vasconcelos,7,86,64,15
+142,Srta. Luna Vasconcelos,8,74,87,36
+143,Davi Lucas da Cunha,1,84,67,74
+143,Davi Lucas da Cunha,2,65,57,100
+143,Davi Lucas da Cunha,3,71,67,83
+143,Davi Lucas da Cunha,4,83,62,100
+143,Davi Lucas da Cunha,5,72,68,93
+143,Davi Lucas da Cunha,6,85,67,98
+143,Davi Lucas da Cunha,7,66,69,85
+143,Davi Lucas da Cunha,8,78,55,100
+144,Vinícius Cunha,1,34,80,10
+144,Vinícius Cunha,2,51,79,37
+144,Vinícius Cunha,3,39,57,14
+144,Vinícius Cunha,4,25,78,41
+144,Vinícius Cunha,5,42,89,31
+144,Vinícius Cunha,6,33,77,31
+144,Vinícius Cunha,7,18,89,31
+144,Vinícius Cunha,8,39,85,27
+145,Ana Cecília Lopes,1,19,68,100
+145,Ana Cecília Lopes,2,7,66,98
+145,Ana Cecília Lopes,3,10,96,100
+145,Ana Cecília Lopes,4,42,88,84
+145,Ana Cecília Lopes,5,34,62,85
+145,Ana Cecília Lopes,6,41,79,82
+145,Ana Cecília Lopes,7,13,74,96
+145,Ana Cecília Lopes,8,33,83,100
+146,Nicolas Monteiro,1,11,7,100
+146,Nicolas Monteiro,2,45,0,91
+146,Nicolas Monteiro,3,11,19,100
+146,Nicolas Monteiro,4,38,8,83
+146,Nicolas Monteiro,5,31,29,96
+146,Nicolas Monteiro,6,30,29,95
+146,Nicolas Monteiro,7,41,30,91
+146,Nicolas Monteiro,8,39,25,93
+147,Ana Vitória Nunes,1,67,100,53
+147,Ana Vitória Nunes,2,32,100,59
+147,Ana Vitória Nunes,3,40,96,29
+147,Ana Vitória Nunes,4,57,83,44
+147,Ana Vitória Nunes,5,56,82,32
+147,Ana Vitória Nunes,6,50,100,28
+147,Ana Vitória Nunes,7,46,100,56
+147,Ana Vitória Nunes,8,38,90,63
+148,Erick Rios,1,68,0,69
+148,Erick Rios,2,87,0,89
+148,Erick Rios,3,72,0,84
+148,Erick Rios,4,86,0,55
+148,Erick Rios,5,67,12,77
+148,Erick Rios,6,73,0,61
+148,Erick Rios,7,70,1,82
+148,Erick Rios,8,70,0,61
+149,Lorenzo Brito,1,38,62,23
+149,Lorenzo Brito,2,22,74,39
+149,Lorenzo Brito,3,40,56,27
+149,Lorenzo Brito,4,56,86,42
+149,Lorenzo Brito,5,56,93,8
+149,Lorenzo Brito,6,29,93,19
+149,Lorenzo Brito,7,39,65,33
+149,Lorenzo Brito,8,50,81,20
+150,Alana Moura,1,53,50,39
+150,Alana Moura,2,33,62,31
+150,Alana Moura,3,48,38,16
+150,Alana Moura,4,53,38,27
+150,Alana Moura,5,60,66,9
+150,Alana Moura,6,60,41,41
+150,Alana Moura,7,25,53,31
+150,Alana Moura,8,44,39,31
+151,Pietro Costela,1,24,38,53
+151,Pietro Costela,2,23,46,45
+151,Pietro Costela,3,36,39,46
+151,Pietro Costela,4,23,20,40
+151,Pietro Costela,5,30,35,57
+151,Pietro Costela,6,47,26,43
+151,Pietro Costela,7,34,44,51
+151,Pietro Costela,8,32,21,38
+152,Natália Rocha,1,65,77,60
+152,Natália Rocha,2,70,54,65
+152,Natália Rocha,3,85,59,45
+152,Natália Rocha,4,80,59,50
+152,Natália Rocha,5,78,86,69
+152,Natália Rocha,6,83,58,81
+152,Natália Rocha,7,90,84,75
+152,Natália Rocha,8,79,71,77
+153,Dr. Juan Rezende,1,100,74,9
+153,Dr. Juan Rezende,2,100,94,28
+153,Dr. Juan Rezende,3,100,85,16
+153,Dr. Juan Rezende,4,86,97,17
+153,Dr. Juan Rezende,5,100,74,43
+153,Dr. Juan Rezende,6,100,69,39
+153,Dr. Juan Rezende,7,92,76,20
+153,Dr. Juan Rezende,8,100,64,30
+154,Melissa da Mota,1,95,7,53
+154,Melissa da Mota,2,96,16,48
+154,Melissa da Mota,3,70,0,67
+154,Melissa da Mota,4,71,0,49
+154,Melissa da Mota,5,62,16,76
+154,Melissa da Mota,6,93,0,56
+154,Melissa da Mota,7,69,0,55
+154,Melissa da Mota,8,70,27,58
+155,Benjamim Castro,1,100,28,97
+155,Benjamim Castro,2,85,6,84
+155,Benjamim Castro,3,94,38,82
+155,Benjamim Castro,4,85,38,94
+155,Benjamim Castro,5,100,36,79
+155,Benjamim Castro,6,90,6,100
+155,Benjamim Castro,7,86,34,75
+155,Benjamim Castro,8,75,21,64
+156,Ana Andrade,1,64,7,69
+156,Ana Andrade,2,77,6,79
+156,Ana Andrade,3,61,0,78
+156,Ana Andrade,4,64,4,68
+156,Ana Andrade,5,81,0,75
+156,Ana Andrade,6,50,0,64
+156,Ana Andrade,7,89,0,59
+156,Ana Andrade,8,53,0,84
+157,Igor Castro,1,58,93,0
+157,Igor Castro,2,46,65,11
+157,Igor Castro,3,56,99,3
+157,Igor Castro,4,66,71,0
+157,Igor Castro,5,52,89,0
+157,Igor Castro,6,56,91,0
+157,Igor Castro,7,52,89,0
+157,Igor Castro,8,38,70,0
+158,Alice Novaes,1,67,31,24
+158,Alice Novaes,2,66,16,37
+158,Alice Novaes,3,52,29,4
+158,Alice Novaes,4,52,15,38
+158,Alice Novaes,5,39,29,28
+158,Alice Novaes,6,51,37,40
+158,Alice Novaes,7,70,15,20
+158,Alice Novaes,8,43,24,6
+159,Vitória Moreira,1,53,100,4
+159,Vitória Moreira,2,79,75,0
+159,Vitória Moreira,3,69,82,29
+159,Vitória Moreira,4,57,73,24
+159,Vitória Moreira,5,70,91,25
+159,Vitória Moreira,6,88,97,30
+159,Vitória Moreira,7,91,99,26
+159,Vitória Moreira,8,80,96,15
+160,Valentim Andrade,1,47,40,40
+160,Valentim Andrade,2,64,53,44
+160,Valentim Andrade,3,55,52,21
+160,Valentim Andrade,4,63,37,40
+160,Valentim Andrade,5,53,19,50
+160,Valentim Andrade,6,52,44,33
+160,Valentim Andrade,7,42,32,35
+160,Valentim Andrade,8,74,48,31
+161,Ravi Lucca Freitas,1,97,20,96
+161,Ravi Lucca Freitas,2,70,14,96
+161,Ravi Lucca Freitas,3,68,24,96
+161,Ravi Lucca Freitas,4,64,32,100
+161,Ravi Lucca Freitas,5,97,24,86
+161,Ravi Lucca Freitas,6,94,24,100
+161,Ravi Lucca Freitas,7,86,39,79
+161,Ravi Lucca Freitas,8,96,16,90
+162,Sr. Antônio Marques,1,70,29,73
+162,Sr. Antônio Marques,2,45,14,66
+162,Sr. Antônio Marques,3,63,31,42
+162,Sr. Antônio Marques,4,47,40,38
+162,Sr. Antônio Marques,5,57,22,44
+162,Sr. Antônio Marques,6,35,30,38
+162,Sr. Antônio Marques,7,66,42,45
+162,Sr. Antônio Marques,8,57,12,73
+163,Arthur Miguel Marques,1,82,100,78
+163,Arthur Miguel Marques,2,84,100,75
+163,Arthur Miguel Marques,3,74,100,54
+163,Arthur Miguel Marques,4,73,84,75
+163,Arthur Miguel Marques,5,68,93,52
+163,Arthur Miguel Marques,6,78,100,70
+163,Arthur Miguel Marques,7,86,100,43
+163,Arthur Miguel Marques,8,65,100,40
+164,Dra. Allana Cirino,1,61,100,65
+164,Dra. Allana Cirino,2,54,92,44
+164,Dra. Allana Cirino,3,40,90,52
+164,Dra. Allana Cirino,4,29,100,48
+164,Dra. Allana Cirino,5,43,94,35
+164,Dra. Allana Cirino,6,61,100,53
+164,Dra. Allana Cirino,7,32,82,63
+164,Dra. Allana Cirino,8,22,100,57
+165,Dra. Maria Pereira,1,97,86,9
+165,Dra. Maria Pereira,2,86,100,16
+165,Dra. Maria Pereira,3,70,91,43
+165,Dra. Maria Pereira,4,73,84,18
+165,Dra. Maria Pereira,5,72,77,29
+165,Dra. Maria Pereira,6,64,100,13
+165,Dra. Maria Pereira,7,88,100,43
+165,Dra. Maria Pereira,8,65,94,23
+166,Ester Camargo,1,48,26,38
+166,Ester Camargo,2,58,0,31
+166,Ester Camargo,3,59,14,37
+166,Ester Camargo,4,47,0,42
+166,Ester Camargo,5,55,6,31
+166,Ester Camargo,6,48,0,52
+166,Ester Camargo,7,32,17,32
+166,Ester Camargo,8,48,0,57
+167,Gabriel Freitas,1,16,71,64
+167,Gabriel Freitas,2,15,71,47
+167,Gabriel Freitas,3,11,61,66
+167,Gabriel Freitas,4,6,70,64
+167,Gabriel Freitas,5,38,54,56
+167,Gabriel Freitas,6,34,64,77
+167,Gabriel Freitas,7,19,68,53
+167,Gabriel Freitas,8,35,58,39
+168,Raquel Machado,1,75,80,43
+168,Raquel Machado,2,87,67,68
+168,Raquel Machado,3,92,86,56
+168,Raquel Machado,4,67,63,34
+168,Raquel Machado,5,89,67,49
+168,Raquel Machado,6,85,90,47
+168,Raquel Machado,7,85,63,69
+168,Raquel Machado,8,99,61,42
+169,Davi Luiz Carvalho,1,100,100,88
+169,Davi Luiz Carvalho,2,100,65,64
+169,Davi Luiz Carvalho,3,100,80,82
+169,Davi Luiz Carvalho,4,100,87,61
+169,Davi Luiz Carvalho,5,86,89,83
+169,Davi Luiz Carvalho,6,100,67,91
+169,Davi Luiz Carvalho,7,87,98,72
+169,Davi Luiz Carvalho,8,100,97,87
+170,Júlia Macedo,1,51,62,25
+170,Júlia Macedo,2,62,60,20
+170,Júlia Macedo,3,45,40,0
+170,Júlia Macedo,4,67,68,0
+170,Júlia Macedo,5,63,35,19
+170,Júlia Macedo,6,72,56,23
+170,Júlia Macedo,7,36,62,21
+170,Júlia Macedo,8,39,54,30
+171,Pedro Miguel Farias,1,79,37,27
+171,Pedro Miguel Farias,2,100,39,39
+171,Pedro Miguel Farias,3,100,42,43
+171,Pedro Miguel Farias,4,100,25,13
+171,Pedro Miguel Farias,5,91,34,29
+171,Pedro Miguel Farias,6,93,26,42
+171,Pedro Miguel Farias,7,82,12,17
+171,Pedro Miguel Farias,8,100,36,15
+172,João Pedro Silva,1,59,100,0
+172,João Pedro Silva,2,65,100,0
+172,João Pedro Silva,3,69,100,18
+172,João Pedro Silva,4,83,86,0
+172,João Pedro Silva,5,89,100,3
+172,João Pedro Silva,6,65,93,16
+172,João Pedro Silva,7,89,100,23
+172,João Pedro Silva,8,83,80,11
+173,Guilherme Pires,1,38,51,44
+173,Guilherme Pires,2,5,31,45
+173,Guilherme Pires,3,33,60,52
+173,Guilherme Pires,4,26,38,44
+173,Guilherme Pires,5,19,43,29
+173,Guilherme Pires,6,6,39,37
+173,Guilherme Pires,7,38,34,40
+173,Guilherme Pires,8,43,50,51
+174,Ryan Pacheco,1,15,38,50
+174,Ryan Pacheco,2,38,33,60
+174,Ryan Pacheco,3,49,17,50
+174,Ryan Pacheco,4,53,29,28
+174,Ryan Pacheco,5,37,19,37
+174,Ryan Pacheco,6,52,42,30
+174,Ryan Pacheco,7,43,42,44
+174,Ryan Pacheco,8,16,37,51
+175,Júlia Monteiro,1,79,76,62
+175,Júlia Monteiro,2,70,61,41
+175,Júlia Monteiro,3,92,37,67
+175,Júlia Monteiro,4,79,39,62
+175,Júlia Monteiro,5,91,55,56
+175,Júlia Monteiro,6,90,49,47
+175,Júlia Monteiro,7,88,76,55
+175,Júlia Monteiro,8,71,75,33
+176,Luísa da Conceição,1,100,22,29
+176,Luísa da Conceição,2,91,19,6
+176,Luísa da Conceição,3,77,24,4
+176,Luísa da Conceição,4,93,17,18
+176,Luísa da Conceição,5,82,4,12
+176,Luísa da Conceição,6,100,0,19
+176,Luísa da Conceição,7,71,31,3
+176,Luísa da Conceição,8,97,32,6
+177,Yuri Fonseca,1,84,29,26
+177,Yuri Fonseca,2,96,24,28
+177,Yuri Fonseca,3,94,28,32
+177,Yuri Fonseca,4,71,42,29
+177,Yuri Fonseca,5,100,51,44
+177,Yuri Fonseca,6,82,37,22
+177,Yuri Fonseca,7,98,28,31
+177,Yuri Fonseca,8,88,23,30
+178,Stella Cavalcanti,1,91,43,77
+178,Stella Cavalcanti,2,69,62,65
+178,Stella Cavalcanti,3,70,31,86
+178,Stella Cavalcanti,4,83,61,72
+178,Stella Cavalcanti,5,93,40,81
+178,Stella Cavalcanti,6,81,33,88
+178,Stella Cavalcanti,7,83,51,69
+178,Stella Cavalcanti,8,95,59,82
+179,André Freitas,1,84,34,51
+179,André Freitas,2,72,11,75
+179,André Freitas,3,61,36,79
+179,André Freitas,4,70,34,40
+179,André Freitas,5,74,27,55
+179,André Freitas,6,70,2,43
+179,André Freitas,7,84,18,59
+179,André Freitas,8,88,28,46
+180,Anthony das Neves,1,84,51,52
+180,Anthony das Neves,2,85,75,70
+180,Anthony das Neves,3,60,79,76
+180,Anthony das Neves,4,89,52,77
+180,Anthony das Neves,5,87,51,66
+180,Anthony das Neves,6,56,52,76
+180,Anthony das Neves,7,66,73,54
+180,Anthony das Neves,8,72,71,84
+181,Amanda Aragão,1,22,57,47
+181,Amanda Aragão,2,36,27,54
+181,Amanda Aragão,3,37,39,36
+181,Amanda Aragão,4,6,65,48
+181,Amanda Aragão,5,28,25,56
+181,Amanda Aragão,6,33,34,37
+181,Amanda Aragão,7,26,42,60
+181,Amanda Aragão,8,30,57,57
+182,Cauê Alves,1,56,66,59
+182,Cauê Alves,2,77,50,59
+182,Cauê Alves,3,51,46,91
+182,Cauê Alves,4,47,50,73
+182,Cauê Alves,5,45,57,71
+182,Cauê Alves,6,67,61,89
+182,Cauê Alves,7,82,79,94
+182,Cauê Alves,8,48,48,60
+183,Davi Luiz Marques,1,46,30,41
+183,Davi Luiz Marques,2,51,30,34
+183,Davi Luiz Marques,3,60,45,31
+183,Davi Luiz Marques,4,43,25,42
+183,Davi Luiz Marques,5,68,54,40
+183,Davi Luiz Marques,6,53,30,18
+183,Davi Luiz Marques,7,47,53,38
+183,Davi Luiz Marques,8,54,25,29
+184,Gabriela Lima,1,98,49,74
+184,Gabriela Lima,2,100,43,43
+184,Gabriela Lima,3,100,16,51
+184,Gabriela Lima,4,85,34,59
+184,Gabriela Lima,5,100,45,64
+184,Gabriela Lima,6,96,54,57
+184,Gabriela Lima,7,100,31,61
+184,Gabriela Lima,8,100,42,63
+185,João Cavalcanti,1,50,16,7
+185,João Cavalcanti,2,58,24,37
+185,João Cavalcanti,3,54,40,33
+185,João Cavalcanti,4,39,41,29
+185,João Cavalcanti,5,57,40,20
+185,João Cavalcanti,6,72,14,26
+185,João Cavalcanti,7,74,25,21
+185,João Cavalcanti,8,36,39,40
+186,Mariane da Mata,1,67,83,100
+186,Mariane da Mata,2,79,100,100
+186,Mariane da Mata,3,54,85,100
+186,Mariane da Mata,4,83,100,95
+186,Mariane da Mata,5,63,83,97
+186,Mariane da Mata,6,81,91,88
+186,Mariane da Mata,7,58,94,80
+186,Mariane da Mata,8,58,100,85
+187,Srta. Ana Luiza Camargo,1,72,80,18
+187,Srta. Ana Luiza Camargo,2,46,49,19
+187,Srta. Ana Luiza Camargo,3,57,81,21
+187,Srta. Ana Luiza Camargo,4,55,60,21
+187,Srta. Ana Luiza Camargo,5,42,77,20
+187,Srta. Ana Luiza Camargo,6,63,61,11
+187,Srta. Ana Luiza Camargo,7,50,43,8
+187,Srta. Ana Luiza Camargo,8,72,82,39
+188,Hadassa Sales,1,59,82,23
+188,Hadassa Sales,2,61,97,0
+188,Hadassa Sales,3,65,100,6
+188,Hadassa Sales,4,71,81,17
+188,Hadassa Sales,5,51,82,3
+188,Hadassa Sales,6,44,76,21
+188,Hadassa Sales,7,48,92,7
+188,Hadassa Sales,8,76,100,0
+189,Kevin Caldeira,1,26,5,55
+189,Kevin Caldeira,2,43,12,78
+189,Kevin Caldeira,3,44,15,42
+189,Kevin Caldeira,4,19,12,56
+189,Kevin Caldeira,5,12,29,53
+189,Kevin Caldeira,6,16,18,43
+189,Kevin Caldeira,7,45,32,49
+189,Kevin Caldeira,8,20,33,75
+190,Sr. Theodoro Mendonça,1,71,22,95
+190,Sr. Theodoro Mendonça,2,100,19,100
+190,Sr. Theodoro Mendonça,3,100,0,100
+190,Sr. Theodoro Mendonça,4,90,0,100
+190,Sr. Theodoro Mendonça,5,100,8,100
+190,Sr. Theodoro Mendonça,6,88,9,80
+190,Sr. Theodoro Mendonça,7,72,1,99
+190,Sr. Theodoro Mendonça,8,77,7,81
+191,Davi Lucca Castro,1,70,0,34
+191,Davi Lucca Castro,2,45,13,50
+191,Davi Lucca Castro,3,59,23,42
+191,Davi Lucca Castro,4,35,11,51
+191,Davi Lucca Castro,5,42,0,21
+191,Davi Lucca Castro,6,38,20,29
+191,Davi Lucca Castro,7,60,6,22
+191,Davi Lucca Castro,8,65,0,14
+192,Sr. Caio Andrade,1,96,35,89
+192,Sr. Caio Andrade,2,94,20,87
+192,Sr. Caio Andrade,3,85,33,96
+192,Sr. Caio Andrade,4,90,21,100
+192,Sr. Caio Andrade,5,100,37,100
+192,Sr. Caio Andrade,6,93,34,80
+192,Sr. Caio Andrade,7,100,11,94
+192,Sr. Caio Andrade,8,99,35,100
+193,Catarina Pimenta,1,69,28,93
+193,Catarina Pimenta,2,69,15,89
+193,Catarina Pimenta,3,69,38,70
+193,Catarina Pimenta,4,72,24,70
+193,Catarina Pimenta,5,55,42,80
+193,Catarina Pimenta,6,68,18,72
+193,Catarina Pimenta,7,70,34,100
+193,Catarina Pimenta,8,78,21,93
+194,Benjamim da Mota,1,100,28,17
+194,Benjamim da Mota,2,90,19,6
+194,Benjamim da Mota,3,100,14,12
+194,Benjamim da Mota,4,100,13,0
+194,Benjamim da Mota,5,81,15,0
+194,Benjamim da Mota,6,94,0,16
+194,Benjamim da Mota,7,100,11,17
+194,Benjamim da Mota,8,83,2,24
+195,Zoe Novais,1,28,98,27
+195,Zoe Novais,2,67,85,29
+195,Zoe Novais,3,29,95,32
+195,Zoe Novais,4,36,92,33
+195,Zoe Novais,5,61,100,15
+195,Zoe Novais,6,46,90,12
+195,Zoe Novais,7,66,100,22
+195,Zoe Novais,8,55,100,25
+196,Dra. Maria da Rosa,1,34,19,51
+196,Dra. Maria da Rosa,2,58,31,44
+196,Dra. Maria da Rosa,3,29,22,22
+196,Dra. Maria da Rosa,4,47,0,44
+196,Dra. Maria da Rosa,5,56,9,25
+196,Dra. Maria da Rosa,6,33,1,45
+196,Dra. Maria da Rosa,7,31,2,42
+196,Dra. Maria da Rosa,8,44,0,22
+197,Gael Teixeira,1,99,19,44
+197,Gael Teixeira,2,93,10,28
+197,Gael Teixeira,3,67,1,53
+197,Gael Teixeira,4,84,23,47
+197,Gael Teixeira,5,77,10,55
+197,Gael Teixeira,6,100,3,42
+197,Gael Teixeira,7,92,16,56
+197,Gael Teixeira,8,81,16,30
+198,Miguel Cunha,1,99,100,0
+198,Miguel Cunha,2,99,86,0
+198,Miguel Cunha,3,100,79,3
+198,Miguel Cunha,4,85,100,0
+198,Miguel Cunha,5,100,74,8
+198,Miguel Cunha,6,78,78,5
+198,Miguel Cunha,7,86,79,0
+198,Miguel Cunha,8,100,90,22
+199,Laís Nunes,1,6,61,65
+199,Laís Nunes,2,16,38,79
+199,Laís Nunes,3,33,50,71
+199,Laís Nunes,4,8,53,82
+199,Laís Nunes,5,39,32,83
+199,Laís Nunes,6,11,47,68
+199,Laís Nunes,7,30,39,72
+199,Laís Nunes,8,12,50,53
+200,Theo Rodrigues,1,31,69,27
+200,Theo Rodrigues,2,25,79,36
+200,Theo Rodrigues,3,23,64,36
+200,Theo Rodrigues,4,45,95,46
+200,Theo Rodrigues,5,34,74,30
+200,Theo Rodrigues,6,58,79,39
+200,Theo Rodrigues,7,34,94,35
+200,Theo Rodrigues,8,25,73,48
+201,Rael Ribeiro,1,26,32,19
+201,Rael Ribeiro,2,39,36,16
+201,Rael Ribeiro,3,29,22,24
+201,Rael Ribeiro,4,48,37,49
+201,Rael Ribeiro,5,39,39,12
+201,Rael Ribeiro,6,36,44,20
+201,Rael Ribeiro,7,27,21,50
+201,Rael Ribeiro,8,30,8,39
+202,Elisa da Paz,1,63,0,100
+202,Elisa da Paz,2,93,0,93
+202,Elisa da Paz,3,76,4,100
+202,Elisa da Paz,4,76,22,97
+202,Elisa da Paz,5,71,20,64
+202,Elisa da Paz,6,80,14,100
+202,Elisa da Paz,7,64,10,96
+202,Elisa da Paz,8,92,13,69
+203,Lorenzo Pastor,1,49,29,17
+203,Lorenzo Pastor,2,45,20,27
+203,Lorenzo Pastor,3,47,11,12
+203,Lorenzo Pastor,4,71,41,15
+203,Lorenzo Pastor,5,53,19,33
+203,Lorenzo Pastor,6,50,22,48
+203,Lorenzo Pastor,7,45,41,19
+203,Lorenzo Pastor,8,66,40,30
+204,Melissa Mendes,1,41,66,69
+204,Melissa Mendes,2,52,65,98
+204,Melissa Mendes,3,30,69,100
+204,Melissa Mendes,4,38,63,68
+204,Melissa Mendes,5,36,74,93
+204,Melissa Mendes,6,24,66,64
+204,Melissa Mendes,7,45,76,78
+204,Melissa Mendes,8,53,79,89
+205,Fernando Casa Grande,1,81,6,78
+205,Fernando Casa Grande,2,95,4,60
+205,Fernando Casa Grande,3,66,9,56
+205,Fernando Casa Grande,4,68,0,75
+205,Fernando Casa Grande,5,62,2,64
+205,Fernando Casa Grande,6,69,22,83
+205,Fernando Casa Grande,7,75,9,54
+205,Fernando Casa Grande,8,93,10,71
+206,Mateus Cirino,1,59,38,100
+206,Mateus Cirino,2,65,31,98
+206,Mateus Cirino,3,60,36,87
+206,Mateus Cirino,4,35,53,100
+206,Mateus Cirino,5,67,55,89
+206,Mateus Cirino,6,41,48,81
+206,Mateus Cirino,7,57,36,81
+206,Mateus Cirino,8,59,57,100
+207,Sarah Novais,1,38,48,0
+207,Sarah Novais,2,68,53,4
+207,Sarah Novais,3,42,83,4
+207,Sarah Novais,4,65,59,7
+207,Sarah Novais,5,61,62,3
+207,Sarah Novais,6,32,66,0
+207,Sarah Novais,7,43,79,0
+207,Sarah Novais,8,40,79,7
+208,Sarah Lopes,1,75,27,95
+208,Sarah Lopes,2,100,27,100
+208,Sarah Lopes,3,89,27,100
+208,Sarah Lopes,4,100,0,80
+208,Sarah Lopes,5,88,8,99
+208,Sarah Lopes,6,86,0,81
+208,Sarah Lopes,7,99,14,100
+208,Sarah Lopes,8,100,3,72
+209,Rhavi Pires,1,45,85,72
+209,Rhavi Pires,2,72,84,79
+209,Rhavi Pires,3,50,81,49
+209,Rhavi Pires,4,74,85,43
+209,Rhavi Pires,5,40,89,63
+209,Rhavi Pires,6,52,57,46
+209,Rhavi Pires,7,51,81,68
+209,Rhavi Pires,8,73,49,61
+210,Vitor das Neves,1,51,83,94
+210,Vitor das Neves,2,44,100,86
+210,Vitor das Neves,3,48,83,81
+210,Vitor das Neves,4,54,89,100
+210,Vitor das Neves,5,39,100,91
+210,Vitor das Neves,6,52,100,100
+210,Vitor das Neves,7,60,100,89
+210,Vitor das Neves,8,53,100,88
+211,Apollo Lima,1,32,12,0
+211,Apollo Lima,2,27,0,28
+211,Apollo Lima,3,51,12,14
+211,Apollo Lima,4,26,0,17
+211,Apollo Lima,5,45,3,0
+211,Apollo Lima,6,20,0,0
+211,Apollo Lima,7,40,16,9
+211,Apollo Lima,8,24,13,0
+212,Antônio Fogaça,1,88,17,23
+212,Antônio Fogaça,2,85,5,21
+212,Antônio Fogaça,3,70,16,25
+212,Antônio Fogaça,4,67,30,17
+212,Antônio Fogaça,5,65,12,30
+212,Antônio Fogaça,6,78,6,13
+212,Antônio Fogaça,7,87,8,28
+212,Antônio Fogaça,8,62,23,39
+213,José Pedro Novais,1,60,9,6
+213,José Pedro Novais,2,53,10,22
+213,José Pedro Novais,3,72,17,12
+213,José Pedro Novais,4,55,22,7
+213,José Pedro Novais,5,76,23,14
+213,José Pedro Novais,6,59,31,13
+213,José Pedro Novais,7,68,22,4
+213,José Pedro Novais,8,70,35,0
+214,Josué da Conceição,1,66,45,0
+214,Josué da Conceição,2,63,26,0
+214,Josué da Conceição,3,79,47,14
+214,Josué da Conceição,4,97,34,0
+214,Josué da Conceição,5,77,50,17
+214,Josué da Conceição,6,92,30,9
+214,Josué da Conceição,7,63,33,22
+214,Josué da Conceição,8,100,50,0
+215,Dr. João Gabriel Câmara,1,15,71,65
+215,Dr. João Gabriel Câmara,2,46,66,43
+215,Dr. João Gabriel Câmara,3,13,63,64
+215,Dr. João Gabriel Câmara,4,27,95,61
+215,Dr. João Gabriel Câmara,5,33,60,39
+215,Dr. João Gabriel Câmara,6,29,70,61
+215,Dr. João Gabriel Câmara,7,15,85,37
+215,Dr. João Gabriel Câmara,8,47,69,54
+216,Vitor Gabriel da Mota,1,88,79,38
+216,Vitor Gabriel da Mota,2,100,72,54
+216,Vitor Gabriel da Mota,3,80,51,43
+216,Vitor Gabriel da Mota,4,100,78,33
+216,Vitor Gabriel da Mota,5,100,46,41
+216,Vitor Gabriel da Mota,6,98,70,59
+216,Vitor Gabriel da Mota,7,97,44,33
+216,Vitor Gabriel da Mota,8,92,42,36
+217,Ana Cecília Ramos,1,62,100,25
+217,Ana Cecília Ramos,2,43,99,59
+217,Ana Cecília Ramos,3,56,100,61
+217,Ana Cecília Ramos,4,77,100,65
+217,Ana Cecília Ramos,5,65,77,30
+217,Ana Cecília Ramos,6,44,95,62
+217,Ana Cecília Ramos,7,54,88,62
+217,Ana Cecília Ramos,8,56,97,46
+218,Breno Barbosa,1,16,19,98
+218,Breno Barbosa,2,28,3,68
+218,Breno Barbosa,3,47,24,81
+218,Breno Barbosa,4,39,28,95
+218,Breno Barbosa,5,19,0,63
+218,Breno Barbosa,6,18,25,79
+218,Breno Barbosa,7,22,20,72
+218,Breno Barbosa,8,38,22,100
+219,João Miguel Fogaça,1,69,100,59
+219,João Miguel Fogaça,2,80,77,56
+219,João Miguel Fogaça,3,79,95,42
+219,João Miguel Fogaça,4,69,94,45
+219,João Miguel Fogaça,5,68,100,57
+219,João Miguel Fogaça,6,75,84,56
+219,João Miguel Fogaça,7,58,87,68
+219,João Miguel Fogaça,8,86,99,79
+220,Hadassa das Neves,1,51,36,51
+220,Hadassa das Neves,2,53,13,43
+220,Hadassa das Neves,3,71,47,80
+220,Hadassa das Neves,4,52,42,67
+220,Hadassa das Neves,5,53,13,55
+220,Hadassa das Neves,6,79,10,74
+220,Hadassa das Neves,7,44,21,55
+220,Hadassa das Neves,8,57,50,76
+221,Dr. Luigi Mendonça,1,62,98,47
+221,Dr. Luigi Mendonça,2,61,100,55
+221,Dr. Luigi Mendonça,3,61,100,80
+221,Dr. Luigi Mendonça,4,91,96,57
+221,Dr. Luigi Mendonça,5,58,100,62
+221,Dr. Luigi Mendonça,6,82,100,50
+221,Dr. Luigi Mendonça,7,81,72,57
+221,Dr. Luigi Mendonça,8,78,80,83
+222,Eloah Vargas,1,34,0,68
+222,Eloah Vargas,2,21,27,53
+222,Eloah Vargas,3,49,8,63
+222,Eloah Vargas,4,23,15,52
+222,Eloah Vargas,5,22,2,38
+222,Eloah Vargas,6,51,0,72
+222,Eloah Vargas,7,50,31,53
+222,Eloah Vargas,8,24,28,71
+223,Ravy Ferreira,1,39,24,73
+223,Ravy Ferreira,2,19,27,93
+223,Ravy Ferreira,3,45,24,90
+223,Ravy Ferreira,4,46,28,90
+223,Ravy Ferreira,5,48,33,92
+223,Ravy Ferreira,6,23,8,74
+223,Ravy Ferreira,7,46,7,67
+223,Ravy Ferreira,8,38,13,62
+224,Alice Cavalcante,1,27,44,15
+224,Alice Cavalcante,2,18,32,0
+224,Alice Cavalcante,3,38,28,0
+224,Alice Cavalcante,4,35,35,0
+224,Alice Cavalcante,5,40,51,4
+224,Alice Cavalcante,6,14,29,0
+224,Alice Cavalcante,7,27,35,17
+224,Alice Cavalcante,8,41,55,3
+225,Leandro Vieira,1,62,66,81
+225,Leandro Vieira,2,73,62,78
+225,Leandro Vieira,3,59,73,61
+225,Leandro Vieira,4,60,83,64
+225,Leandro Vieira,5,37,81,67
+225,Leandro Vieira,6,65,71,71
+225,Leandro Vieira,7,73,91,63
+225,Leandro Vieira,8,60,90,85
+226,Anna Liz Vargas,1,67,31,16
+226,Anna Liz Vargas,2,49,61,35
+226,Anna Liz Vargas,3,60,62,21
+226,Anna Liz Vargas,4,68,56,8
+226,Anna Liz Vargas,5,59,35,28
+226,Anna Liz Vargas,6,57,48,5
+226,Anna Liz Vargas,7,53,30,30
+226,Anna Liz Vargas,8,46,35,6
+227,Srta. Valentina da Cunha,1,81,60,54
+227,Srta. Valentina da Cunha,2,55,37,58
+227,Srta. Valentina da Cunha,3,60,51,64
+227,Srta. Valentina da Cunha,4,93,30,87
+227,Srta. Valentina da Cunha,5,62,65,91
+227,Srta. Valentina da Cunha,6,70,31,88
+227,Srta. Valentina da Cunha,7,83,26,71
+227,Srta. Valentina da Cunha,8,57,33,63
+228,Mirella Rios,1,84,11,34
+228,Mirella Rios,2,96,24,37
+228,Mirella Rios,3,97,4,37
+228,Mirella Rios,4,100,2,46
+228,Mirella Rios,5,100,27,60
+228,Mirella Rios,6,97,22,54
+228,Mirella Rios,7,83,26,54
+228,Mirella Rios,8,87,15,45
+229,Larissa Vargas,1,67,27,31
+229,Larissa Vargas,2,86,4,34
+229,Larissa Vargas,3,78,0,37
+229,Larissa Vargas,4,56,0,18
+229,Larissa Vargas,5,61,25,26
+229,Larissa Vargas,6,53,0,18
+229,Larissa Vargas,7,80,0,19
+229,Larissa Vargas,8,81,10,18
+230,Srta. Ana Sophia da Conceição,1,24,63,35
+230,Srta. Ana Sophia da Conceição,2,40,68,28
+230,Srta. Ana Sophia da Conceição,3,32,54,54
+230,Srta. Ana Sophia da Conceição,4,16,92,44
+230,Srta. Ana Sophia da Conceição,5,1,81,41
+230,Srta. Ana Sophia da Conceição,6,31,92,43
+230,Srta. Ana Sophia da Conceição,7,2,92,40
+230,Srta. Ana Sophia da Conceição,8,19,59,50
+231,Vinícius Nascimento,1,80,39,46
+231,Vinícius Nascimento,2,100,39,48
+231,Vinícius Nascimento,3,90,56,47
+231,Vinícius Nascimento,4,100,46,48
+231,Vinícius Nascimento,5,99,55,29
+231,Vinícius Nascimento,6,100,32,26
+231,Vinícius Nascimento,7,97,31,20
+231,Vinícius Nascimento,8,97,34,41
+232,Dra. Marcela da Rosa,1,73,31,30
+232,Dra. Marcela da Rosa,2,61,35,46
+232,Dra. Marcela da Rosa,3,93,45,38
+232,Dra. Marcela da Rosa,4,62,44,21
+232,Dra. Marcela da Rosa,5,79,16,33
+232,Dra. Marcela da Rosa,6,58,27,42
+232,Dra. Marcela da Rosa,7,85,55,61
+232,Dra. Marcela da Rosa,8,72,38,43
+233,Breno da Costa,1,88,22,27
+233,Breno da Costa,2,88,0,14
+233,Breno da Costa,3,85,0,2
+233,Breno da Costa,4,79,21,14
+233,Breno da Costa,5,100,29,0
+233,Breno da Costa,6,98,0,11
+233,Breno da Costa,7,96,24,14
+233,Breno da Costa,8,87,17,28
+234,Bernardo Pimenta,1,100,9,80
+234,Bernardo Pimenta,2,100,36,82
+234,Bernardo Pimenta,3,70,3,55
+234,Bernardo Pimenta,4,100,42,53
+234,Bernardo Pimenta,5,100,13,85
+234,Bernardo Pimenta,6,85,30,54
+234,Bernardo Pimenta,7,92,19,62
+234,Bernardo Pimenta,8,90,39,63
+235,Maria Fernanda Nascimento,1,89,93,28
+235,Maria Fernanda Nascimento,2,82,100,38
+235,Maria Fernanda Nascimento,3,89,100,58
+235,Maria Fernanda Nascimento,4,88,100,49
+235,Maria Fernanda Nascimento,5,77,100,44
+235,Maria Fernanda Nascimento,6,94,73,61
+235,Maria Fernanda Nascimento,7,93,74,35
+235,Maria Fernanda Nascimento,8,69,71,37
+236,Matteo Barros,1,80,32,93
+236,Matteo Barros,2,94,26,82
+236,Matteo Barros,3,100,45,100
+236,Matteo Barros,4,88,26,83
+236,Matteo Barros,5,88,14,82
+236,Matteo Barros,6,94,9,95
+236,Matteo Barros,7,93,11,92
+236,Matteo Barros,8,100,31,87
+237,Srta. Rafaela Fonseca,1,43,78,41
+237,Srta. Rafaela Fonseca,2,65,78,58
+237,Srta. Rafaela Fonseca,3,73,85,22
+237,Srta. Rafaela Fonseca,4,57,89,36
+237,Srta. Rafaela Fonseca,5,36,93,20
+237,Srta. Rafaela Fonseca,6,54,68,39
+237,Srta. Rafaela Fonseca,7,51,86,22
+237,Srta. Rafaela Fonseca,8,39,75,46
+238,Nicole Gonçalves,1,48,14,37
+238,Nicole Gonçalves,2,36,45,19
+238,Nicole Gonçalves,3,44,25,20
+238,Nicole Gonçalves,4,26,25,57
+238,Nicole Gonçalves,5,40,7,30
+238,Nicole Gonçalves,6,14,15,41
+238,Nicole Gonçalves,7,48,36,48
+238,Nicole Gonçalves,8,20,20,20
+239,Sra. Ana Vitória Lima,1,51,35,61
+239,Sra. Ana Vitória Lima,2,65,40,92
+239,Sra. Ana Vitória Lima,3,59,44,80
+239,Sra. Ana Vitória Lima,4,79,35,86
+239,Sra. Ana Vitória Lima,5,51,59,67
+239,Sra. Ana Vitória Lima,6,81,33,81
+239,Sra. Ana Vitória Lima,7,81,44,89
+239,Sra. Ana Vitória Lima,8,65,68,69
+240,Luísa Costa,1,100,52,100
+240,Luísa Costa,2,76,42,94
+240,Luísa Costa,3,100,68,100
+240,Luísa Costa,4,70,42,100
+240,Luísa Costa,5,99,40,100
+240,Luísa Costa,6,100,35,100
+240,Luísa Costa,7,87,36,84
+240,Luísa Costa,8,77,64,100
+241,Diego Cirino,1,100,46,50
+241,Diego Cirino,2,100,47,46
+241,Diego Cirino,3,100,76,54
+241,Diego Cirino,4,100,46,39
+241,Diego Cirino,5,90,69,20
+241,Diego Cirino,6,85,63,45
+241,Diego Cirino,7,100,43,57
+241,Diego Cirino,8,81,83,29
+242,Luna Leão,1,80,17,19
+242,Luna Leão,2,54,5,0
+242,Luna Leão,3,85,5,0
+242,Luna Leão,4,45,18,21
+242,Luna Leão,5,59,18,0
+242,Luna Leão,6,55,18,8
+242,Luna Leão,7,45,14,0
+242,Luna Leão,8,70,26,8
+243,Pietro Macedo,1,91,12,49
+243,Pietro Macedo,2,99,21,50
+243,Pietro Macedo,3,76,20,66
+243,Pietro Macedo,4,85,0,38
+243,Pietro Macedo,5,73,0,59
+243,Pietro Macedo,6,91,0,31
+243,Pietro Macedo,7,79,24,67
+243,Pietro Macedo,8,86,0,63
+244,Matheus Sales,1,16,99,8
+244,Matheus Sales,2,45,79,15
+244,Matheus Sales,3,12,93,3
+244,Matheus Sales,4,12,95,18
+244,Matheus Sales,5,42,81,3
+244,Matheus Sales,6,29,74,10
+244,Matheus Sales,7,30,63,4
+244,Matheus Sales,8,41,89,0
+245,Sra. Maria Isis Sá,1,100,42,75
+245,Sra. Maria Isis Sá,2,96,66,79
+245,Sra. Maria Isis Sá,3,100,79,91
+245,Sra. Maria Isis Sá,4,96,77,58
+245,Sra. Maria Isis Sá,5,78,47,57
+245,Sra. Maria Isis Sá,6,100,79,87
+245,Sra. Maria Isis Sá,7,92,61,74
+245,Sra. Maria Isis Sá,8,91,45,65
+246,Juan Montenegro,1,84,25,17
+246,Juan Montenegro,2,80,6,53
+246,Juan Montenegro,3,59,5,50
+246,Juan Montenegro,4,77,14,37
+246,Juan Montenegro,5,74,10,52
+246,Juan Montenegro,6,75,21,37
+246,Juan Montenegro,7,60,5,45
+246,Juan Montenegro,8,86,22,17
+247,Zoe da Paz,1,54,21,69
+247,Zoe da Paz,2,76,25,57
+247,Zoe da Paz,3,79,40,52
+247,Zoe da Paz,4,82,30,32
+247,Zoe da Paz,5,57,60,54
+247,Zoe da Paz,6,84,47,51
+247,Zoe da Paz,7,54,60,42
+247,Zoe da Paz,8,82,38,56
+248,Olivia Pacheco,1,100,41,54
+248,Olivia Pacheco,2,92,23,87
+248,Olivia Pacheco,3,98,44,76
+248,Olivia Pacheco,4,99,32,60
+248,Olivia Pacheco,5,82,35,76
+248,Olivia Pacheco,6,100,24,69
+248,Olivia Pacheco,7,91,16,93
+248,Olivia Pacheco,8,85,27,78
+249,Theo Sá,1,80,35,74
+249,Theo Sá,2,76,5,46
+249,Theo Sá,3,88,0,51
+249,Theo Sá,4,84,12,58
+249,Theo Sá,5,70,9,48
+249,Theo Sá,6,89,11,59
+249,Theo Sá,7,82,35,41
+249,Theo Sá,8,100,6,39
+250,Srta. Sara Machado,1,76,89,86
+250,Srta. Sara Machado,2,62,81,92
+250,Srta. Sara Machado,3,67,75,69
+250,Srta. Sara Machado,4,67,60,60
+250,Srta. Sara Machado,5,79,77,78
+250,Srta. Sara Machado,6,75,60,95
+250,Srta. Sara Machado,7,89,78,62
+250,Srta. Sara Machado,8,91,85,80
+251,Brayan Camargo,1,39,78,87
+251,Brayan Camargo,2,38,66,55
+251,Brayan Camargo,3,60,87,63
+251,Brayan Camargo,4,65,77,70
+251,Brayan Camargo,5,45,81,89
+251,Brayan Camargo,6,49,87,64
+251,Brayan Camargo,7,45,64,81
+251,Brayan Camargo,8,54,70,75
+252,Sr. Luiz Henrique Machado,1,100,45,61
+252,Sr. Luiz Henrique Machado,2,74,63,53
+252,Sr. Luiz Henrique Machado,3,99,48,53
+252,Sr. Luiz Henrique Machado,4,72,61,43
+252,Sr. Luiz Henrique Machado,5,100,42,49
+252,Sr. Luiz Henrique Machado,6,71,35,42
+252,Sr. Luiz Henrique Machado,7,83,23,76
+252,Sr. Luiz Henrique Machado,8,94,50,77
+253,Gabrielly da Rocha,1,67,10,41
+253,Gabrielly da Rocha,2,73,17,72
+253,Gabrielly da Rocha,3,85,16,59
+253,Gabrielly da Rocha,4,85,21,52
+253,Gabrielly da Rocha,5,79,28,42
+253,Gabrielly da Rocha,6,62,36,47
+253,Gabrielly da Rocha,7,89,30,67
+253,Gabrielly da Rocha,8,73,0,40
+254,Bruno Dias,1,56,35,82
+254,Bruno Dias,2,33,26,68
+254,Bruno Dias,3,31,31,63
+254,Bruno Dias,4,52,27,100
+254,Bruno Dias,5,62,55,76
+254,Bruno Dias,6,58,32,86
+254,Bruno Dias,7,54,45,85
+254,Bruno Dias,8,63,43,78
+255,Matheus Aragão,1,100,44,14
+255,Matheus Aragão,2,78,31,17
+255,Matheus Aragão,3,100,32,7
+255,Matheus Aragão,4,85,38,34
+255,Matheus Aragão,5,77,31,19
+255,Matheus Aragão,6,89,49,10
+255,Matheus Aragão,7,98,61,20
+255,Matheus Aragão,8,98,62,21
+256,Ian Barbosa,1,61,38,15
+256,Ian Barbosa,2,45,50,15
+256,Ian Barbosa,3,48,53,14
+256,Ian Barbosa,4,64,50,38
+256,Ian Barbosa,5,58,48,45
+256,Ian Barbosa,6,64,37,51
+256,Ian Barbosa,7,84,46,19
+256,Ian Barbosa,8,75,60,45
+257,Antônio Gonçalves,1,38,65,0
+257,Antônio Gonçalves,2,32,75,0
+257,Antônio Gonçalves,3,37,73,1
+257,Antônio Gonçalves,4,28,84,14
+257,Antônio Gonçalves,5,26,82,0
+257,Antônio Gonçalves,6,28,79,0
+257,Antônio Gonçalves,7,39,79,12
+257,Antônio Gonçalves,8,12,83,0
+258,Sr. Arthur Borges,1,98,65,14
+258,Sr. Arthur Borges,2,75,48,0
+258,Sr. Arthur Borges,3,99,57,0
+258,Sr. Arthur Borges,4,69,41,13
+258,Sr. Arthur Borges,5,100,67,0
+258,Sr. Arthur Borges,6,86,37,15
+258,Sr. Arthur Borges,7,85,66,0
+258,Sr. Arthur Borges,8,100,71,13
+259,Otto Brito,1,100,100,3
+259,Otto Brito,2,99,100,2
+259,Otto Brito,3,85,67,36
+259,Otto Brito,4,100,100,36
+259,Otto Brito,5,81,82,13
+259,Otto Brito,6,77,93,6
+259,Otto Brito,7,100,99,9
+259,Otto Brito,8,78,77,10
+260,José Correia,1,7,94,67
+260,José Correia,2,39,75,47
+260,José Correia,3,31,70,33
+260,José Correia,4,33,83,49
+260,José Correia,5,29,93,64
+260,José Correia,6,30,85,27
+260,José Correia,7,8,64,30
+260,José Correia,8,2,97,30
+261,Nina Novais,1,76,79,88
+261,Nina Novais,2,70,58,100
+261,Nina Novais,3,65,75,90
+261,Nina Novais,4,89,80,100
+261,Nina Novais,5,98,63,81
+261,Nina Novais,6,86,44,99
+261,Nina Novais,7,69,56,88
+261,Nina Novais,8,89,59,84
+262,Bruna Albuquerque,1,5,12,58
+262,Bruna Albuquerque,2,19,9,32
+262,Bruna Albuquerque,3,43,30,56
+262,Bruna Albuquerque,4,11,24,64
+262,Bruna Albuquerque,5,5,19,38
+262,Bruna Albuquerque,6,30,29,34
+262,Bruna Albuquerque,7,33,21,42
+262,Bruna Albuquerque,8,40,23,43
+263,Bianca Câmara,1,48,74,10
+263,Bianca Câmara,2,61,96,0
+263,Bianca Câmara,3,68,98,0
+263,Bianca Câmara,4,38,66,0
+263,Bianca Câmara,5,31,100,0
+263,Bianca Câmara,6,66,94,0
+263,Bianca Câmara,7,36,91,4
+263,Bianca Câmara,8,56,74,18
+264,Daniel Andrade,1,72,44,34
+264,Daniel Andrade,2,80,18,62
+264,Daniel Andrade,3,83,5,65
+264,Daniel Andrade,4,100,28,60
+264,Daniel Andrade,5,79,39,36
+264,Daniel Andrade,6,100,11,50
+264,Daniel Andrade,7,100,28,58
+264,Daniel Andrade,8,93,22,37
+265,Elisa Gonçalves,1,97,68,43
+265,Elisa Gonçalves,2,71,59,28
+265,Elisa Gonçalves,3,72,41,42
+265,Elisa Gonçalves,4,80,38,44
+265,Elisa Gonçalves,5,90,63,40
+265,Elisa Gonçalves,6,78,62,56
+265,Elisa Gonçalves,7,100,48,53
+265,Elisa Gonçalves,8,86,40,53
+266,Catarina da Cruz,1,64,16,7
+266,Catarina da Cruz,2,65,19,11
+266,Catarina da Cruz,3,48,28,0
+266,Catarina da Cruz,4,68,30,4
+266,Catarina da Cruz,5,66,18,0
+266,Catarina da Cruz,6,56,32,0
+266,Catarina da Cruz,7,41,31,0
+266,Catarina da Cruz,8,58,5,12
+267,Dom Sales,1,86,17,60
+267,Dom Sales,2,71,44,61
+267,Dom Sales,3,77,31,48
+267,Dom Sales,4,65,56,53
+267,Dom Sales,5,81,41,51
+267,Dom Sales,6,65,23,50
+267,Dom Sales,7,75,36,52
+267,Dom Sales,8,90,21,46
+268,Dr. Benicio Casa Grande,1,46,86,0
+268,Dr. Benicio Casa Grande,2,46,61,22
+268,Dr. Benicio Casa Grande,3,46,88,13
+268,Dr. Benicio Casa Grande,4,61,80,5
+268,Dr. Benicio Casa Grande,5,61,68,0
+268,Dr. Benicio Casa Grande,6,48,65,19
+268,Dr. Benicio Casa Grande,7,63,85,2
+268,Dr. Benicio Casa Grande,8,34,57,21
+269,Eduarda da Cunha,1,44,28,98
+269,Eduarda da Cunha,2,42,14,98
+269,Eduarda da Cunha,3,45,0,100
+269,Eduarda da Cunha,4,41,25,100
+269,Eduarda da Cunha,5,50,17,100
+269,Eduarda da Cunha,6,77,2,74
+269,Eduarda da Cunha,7,69,14,74
+269,Eduarda da Cunha,8,49,29,100
+270,Lunna Pereira,1,35,16,53
+270,Lunna Pereira,2,45,29,54
+270,Lunna Pereira,3,16,24,59
+270,Lunna Pereira,4,32,6,80
+270,Lunna Pereira,5,37,23,62
+270,Lunna Pereira,6,43,22,51
+270,Lunna Pereira,7,32,0,59
+270,Lunna Pereira,8,40,13,62
+271,Maitê Carvalho,1,31,38,87
+271,Maitê Carvalho,2,50,25,83
+271,Maitê Carvalho,3,31,24,81
+271,Maitê Carvalho,4,23,23,76
+271,Maitê Carvalho,5,29,47,79
+271,Maitê Carvalho,6,40,24,63
+271,Maitê Carvalho,7,54,44,81
+271,Maitê Carvalho,8,22,48,61
+272,Ana Júlia Ribeiro,1,58,24,67
+272,Ana Júlia Ribeiro,2,51,0,90
+272,Ana Júlia Ribeiro,3,24,14,65
+272,Ana Júlia Ribeiro,4,30,0,66
+272,Ana Júlia Ribeiro,5,35,0,86
+272,Ana Júlia Ribeiro,6,32,0,88
+272,Ana Júlia Ribeiro,7,37,6,81
+272,Ana Júlia Ribeiro,8,28,12,86
+273,Luana Barros,1,80,64,40
+273,Luana Barros,2,69,93,15
+273,Luana Barros,3,47,77,29
+273,Luana Barros,4,69,82,51
+273,Luana Barros,5,77,82,28
+273,Luana Barros,6,60,89,28
+273,Luana Barros,7,68,58,52
+273,Luana Barros,8,79,96,25
+274,Luiz Gustavo Dias,1,28,20,28
+274,Luiz Gustavo Dias,2,20,0,47
+274,Luiz Gustavo Dias,3,20,0,20
+274,Luiz Gustavo Dias,4,20,0,23
+274,Luiz Gustavo Dias,5,42,19,26
+274,Luiz Gustavo Dias,6,15,11,37
+274,Luiz Gustavo Dias,7,10,0,22
+274,Luiz Gustavo Dias,8,10,0,13
+275,Larissa Pacheco,1,68,24,4
+275,Larissa Pacheco,2,67,3,0
+275,Larissa Pacheco,3,37,7,0
+275,Larissa Pacheco,4,67,21,0
+275,Larissa Pacheco,5,36,19,3
+275,Larissa Pacheco,6,61,0,13
+275,Larissa Pacheco,7,52,8,0
+275,Larissa Pacheco,8,65,25,0
+276,Dr. Mathias Fogaça,1,60,87,52
+276,Dr. Mathias Fogaça,2,77,69,44
+276,Dr. Mathias Fogaça,3,70,65,58
+276,Dr. Mathias Fogaça,4,60,66,69
+276,Dr. Mathias Fogaça,5,49,73,43
+276,Dr. Mathias Fogaça,6,73,50,62
+276,Dr. Mathias Fogaça,7,61,64,36
+276,Dr. Mathias Fogaça,8,69,54,65
+277,Caio Moraes,1,97,16,83
+277,Caio Moraes,2,85,30,87
+277,Caio Moraes,3,77,18,82
+277,Caio Moraes,4,100,9,98
+277,Caio Moraes,5,82,28,100
+277,Caio Moraes,6,77,25,74
+277,Caio Moraes,7,76,17,95
+277,Caio Moraes,8,87,0,91
+278,Dr. João Vitor da Mota,1,80,59,22
+278,Dr. João Vitor da Mota,2,73,43,47
+278,Dr. João Vitor da Mota,3,96,58,31
+278,Dr. João Vitor da Mota,4,74,50,49
+278,Dr. João Vitor da Mota,5,78,64,45
+278,Dr. João Vitor da Mota,6,99,28,47
+278,Dr. João Vitor da Mota,7,84,57,36
+278,Dr. João Vitor da Mota,8,82,46,38
+279,Benjamim Porto,1,100,79,83
+279,Benjamim Porto,2,89,71,60
+279,Benjamim Porto,3,100,82,78
+279,Benjamim Porto,4,80,74,65
+279,Benjamim Porto,5,100,67,54
+279,Benjamim Porto,6,88,54,62
+279,Benjamim Porto,7,100,71,56
+279,Benjamim Porto,8,89,71,55
+280,Sophia Mendonça,1,83,25,8
+280,Sophia Mendonça,2,87,63,12
+280,Sophia Mendonça,3,62,33,7
+280,Sophia Mendonça,4,84,45,25
+280,Sophia Mendonça,5,71,38,37
+280,Sophia Mendonça,6,100,46,32
+280,Sophia Mendonça,7,84,47,43
+280,Sophia Mendonça,8,92,61,27
+281,Bárbara da Rocha,1,50,41,79
+281,Bárbara da Rocha,2,57,36,55
+281,Bárbara da Rocha,3,37,20,54
+281,Bárbara da Rocha,4,48,41,89
+281,Bárbara da Rocha,5,54,51,64
+281,Bárbara da Rocha,6,51,49,70
+281,Bárbara da Rocha,7,38,42,68
+281,Bárbara da Rocha,8,42,27,70
+282,Ana Luiza Ribeiro,1,75,21,5
+282,Ana Luiza Ribeiro,2,42,27,5
+282,Ana Luiza Ribeiro,3,70,35,3
+282,Ana Luiza Ribeiro,4,68,33,22
+282,Ana Luiza Ribeiro,5,66,29,28
+282,Ana Luiza Ribeiro,6,50,57,19
+282,Ana Luiza Ribeiro,7,47,50,2
+282,Ana Luiza Ribeiro,8,67,57,1
+283,Ágatha Ramos,1,6,9,4
+283,Ágatha Ramos,2,35,30,0
+283,Ágatha Ramos,3,15,0,7
+283,Ágatha Ramos,4,8,27,13
+283,Ágatha Ramos,5,14,0,6
+283,Ágatha Ramos,6,19,26,0
+283,Ágatha Ramos,7,34,0,0
+283,Ágatha Ramos,8,12,0,0
+284,Catarina Campos,1,68,40,95
+284,Catarina Campos,2,35,29,91
+284,Catarina Campos,3,66,64,86
+284,Catarina Campos,4,61,30,88
+284,Catarina Campos,5,52,31,75
+284,Catarina Campos,6,64,68,89
+284,Catarina Campos,7,67,55,100
+284,Catarina Campos,8,46,45,67
+285,Francisco Cavalcanti,1,54,44,28
+285,Francisco Cavalcanti,2,81,31,52
+285,Francisco Cavalcanti,3,75,42,56
+285,Francisco Cavalcanti,4,63,58,32
+285,Francisco Cavalcanti,5,62,47,50
+285,Francisco Cavalcanti,6,80,32,33
+285,Francisco Cavalcanti,7,72,32,46
+285,Francisco Cavalcanti,8,91,60,31
+286,Dra. Julia Porto,1,73,54,49
+286,Dra. Julia Porto,2,86,70,27
+286,Dra. Julia Porto,3,65,58,51
+286,Dra. Julia Porto,4,61,58,50
+286,Dra. Julia Porto,5,67,53,20
+286,Dra. Julia Porto,6,98,40,18
+286,Dra. Julia Porto,7,68,35,55
+286,Dra. Julia Porto,8,90,56,39
+287,Luiz Felipe Novais,1,42,39,60
+287,Luiz Felipe Novais,2,40,43,67
+287,Luiz Felipe Novais,3,14,43,78
+287,Luiz Felipe Novais,4,25,61,83
+287,Luiz Felipe Novais,5,46,44,61
+287,Luiz Felipe Novais,6,48,58,54
+287,Luiz Felipe Novais,7,19,73,75
+287,Luiz Felipe Novais,8,15,65,52
+288,Srta. Maria da Rocha,1,100,24,37
+288,Srta. Maria da Rocha,2,76,3,22
+288,Srta. Maria da Rocha,3,71,5,9
+288,Srta. Maria da Rocha,4,100,6,18
+288,Srta. Maria da Rocha,5,83,4,16
+288,Srta. Maria da Rocha,6,84,24,44
+288,Srta. Maria da Rocha,7,85,19,36
+288,Srta. Maria da Rocha,8,82,10,48
+289,Calebe Caldeira,1,85,29,100
+289,Calebe Caldeira,2,93,12,70
+289,Calebe Caldeira,3,100,33,79
+289,Calebe Caldeira,4,100,14,98
+289,Calebe Caldeira,5,79,47,100
+289,Calebe Caldeira,6,94,10,84
+289,Calebe Caldeira,7,100,9,74
+289,Calebe Caldeira,8,100,22,100
+290,Alana Dias,1,12,100,52
+290,Alana Dias,2,17,100,67
+290,Alana Dias,3,21,100,61
+290,Alana Dias,4,31,100,53
+290,Alana Dias,5,22,100,62
+290,Alana Dias,6,29,97,53
+290,Alana Dias,7,8,98,59
+290,Alana Dias,8,33,94,83
+291,Maria Luiza da Cunha,1,32,81,47
+291,Maria Luiza da Cunha,2,36,77,54
+291,Maria Luiza da Cunha,3,34,90,28
+291,Maria Luiza da Cunha,4,36,100,42
+291,Maria Luiza da Cunha,5,35,100,51
+291,Maria Luiza da Cunha,6,32,78,48
+291,Maria Luiza da Cunha,7,36,100,29
+291,Maria Luiza da Cunha,8,40,100,66
+292,Fernanda Andrade,1,86,76,66
+292,Fernanda Andrade,2,86,94,63
+292,Fernanda Andrade,3,94,85,50
+292,Fernanda Andrade,4,87,79,44
+292,Fernanda Andrade,5,94,62,40
+292,Fernanda Andrade,6,76,57,39
+292,Fernanda Andrade,7,100,91,46
+292,Fernanda Andrade,8,89,61,64
+293,Rafael Martins,1,38,20,63
+293,Rafael Martins,2,59,32,69
+293,Rafael Martins,3,32,24,81
+293,Rafael Martins,4,40,31,54
+293,Rafael Martins,5,54,13,69
+293,Rafael Martins,6,32,14,74
+293,Rafael Martins,7,43,18,62
+293,Rafael Martins,8,35,21,81
+294,Lívia Abreu,1,34,89,73
+294,Lívia Abreu,2,19,80,72
+294,Lívia Abreu,3,45,94,44
+294,Lívia Abreu,4,21,82,48
+294,Lívia Abreu,5,14,87,48
+294,Lívia Abreu,6,20,79,75
+294,Lívia Abreu,7,37,100,68
+294,Lívia Abreu,8,50,100,60
+295,Ravi Pimenta,1,100,73,0
+295,Ravi Pimenta,2,100,80,9
+295,Ravi Pimenta,3,100,85,9
+295,Ravi Pimenta,4,100,99,0
+295,Ravi Pimenta,5,100,67,16
+295,Ravi Pimenta,6,100,70,2
+295,Ravi Pimenta,7,79,80,22
+295,Ravi Pimenta,8,100,67,16
+296,Davi Lucca Santos,1,100,73,28
+296,Davi Lucca Santos,2,98,56,18
+296,Davi Lucca Santos,3,89,44,6
+296,Davi Lucca Santos,4,89,73,19
+296,Davi Lucca Santos,5,89,77,2
+296,Davi Lucca Santos,6,100,71,23
+296,Davi Lucca Santos,7,100,59,33
+296,Davi Lucca Santos,8,100,84,19
+297,Antony Garcia,1,54,0,16
+297,Antony Garcia,2,60,9,13
+297,Antony Garcia,3,60,0,12
+297,Antony Garcia,4,27,0,14
+297,Antony Garcia,5,36,8,13
+297,Antony Garcia,6,57,20,10
+297,Antony Garcia,7,52,8,8
+297,Antony Garcia,8,38,4,0
+298,Antonella Montenegro,1,78,100,10
+298,Antonella Montenegro,2,56,100,43
+298,Antonella Montenegro,3,84,100,14
+298,Antonella Montenegro,4,89,100,47
+298,Antonella Montenegro,5,90,100,45
+298,Antonella Montenegro,6,80,100,12
+298,Antonella Montenegro,7,88,100,47
+298,Antonella Montenegro,8,89,100,24
+299,Sofia Leão,1,50,70,73
+299,Sofia Leão,2,45,53,71
+299,Sofia Leão,3,51,63,94
+299,Sofia Leão,4,23,53,79
+299,Sofia Leão,5,26,85,86
+299,Sofia Leão,6,23,55,85
+299,Sofia Leão,7,40,81,100
+299,Sofia Leão,8,55,67,100
+300,Lucca Costa,1,91,0,61
+300,Lucca Costa,2,67,29,48
+300,Lucca Costa,3,72,17,55
+300,Lucca Costa,4,79,13,24
+300,Lucca Costa,5,87,28,49
+300,Lucca Costa,6,77,4,23
+300,Lucca Costa,7,63,0,32
+300,Lucca Costa,8,71,23,37
+301,Srta. Antonella da Costa,1,13,50,4
+301,Srta. Antonella da Costa,2,16,64,19
+301,Srta. Antonella da Costa,3,12,57,25
+301,Srta. Antonella da Costa,4,42,35,8
+301,Srta. Antonella da Costa,5,9,56,0
+301,Srta. Antonella da Costa,6,17,45,8
+301,Srta. Antonella da Costa,7,34,62,3
+301,Srta. Antonella da Costa,8,23,44,34
+302,Mariah Borges,1,12,30,100
+302,Mariah Borges,2,24,29,100
+302,Mariah Borges,3,50,45,96
+302,Mariah Borges,4,20,31,83
+302,Mariah Borges,5,12,42,87
+302,Mariah Borges,6,14,24,100
+302,Mariah Borges,7,41,49,81
+302,Mariah Borges,8,38,61,78
+303,Gael Henrique da Conceição,1,11,54,21
+303,Gael Henrique da Conceição,2,21,36,35
+303,Gael Henrique da Conceição,3,33,29,51
+303,Gael Henrique da Conceição,4,2,27,30
+303,Gael Henrique da Conceição,5,17,56,45
+303,Gael Henrique da Conceição,6,7,32,44
+303,Gael Henrique da Conceição,7,1,61,30
+303,Gael Henrique da Conceição,8,24,48,26
+304,Dra. Lunna Guerra,1,70,47,8
+304,Dra. Lunna Guerra,2,65,46,29
+304,Dra. Lunna Guerra,3,85,43,37
+304,Dra. Lunna Guerra,4,78,32,25
+304,Dra. Lunna Guerra,5,88,47,35
+304,Dra. Lunna Guerra,6,98,33,35
+304,Dra. Lunna Guerra,7,97,48,13
+304,Dra. Lunna Guerra,8,70,57,37
+305,Arthur Gabriel Sousa,1,41,26,0
+305,Arthur Gabriel Sousa,2,33,25,1
+305,Arthur Gabriel Sousa,3,54,26,0
+305,Arthur Gabriel Sousa,4,27,0,0
+305,Arthur Gabriel Sousa,5,32,30,11
+305,Arthur Gabriel Sousa,6,33,22,28
+305,Arthur Gabriel Sousa,7,37,8,4
+305,Arthur Gabriel Sousa,8,46,7,21
+306,Dra. Joana Fernandes,1,60,7,45
+306,Dra. Joana Fernandes,2,62,22,26
+306,Dra. Joana Fernandes,3,29,33,57
+306,Dra. Joana Fernandes,4,29,42,33
+306,Dra. Joana Fernandes,5,31,42,55
+306,Dra. Joana Fernandes,6,37,11,33
+306,Dra. Joana Fernandes,7,36,44,47
+306,Dra. Joana Fernandes,8,38,26,48
+307,Evelyn Azevedo,1,44,48,38
+307,Evelyn Azevedo,2,7,51,52
+307,Evelyn Azevedo,3,28,49,30
+307,Evelyn Azevedo,4,17,58,21
+307,Evelyn Azevedo,5,14,42,43
+307,Evelyn Azevedo,6,46,42,34
+307,Evelyn Azevedo,7,26,36,52
+307,Evelyn Azevedo,8,45,41,50
+308,Josué Casa Grande,1,85,16,58
+308,Josué Casa Grande,2,100,1,81
+308,Josué Casa Grande,3,100,0,55
+308,Josué Casa Grande,4,100,22,50
+308,Josué Casa Grande,5,100,0,84
+308,Josué Casa Grande,6,100,13,48
+308,Josué Casa Grande,7,92,3,83
+308,Josué Casa Grande,8,88,0,50
+309,Ana Sophia Martins,1,27,87,90
+309,Ana Sophia Martins,2,46,52,77
+309,Ana Sophia Martins,3,46,56,93
+309,Ana Sophia Martins,4,37,51,79
+309,Ana Sophia Martins,5,40,88,100
+309,Ana Sophia Martins,6,40,57,86
+309,Ana Sophia Martins,7,32,60,87
+309,Ana Sophia Martins,8,59,91,93
+310,Dr. Juan Freitas,1,62,65,33
+310,Dr. Juan Freitas,2,81,50,10
+310,Dr. Juan Freitas,3,95,58,2
+310,Dr. Juan Freitas,4,87,85,0
+310,Dr. Juan Freitas,5,95,72,27
+310,Dr. Juan Freitas,6,86,75,34
+310,Dr. Juan Freitas,7,62,57,4
+310,Dr. Juan Freitas,8,89,54,13
+311,Daniela Silveira,1,31,21,86
+311,Daniela Silveira,2,28,18,95
+311,Daniela Silveira,3,33,32,81
+311,Daniela Silveira,4,26,28,96
+311,Daniela Silveira,5,45,36,60
+311,Daniela Silveira,6,15,36,87
+311,Daniela Silveira,7,23,36,69
+311,Daniela Silveira,8,44,27,62
+312,Bryan da Mota,1,60,21,52
+312,Bryan da Mota,2,47,43,16
+312,Bryan da Mota,3,31,25,16
+312,Bryan da Mota,4,61,23,36
+312,Bryan da Mota,5,60,11,44
+312,Bryan da Mota,6,61,45,20
+312,Bryan da Mota,7,36,44,17
+312,Bryan da Mota,8,37,39,28
+313,Anthony Pastor,1,65,82,75
+313,Anthony Pastor,2,64,67,96
+313,Anthony Pastor,3,58,51,98
+313,Anthony Pastor,4,47,81,98
+313,Anthony Pastor,5,48,55,100
+313,Anthony Pastor,6,63,49,78
+313,Anthony Pastor,7,66,61,92
+313,Anthony Pastor,8,62,68,100
+314,Cecília Machado,1,76,13,99
+314,Cecília Machado,2,97,16,100
+314,Cecília Machado,3,92,0,75
+314,Cecília Machado,4,90,12,79
+314,Cecília Machado,5,95,6,92
+314,Cecília Machado,6,100,0,92
+314,Cecília Machado,7,84,12,82
+314,Cecília Machado,8,97,19,100
+315,Maria Julia Garcia,1,61,92,58
+315,Maria Julia Garcia,2,64,69,69
+315,Maria Julia Garcia,3,63,75,55
+315,Maria Julia Garcia,4,54,100,59
+315,Maria Julia Garcia,5,73,75,71
+315,Maria Julia Garcia,6,57,100,49
+315,Maria Julia Garcia,7,69,91,79
+315,Maria Julia Garcia,8,58,97,51
+316,Raul Freitas,1,100,25,55
+316,Raul Freitas,2,81,17,55
+316,Raul Freitas,3,87,37,35
+316,Raul Freitas,4,100,29,30
+316,Raul Freitas,5,100,13,26
+316,Raul Freitas,6,100,42,47
+316,Raul Freitas,7,86,5,56
+316,Raul Freitas,8,98,18,52
+317,Beatriz Rios,1,61,100,46
+317,Beatriz Rios,2,59,96,44
+317,Beatriz Rios,3,34,75,56
+317,Beatriz Rios,4,36,100,31
+317,Beatriz Rios,5,48,88,45
+317,Beatriz Rios,6,71,92,49
+317,Beatriz Rios,7,44,84,57
+317,Beatriz Rios,8,47,91,50
+318,Lorena Sampaio,1,69,19,89
+318,Lorena Sampaio,2,37,13,96
+318,Lorena Sampaio,3,61,20,84
+318,Lorena Sampaio,4,67,42,76
+318,Lorena Sampaio,5,48,20,71
+318,Lorena Sampaio,6,49,47,79
+318,Lorena Sampaio,7,61,18,100
+318,Lorena Sampaio,8,64,47,94
+319,Sra. Gabrielly Viana,1,95,25,58
+319,Sra. Gabrielly Viana,2,75,15,36
+319,Sra. Gabrielly Viana,3,100,47,41
+319,Sra. Gabrielly Viana,4,100,20,51
+319,Sra. Gabrielly Viana,5,98,12,44
+319,Sra. Gabrielly Viana,6,100,27,47
+319,Sra. Gabrielly Viana,7,73,26,50
+319,Sra. Gabrielly Viana,8,100,26,36
+320,Sophia Rocha,1,16,25,14
+320,Sophia Rocha,2,35,32,10
+320,Sophia Rocha,3,28,20,10
+320,Sophia Rocha,4,11,17,0
+320,Sophia Rocha,5,20,27,14
+320,Sophia Rocha,6,45,47,18
+320,Sophia Rocha,7,22,17,13
+320,Sophia Rocha,8,29,27,13
+321,Cecília Fogaça,1,75,21,24
+321,Cecília Fogaça,2,58,46,39
+321,Cecília Fogaça,3,47,43,30
+321,Cecília Fogaça,4,58,13,23
+321,Cecília Fogaça,5,52,34,22
+321,Cecília Fogaça,6,79,24,38
+321,Cecília Fogaça,7,58,42,12
+321,Cecília Fogaça,8,48,27,5
+322,João Gabriel Ferreira,1,44,39,6
+322,João Gabriel Ferreira,2,34,20,10
+322,João Gabriel Ferreira,3,53,33,26
+322,João Gabriel Ferreira,4,63,41,21
+322,João Gabriel Ferreira,5,52,36,11
+322,João Gabriel Ferreira,6,33,22,13
+322,João Gabriel Ferreira,7,61,44,1
+322,João Gabriel Ferreira,8,64,12,6
+323,Arthur Albuquerque,1,59,78,73
+323,Arthur Albuquerque,2,60,82,65
+323,Arthur Albuquerque,3,53,62,60
+323,Arthur Albuquerque,4,52,74,75
+323,Arthur Albuquerque,5,65,95,93
+323,Arthur Albuquerque,6,67,64,87
+323,Arthur Albuquerque,7,68,81,79
+323,Arthur Albuquerque,8,69,86,81
+324,Davi Miguel Silveira,1,85,0,75
+324,Davi Miguel Silveira,2,72,15,74
+324,Davi Miguel Silveira,3,98,10,42
+324,Davi Miguel Silveira,4,68,20,47
+324,Davi Miguel Silveira,5,72,0,74
+324,Davi Miguel Silveira,6,64,0,74
+324,Davi Miguel Silveira,7,64,7,78
+324,Davi Miguel Silveira,8,87,0,55
+325,Apollo Pinto,1,75,2,58
+325,Apollo Pinto,2,46,2,73
+325,Apollo Pinto,3,38,34,61
+325,Apollo Pinto,4,60,31,69
+325,Apollo Pinto,5,71,12,58
+325,Apollo Pinto,6,39,7,73
+325,Apollo Pinto,7,41,17,70
+325,Apollo Pinto,8,40,22,87
+326,Yuri Gonçalves,1,49,55,91
+326,Yuri Gonçalves,2,16,61,67
+326,Yuri Gonçalves,3,48,79,90
+326,Yuri Gonçalves,4,22,83,90
+326,Yuri Gonçalves,5,40,58,90
+326,Yuri Gonçalves,6,30,72,83
+326,Yuri Gonçalves,7,31,84,95
+326,Yuri Gonçalves,8,26,54,73
+327,Vicente Vieira,1,88,6,0
+327,Vicente Vieira,2,69,19,0
+327,Vicente Vieira,3,57,9,1
+327,Vicente Vieira,4,92,0,3
+327,Vicente Vieira,5,82,0,0
+327,Vicente Vieira,6,72,0,0
+327,Vicente Vieira,7,88,2,11
+327,Vicente Vieira,8,77,0,10
+328,Sr. Lorenzo Porto,1,35,24,31
+328,Sr. Lorenzo Porto,2,43,15,51
+328,Sr. Lorenzo Porto,3,67,43,60
+328,Sr. Lorenzo Porto,4,50,51,51
+328,Sr. Lorenzo Porto,5,50,43,46
+328,Sr. Lorenzo Porto,6,44,47,58
+328,Sr. Lorenzo Porto,7,34,32,46
+328,Sr. Lorenzo Porto,8,32,40,71
+329,Rodrigo Barros,1,24,31,100
+329,Rodrigo Barros,2,53,62,88
+329,Rodrigo Barros,3,53,32,81
+329,Rodrigo Barros,4,52,31,85
+329,Rodrigo Barros,5,33,46,100
+329,Rodrigo Barros,6,14,54,95
+329,Rodrigo Barros,7,53,56,91
+329,Rodrigo Barros,8,15,29,73
+330,Lorena Vasconcelos,1,39,56,49
+330,Lorena Vasconcelos,2,58,84,52
+330,Lorena Vasconcelos,3,34,81,43
+330,Lorena Vasconcelos,4,28,66,59
+330,Lorena Vasconcelos,5,34,60,34
+330,Lorena Vasconcelos,6,57,50,40
+330,Lorena Vasconcelos,7,61,73,59
+330,Lorena Vasconcelos,8,21,49,31
+331,Gabrielly Montenegro,1,83,82,60
+331,Gabrielly Montenegro,2,88,100,76
+331,Gabrielly Montenegro,3,100,76,67
+331,Gabrielly Montenegro,4,97,71,74
+331,Gabrielly Montenegro,5,88,100,97
+331,Gabrielly Montenegro,6,78,91,61
+331,Gabrielly Montenegro,7,100,97,58
+331,Gabrielly Montenegro,8,100,96,95
+332,Bruno Vasconcelos,1,62,59,26
+332,Bruno Vasconcelos,2,39,53,20
+332,Bruno Vasconcelos,3,33,52,28
+332,Bruno Vasconcelos,4,42,52,52
+332,Bruno Vasconcelos,5,30,54,40
+332,Bruno Vasconcelos,6,39,43,28
+332,Bruno Vasconcelos,7,64,76,23
+332,Bruno Vasconcelos,8,52,39,50
+333,Sra. Helena Guerra,1,75,100,69
+333,Sra. Helena Guerra,2,78,100,50
+333,Sra. Helena Guerra,3,72,89,70
+333,Sra. Helena Guerra,4,72,91,62
+333,Sra. Helena Guerra,5,86,88,35
+333,Sra. Helena Guerra,6,59,75,57
+333,Sra. Helena Guerra,7,74,100,62
+333,Sra. Helena Guerra,8,82,75,62
+334,Srta. Maria Fernanda Fonseca,1,50,46,71
+334,Srta. Maria Fernanda Fonseca,2,61,27,74
+334,Srta. Maria Fernanda Fonseca,3,72,34,53
+334,Srta. Maria Fernanda Fonseca,4,36,53,40
+334,Srta. Maria Fernanda Fonseca,5,62,28,43
+334,Srta. Maria Fernanda Fonseca,6,52,26,73
+334,Srta. Maria Fernanda Fonseca,7,71,27,49
+334,Srta. Maria Fernanda Fonseca,8,60,43,60
+335,Dr. Ravi Cardoso,1,71,76,100
+335,Dr. Ravi Cardoso,2,69,84,84
+335,Dr. Ravi Cardoso,3,78,91,86
+335,Dr. Ravi Cardoso,4,65,80,95
+335,Dr. Ravi Cardoso,5,50,99,100
+335,Dr. Ravi Cardoso,6,82,66,98
+335,Dr. Ravi Cardoso,7,63,88,87
+335,Dr. Ravi Cardoso,8,79,85,100
+336,Heloísa Pacheco,1,94,33,90
+336,Heloísa Pacheco,2,89,48,95
+336,Heloísa Pacheco,3,100,46,78
+336,Heloísa Pacheco,4,96,34,84
+336,Heloísa Pacheco,5,100,46,100
+336,Heloísa Pacheco,6,95,44,100
+336,Heloísa Pacheco,7,100,29,78
+336,Heloísa Pacheco,8,100,19,100
+337,Felipe Fonseca,1,64,86,37
+337,Felipe Fonseca,2,39,89,65
+337,Felipe Fonseca,3,74,66,68
+337,Felipe Fonseca,4,61,86,56
+337,Felipe Fonseca,5,34,57,40
+337,Felipe Fonseca,6,55,86,62
+337,Felipe Fonseca,7,38,82,74
+337,Felipe Fonseca,8,74,67,53
+338,Esther Nunes,1,34,43,100
+338,Esther Nunes,2,18,43,89
+338,Esther Nunes,3,21,51,92
+338,Esther Nunes,4,17,46,84
+338,Esther Nunes,5,35,43,70
+338,Esther Nunes,6,12,27,79
+338,Esther Nunes,7,18,59,77
+338,Esther Nunes,8,34,31,70
+339,Kaique Silveira,1,87,42,76
+339,Kaique Silveira,2,55,37,83
+339,Kaique Silveira,3,58,55,92
+339,Kaique Silveira,4,70,44,84
+339,Kaique Silveira,5,60,41,66
+339,Kaique Silveira,6,84,20,85
+339,Kaique Silveira,7,82,60,91
+339,Kaique Silveira,8,64,30,81
+340,Leonardo Machado,1,63,23,70
+340,Leonardo Machado,2,56,28,78
+340,Leonardo Machado,3,83,0,67
+340,Leonardo Machado,4,83,7,96
+340,Leonardo Machado,5,84,16,98
+340,Leonardo Machado,6,60,23,80
+340,Leonardo Machado,7,62,21,87
+340,Leonardo Machado,8,89,32,96
+341,Sra. Ana Carolina Castro,1,47,52,35
+341,Sra. Ana Carolina Castro,2,40,38,37
+341,Sra. Ana Carolina Castro,3,16,30,2
+341,Sra. Ana Carolina Castro,4,18,44,21
+341,Sra. Ana Carolina Castro,5,30,51,15
+341,Sra. Ana Carolina Castro,6,16,45,33
+341,Sra. Ana Carolina Castro,7,19,37,10
+341,Sra. Ana Carolina Castro,8,30,61,38
+342,Cauã Rios,1,70,27,14
+342,Cauã Rios,2,45,52,24
+342,Cauã Rios,3,61,38,4
+342,Cauã Rios,4,43,31,39
+342,Cauã Rios,5,68,53,23
+342,Cauã Rios,6,66,27,42
+342,Cauã Rios,7,33,46,38
+342,Cauã Rios,8,59,39,27
+343,Théo Alves,1,88,34,0
+343,Théo Alves,2,84,4,0
+343,Théo Alves,3,59,24,12
+343,Théo Alves,4,92,24,16
+343,Théo Alves,5,75,11,5
+343,Théo Alves,6,58,7,6
+343,Théo Alves,7,92,9,0
+343,Théo Alves,8,98,21,0
+344,Renan Garcia,1,78,0,100
+344,Renan Garcia,2,77,21,80
+344,Renan Garcia,3,82,6,65
+344,Renan Garcia,4,80,9,100
+344,Renan Garcia,5,57,0,67
+344,Renan Garcia,6,97,18,91
+344,Renan Garcia,7,72,0,74
+344,Renan Garcia,8,79,18,94
+345,Manuela Albuquerque,1,100,0,74
+345,Manuela Albuquerque,2,77,6,45
+345,Manuela Albuquerque,3,100,0,71
+345,Manuela Albuquerque,4,100,0,60
+345,Manuela Albuquerque,5,100,32,79
+345,Manuela Albuquerque,6,100,21,68
+345,Manuela Albuquerque,7,75,17,82
+345,Manuela Albuquerque,8,100,22,53
+346,Vitor Hugo Siqueira,1,41,51,89
+346,Vitor Hugo Siqueira,2,29,22,62
+346,Vitor Hugo Siqueira,3,23,26,93
+346,Vitor Hugo Siqueira,4,12,25,57
+346,Vitor Hugo Siqueira,5,35,30,68
+346,Vitor Hugo Siqueira,6,26,27,80
+346,Vitor Hugo Siqueira,7,14,48,86
+346,Vitor Hugo Siqueira,8,8,13,77
+347,Ana Júlia Brito,1,21,22,7
+347,Ana Júlia Brito,2,42,35,26
+347,Ana Júlia Brito,3,26,30,26
+347,Ana Júlia Brito,4,12,40,15
+347,Ana Júlia Brito,5,44,29,27
+347,Ana Júlia Brito,6,22,8,31
+347,Ana Júlia Brito,7,25,35,3
+347,Ana Júlia Brito,8,14,23,6
+348,Ravi Lucca Marques,1,39,67,40
+348,Ravi Lucca Marques,2,47,87,12
+348,Ravi Lucca Marques,3,50,79,17
+348,Ravi Lucca Marques,4,57,73,42
+348,Ravi Lucca Marques,5,52,78,50
+348,Ravi Lucca Marques,6,65,75,11
+348,Ravi Lucca Marques,7,62,74,27
+348,Ravi Lucca Marques,8,63,79,21
+349,Murilo Vasconcelos,1,46,17,46
+349,Murilo Vasconcelos,2,50,18,45
+349,Murilo Vasconcelos,3,77,12,15
+349,Murilo Vasconcelos,4,69,0,40
+349,Murilo Vasconcelos,5,46,0,16
+349,Murilo Vasconcelos,6,78,0,29
+349,Murilo Vasconcelos,7,67,13,12
+349,Murilo Vasconcelos,8,42,19,48
+350,Dante Siqueira,1,26,37,31
+350,Dante Siqueira,2,28,50,33
+350,Dante Siqueira,3,40,50,37
+350,Dante Siqueira,4,15,59,21
+350,Dante Siqueira,5,26,47,22
+350,Dante Siqueira,6,48,64,33
+350,Dante Siqueira,7,22,41,23
+350,Dante Siqueira,8,16,32,42
+351,Noah Lima,1,49,23,30
+351,Noah Lima,2,67,30,30
+351,Noah Lima,3,44,1,53
+351,Noah Lima,4,66,4,45
+351,Noah Lima,5,40,14,27
+351,Noah Lima,6,52,28,21
+351,Noah Lima,7,58,12,21
+351,Noah Lima,8,71,12,37
+352,Maria Eduarda Rios,1,68,11,90
+352,Maria Eduarda Rios,2,63,3,87
+352,Maria Eduarda Rios,3,57,21,89
+352,Maria Eduarda Rios,4,45,0,89
+352,Maria Eduarda Rios,5,46,17,80
+352,Maria Eduarda Rios,6,60,28,76
+352,Maria Eduarda Rios,7,42,2,87
+352,Maria Eduarda Rios,8,80,0,95
+353,Alexia Nascimento,1,60,100,70
+353,Alexia Nascimento,2,46,94,83
+353,Alexia Nascimento,3,45,98,100
+353,Alexia Nascimento,4,71,79,83
+353,Alexia Nascimento,5,51,100,90
+353,Alexia Nascimento,6,69,100,91
+353,Alexia Nascimento,7,55,66,100
+353,Alexia Nascimento,8,55,80,100
+354,Léo Carvalho,1,2,100,66
+354,Léo Carvalho,2,12,68,83
+354,Léo Carvalho,3,2,100,76
+354,Léo Carvalho,4,27,77,81
+354,Léo Carvalho,5,29,100,100
+354,Léo Carvalho,6,29,71,73
+354,Léo Carvalho,7,2,70,87
+354,Léo Carvalho,8,15,71,66
+355,Ester Pereira,1,12,50,17
+355,Ester Pereira,2,25,54,29
+355,Ester Pereira,3,31,49,20
+355,Ester Pereira,4,32,48,21
+355,Ester Pereira,5,37,21,12
+355,Ester Pereira,6,21,39,22
+355,Ester Pereira,7,37,50,45
+355,Ester Pereira,8,19,26,20
+356,Isabel Costela,1,57,45,43
+356,Isabel Costela,2,55,75,66
+356,Isabel Costela,3,24,72,67
+356,Isabel Costela,4,37,45,58
+356,Isabel Costela,5,28,55,55
+356,Isabel Costela,6,47,52,69
+356,Isabel Costela,7,41,75,31
+356,Isabel Costela,8,57,80,62
+357,Srta. Ayla Ramos,1,76,33,87
+357,Srta. Ayla Ramos,2,80,71,92
+357,Srta. Ayla Ramos,3,78,44,77
+357,Srta. Ayla Ramos,4,89,34,62
+357,Srta. Ayla Ramos,5,67,47,83
+357,Srta. Ayla Ramos,6,74,66,65
+357,Srta. Ayla Ramos,7,70,53,70
+357,Srta. Ayla Ramos,8,81,32,83
+358,Thiago Porto,1,51,65,65
+358,Thiago Porto,2,33,81,33
+358,Thiago Porto,3,65,89,43
+358,Thiago Porto,4,63,61,66
+358,Thiago Porto,5,58,89,62
+358,Thiago Porto,6,37,91,66
+358,Thiago Porto,7,37,62,69
+358,Thiago Porto,8,56,66,41
+359,Sr. João Felipe Camargo,1,63,98,44
+359,Sr. João Felipe Camargo,2,74,100,68
+359,Sr. João Felipe Camargo,3,83,79,31
+359,Sr. João Felipe Camargo,4,57,76,43
+359,Sr. João Felipe Camargo,5,57,89,60
+359,Sr. João Felipe Camargo,6,77,100,36
+359,Sr. João Felipe Camargo,7,84,100,52
+359,Sr. João Felipe Camargo,8,74,84,68
+360,Erick Casa Grande,1,58,86,10
+360,Erick Casa Grande,2,89,100,9
+360,Erick Casa Grande,3,81,93,21
+360,Erick Casa Grande,4,74,99,14
+360,Erick Casa Grande,5,74,82,19
+360,Erick Casa Grande,6,62,90,0
+360,Erick Casa Grande,7,86,100,0
+360,Erick Casa Grande,8,81,72,0
+361,Ian Moraes,1,17,37,83
+361,Ian Moraes,2,22,49,100
+361,Ian Moraes,3,20,48,100
+361,Ian Moraes,4,24,19,100
+361,Ian Moraes,5,50,24,100
+361,Ian Moraes,6,53,45,87
+361,Ian Moraes,7,42,17,100
+361,Ian Moraes,8,17,39,100
+362,Olívia Monteiro,1,86,95,86
+362,Olívia Monteiro,2,100,100,63
+362,Olívia Monteiro,3,96,92,66
+362,Olívia Monteiro,4,65,73,85
+362,Olívia Monteiro,5,100,91,80
+362,Olívia Monteiro,6,73,91,84
+362,Olívia Monteiro,7,100,79,64
+362,Olívia Monteiro,8,100,90,67
+363,Ana Vitória Lima,1,47,57,98
+363,Ana Vitória Lima,2,13,35,90
+363,Ana Vitória Lima,3,52,53,83
+363,Ana Vitória Lima,4,19,57,96
+363,Ana Vitória Lima,5,39,54,93
+363,Ana Vitória Lima,6,28,50,87
+363,Ana Vitória Lima,7,45,42,88
+363,Ana Vitória Lima,8,43,47,100
+364,Gael Henrique da Costa,1,87,41,40
+364,Gael Henrique da Costa,2,88,43,69
+364,Gael Henrique da Costa,3,75,56,43
+364,Gael Henrique da Costa,4,75,44,74
+364,Gael Henrique da Costa,5,99,49,49
+364,Gael Henrique da Costa,6,98,60,76
+364,Gael Henrique da Costa,7,97,70,64
+364,Gael Henrique da Costa,8,88,36,63
+365,Ana Beatriz Teixeira,1,70,22,86
+365,Ana Beatriz Teixeira,2,99,0,91
+365,Ana Beatriz Teixeira,3,74,13,83
+365,Ana Beatriz Teixeira,4,67,15,94
+365,Ana Beatriz Teixeira,5,100,9,92
+365,Ana Beatriz Teixeira,6,81,0,100
+365,Ana Beatriz Teixeira,7,91,22,99
+365,Ana Beatriz Teixeira,8,85,20,100
+366,Luiz Miguel Silveira,1,100,24,9
+366,Luiz Miguel Silveira,2,74,8,6
+366,Luiz Miguel Silveira,3,89,2,9
+366,Luiz Miguel Silveira,4,100,14,25
+366,Luiz Miguel Silveira,5,100,28,38
+366,Luiz Miguel Silveira,6,100,27,18
+366,Luiz Miguel Silveira,7,84,21,5
+366,Luiz Miguel Silveira,8,75,2,30
+367,Maria Flor da Rocha,1,100,72,53
+367,Maria Flor da Rocha,2,100,76,67
+367,Maria Flor da Rocha,3,93,95,36
+367,Maria Flor da Rocha,4,91,100,43
+367,Maria Flor da Rocha,5,100,78,56
+367,Maria Flor da Rocha,6,100,100,40
+367,Maria Flor da Rocha,7,88,91,37
+367,Maria Flor da Rocha,8,98,73,68
+368,João Lucas Nunes,1,76,49,79
+368,João Lucas Nunes,2,79,66,59
+368,João Lucas Nunes,3,100,53,81
+368,João Lucas Nunes,4,71,61,70
+368,João Lucas Nunes,5,80,26,84
+368,João Lucas Nunes,6,87,49,74
+368,João Lucas Nunes,7,69,38,76
+368,João Lucas Nunes,8,100,30,54
+369,Enrico Costa,1,65,86,70
+369,Enrico Costa,2,46,58,62
+369,Enrico Costa,3,47,90,84
+369,Enrico Costa,4,63,60,69
+369,Enrico Costa,5,53,58,78
+369,Enrico Costa,6,42,70,69
+369,Enrico Costa,7,58,69,77
+369,Enrico Costa,8,66,82,53
+370,Dr. Luiz Otávio Gomes,1,100,95,0
+370,Dr. Luiz Otávio Gomes,2,84,94,19
+370,Dr. Luiz Otávio Gomes,3,79,76,22
+370,Dr. Luiz Otávio Gomes,4,100,96,16
+370,Dr. Luiz Otávio Gomes,5,80,76,19
+370,Dr. Luiz Otávio Gomes,6,95,87,17
+370,Dr. Luiz Otávio Gomes,7,76,80,8
+370,Dr. Luiz Otávio Gomes,8,71,77,16
+371,Clara Cavalcanti,1,26,32,55
+371,Clara Cavalcanti,2,36,13,39
+371,Clara Cavalcanti,3,3,12,62
+371,Clara Cavalcanti,4,36,4,29
+371,Clara Cavalcanti,5,16,5,27
+371,Clara Cavalcanti,6,7,12,44
+371,Clara Cavalcanti,7,33,36,56
+371,Clara Cavalcanti,8,19,16,36
+372,Rafaela Leão,1,80,57,34
+372,Rafaela Leão,2,68,54,30
+372,Rafaela Leão,3,67,50,13
+372,Rafaela Leão,4,58,71,37
+372,Rafaela Leão,5,66,44,4
+372,Rafaela Leão,6,61,77,8
+372,Rafaela Leão,7,84,76,28
+372,Rafaela Leão,8,62,41,39
+373,Isabelly Abreu,1,83,46,5
+373,Isabelly Abreu,2,52,54,0
+373,Isabelly Abreu,3,71,67,18
+373,Isabelly Abreu,4,45,34,17
+373,Isabelly Abreu,5,52,57,28
+373,Isabelly Abreu,6,63,40,4
+373,Isabelly Abreu,7,46,66,0
+373,Isabelly Abreu,8,83,35,14
+374,Liz da Luz,1,49,30,32
+374,Liz da Luz,2,64,32,24
+374,Liz da Luz,3,79,0,54
+374,Liz da Luz,4,50,25,31
+374,Liz da Luz,5,55,15,27
+374,Liz da Luz,6,76,20,46
+374,Liz da Luz,7,68,26,32
+374,Liz da Luz,8,64,10,42
+375,Letícia da Costa,1,47,46,35
+375,Letícia da Costa,2,68,49,30
+375,Letícia da Costa,3,64,49,28
+375,Letícia da Costa,4,50,80,37
+375,Letícia da Costa,5,48,71,43
+375,Letícia da Costa,6,56,42,19
+375,Letícia da Costa,7,47,52,23
+375,Letícia da Costa,8,72,40,17
+376,Lorena Ramos,1,16,81,87
+376,Lorena Ramos,2,26,100,100
+376,Lorena Ramos,3,29,100,72
+376,Lorena Ramos,4,21,89,79
+376,Lorena Ramos,5,10,89,77
+376,Lorena Ramos,6,16,100,79
+376,Lorena Ramos,7,30,100,73
+376,Lorena Ramos,8,45,84,77
+377,Gabrielly Marques,1,4,88,45
+377,Gabrielly Marques,2,0,80,61
+377,Gabrielly Marques,3,22,97,38
+377,Gabrielly Marques,4,34,100,60
+377,Gabrielly Marques,5,12,96,59
+377,Gabrielly Marques,6,27,90,33
+377,Gabrielly Marques,7,40,94,64
+377,Gabrielly Marques,8,8,89,29
+378,Joana Farias,1,83,21,2
+378,Joana Farias,2,77,8,19
+378,Joana Farias,3,73,10,2
+378,Joana Farias,4,83,13,29
+378,Joana Farias,5,84,0,12
+378,Joana Farias,6,96,0,12
+378,Joana Farias,7,73,0,0
+378,Joana Farias,8,81,0,19
+379,Sra. Joana Gonçalves,1,17,35,77
+379,Sra. Joana Gonçalves,2,30,31,75
+379,Sra. Joana Gonçalves,3,2,20,66
+379,Sra. Joana Gonçalves,4,21,15,87
+379,Sra. Joana Gonçalves,5,18,36,74
+379,Sra. Joana Gonçalves,6,40,42,85
+379,Sra. Joana Gonçalves,7,38,13,91
+379,Sra. Joana Gonçalves,8,26,40,62
+380,Igor Mendonça,1,86,24,99
+380,Igor Mendonça,2,90,46,84
+380,Igor Mendonça,3,61,61,100
+380,Igor Mendonça,4,52,55,100
+380,Igor Mendonça,5,91,37,98
+380,Igor Mendonça,6,84,51,81
+380,Igor Mendonça,7,58,47,100
+380,Igor Mendonça,8,53,31,85
+381,Sabrina Ferreira,1,33,67,68
+381,Sabrina Ferreira,2,34,71,92
+381,Sabrina Ferreira,3,22,73,100
+381,Sabrina Ferreira,4,47,68,78
+381,Sabrina Ferreira,5,26,34,100
+381,Sabrina Ferreira,6,20,44,99
+381,Sabrina Ferreira,7,13,59,75
+381,Sabrina Ferreira,8,17,71,100
+382,Zoe Correia,1,53,57,54
+382,Zoe Correia,2,59,44,40
+382,Zoe Correia,3,47,63,33
+382,Zoe Correia,4,56,43,31
+382,Zoe Correia,5,54,54,41
+382,Zoe Correia,6,62,65,41
+382,Zoe Correia,7,56,38,55
+382,Zoe Correia,8,52,43,50
+383,Olívia Pastor,1,59,21,47
+383,Olívia Pastor,2,81,25,48
+383,Olívia Pastor,3,73,8,72
+383,Olívia Pastor,4,63,40,72
+383,Olívia Pastor,5,58,17,59
+383,Olívia Pastor,6,45,41,63
+383,Olívia Pastor,7,56,38,51
+383,Olívia Pastor,8,60,21,41
+384,Rodrigo Novaes,1,95,79,39
+384,Rodrigo Novaes,2,85,62,37
+384,Rodrigo Novaes,3,81,93,43
+384,Rodrigo Novaes,4,100,76,54
+384,Rodrigo Novaes,5,80,61,47
+384,Rodrigo Novaes,6,87,86,33
+384,Rodrigo Novaes,7,79,66,56
+384,Rodrigo Novaes,8,95,77,52
+385,Luana Fernandes,1,56,60,26
+385,Luana Fernandes,2,27,58,39
+385,Luana Fernandes,3,33,48,51
+385,Luana Fernandes,4,30,47,56
+385,Luana Fernandes,5,24,48,44
+385,Luana Fernandes,6,26,78,49
+385,Luana Fernandes,7,50,81,25
+385,Luana Fernandes,8,56,79,32
+386,Lucas da Mata,1,74,44,78
+386,Lucas da Mata,2,100,44,87
+386,Lucas da Mata,3,97,16,100
+386,Lucas da Mata,4,82,26,100
+386,Lucas da Mata,5,100,36,76
+386,Lucas da Mata,6,100,26,100
+386,Lucas da Mata,7,86,38,77
+386,Lucas da Mata,8,100,54,86
+387,Stella Azevedo,1,8,58,77
+387,Stella Azevedo,2,42,56,66
+387,Stella Azevedo,3,9,87,87
+387,Stella Azevedo,4,12,70,74
+387,Stella Azevedo,5,44,76,66
+387,Stella Azevedo,6,27,76,59
+387,Stella Azevedo,7,34,59,88
+387,Stella Azevedo,8,41,50,83
+388,Clara Peixoto,1,65,14,21
+388,Clara Peixoto,2,53,21,22
+388,Clara Peixoto,3,63,33,6
+388,Clara Peixoto,4,61,11,10
+388,Clara Peixoto,5,88,16,0
+388,Clara Peixoto,6,83,29,6
+388,Clara Peixoto,7,53,5,3
+388,Clara Peixoto,8,72,12,34
+389,Asafe Silva,1,97,58,37
+389,Asafe Silva,2,79,66,47
+389,Asafe Silva,3,78,48,42
+389,Asafe Silva,4,81,55,63
+389,Asafe Silva,5,93,67,69
+389,Asafe Silva,6,75,50,34
+389,Asafe Silva,7,88,70,45
+389,Asafe Silva,8,87,68,32
+390,Eduardo Pires,1,40,77,11
+390,Eduardo Pires,2,38,68,25
+390,Eduardo Pires,3,35,71,5
+390,Eduardo Pires,4,51,77,10
+390,Eduardo Pires,5,47,99,33
+390,Eduardo Pires,6,29,86,23
+390,Eduardo Pires,7,36,88,17
+390,Eduardo Pires,8,32,74,33
+391,Benjamin Mendonça,1,73,64,81
+391,Benjamin Mendonça,2,65,35,98
+391,Benjamin Mendonça,3,51,41,63
+391,Benjamin Mendonça,4,66,30,94
+391,Benjamin Mendonça,5,40,49,91
+391,Benjamin Mendonça,6,52,33,68
+391,Benjamin Mendonça,7,68,61,66
+391,Benjamin Mendonça,8,78,45,85
+392,Anna Liz Gonçalves,1,69,100,47
+392,Anna Liz Gonçalves,2,88,74,61
+392,Anna Liz Gonçalves,3,89,92,48
+392,Anna Liz Gonçalves,4,61,76,43
+392,Anna Liz Gonçalves,5,87,69,62
+392,Anna Liz Gonçalves,6,64,70,43
+392,Anna Liz Gonçalves,7,88,94,42
+392,Anna Liz Gonçalves,8,61,69,63
+393,Maria Laura Cirino,1,92,90,43
+393,Maria Laura Cirino,2,100,59,55
+393,Maria Laura Cirino,3,100,85,49
+393,Maria Laura Cirino,4,100,68,44
+393,Maria Laura Cirino,5,89,74,60
+393,Maria Laura Cirino,6,100,59,65
+393,Maria Laura Cirino,7,100,74,38
+393,Maria Laura Cirino,8,92,60,26
+394,Luana da Costa,1,66,78,44
+394,Luana da Costa,2,59,97,29
+394,Luana da Costa,3,78,81,67
+394,Luana da Costa,4,48,84,37
+394,Luana da Costa,5,81,70,58
+394,Luana da Costa,6,60,79,33
+394,Luana da Costa,7,55,95,65
+394,Luana da Costa,8,71,95,52
+395,Pedro da Conceição,1,32,54,62
+395,Pedro da Conceição,2,54,34,33
+395,Pedro da Conceição,3,55,43,49
+395,Pedro da Conceição,4,22,42,72
+395,Pedro da Conceição,5,52,43,66
+395,Pedro da Conceição,6,59,50,60
+395,Pedro da Conceição,7,27,57,33
+395,Pedro da Conceição,8,58,26,59
+396,Bento Melo,1,100,61,26
+396,Bento Melo,2,88,72,20
+396,Bento Melo,3,100,77,41
+396,Bento Melo,4,68,65,18
+396,Bento Melo,5,90,56,32
+396,Bento Melo,6,76,47,26
+396,Bento Melo,7,99,72,40
+396,Bento Melo,8,100,53,30
+397,Guilherme Brito,1,31,42,51
+397,Guilherme Brito,2,16,30,64
+397,Guilherme Brito,3,42,46,48
+397,Guilherme Brito,4,24,36,78
+397,Guilherme Brito,5,38,24,77
+397,Guilherme Brito,6,26,35,42
+397,Guilherme Brito,7,20,42,44
+397,Guilherme Brito,8,12,35,61
+398,Théo Melo,1,99,31,84
+398,Théo Melo,2,100,43,90
+398,Théo Melo,3,91,40,87
+398,Théo Melo,4,100,46,84
+398,Théo Melo,5,97,42,81
+398,Théo Melo,6,87,14,100
+398,Théo Melo,7,97,21,92
+398,Théo Melo,8,82,50,86
+399,João Pedro Campos,1,100,73,40
+399,João Pedro Campos,2,100,74,11
+399,João Pedro Campos,3,93,54,26
+399,João Pedro Campos,4,86,61,29
+399,João Pedro Campos,5,99,63,32
+399,João Pedro Campos,6,75,76,28
+399,João Pedro Campos,7,81,65,45
+399,João Pedro Campos,8,100,75,30
+400,Dr. Guilherme Porto,1,36,82,94
+400,Dr. Guilherme Porto,2,13,100,76
+400,Dr. Guilherme Porto,3,31,100,98
+400,Dr. Guilherme Porto,4,53,96,99
+400,Dr. Guilherme Porto,5,25,100,88
+400,Dr. Guilherme Porto,6,35,100,99
+400,Dr. Guilherme Porto,7,27,94,82
+400,Dr. Guilherme Porto,8,43,100,100
+401,Nicolas Mendonça,1,59,99,50
+401,Nicolas Mendonça,2,67,85,22
+401,Nicolas Mendonça,3,75,100,30
+401,Nicolas Mendonça,4,87,78,42
+401,Nicolas Mendonça,5,79,100,13
+401,Nicolas Mendonça,6,78,76,29
+401,Nicolas Mendonça,7,64,91,41
+401,Nicolas Mendonça,8,62,100,32
+402,Srta. Bruna Mendes,1,100,59,16
+402,Srta. Bruna Mendes,2,100,91,38
+402,Srta. Bruna Mendes,3,100,76,33
+402,Srta. Bruna Mendes,4,91,63,18
+402,Srta. Bruna Mendes,5,100,77,24
+402,Srta. Bruna Mendes,6,95,67,55
+402,Srta. Bruna Mendes,7,88,83,52
+402,Srta. Bruna Mendes,8,93,89,30
+403,João Felipe Silva,1,32,59,64
+403,João Felipe Silva,2,32,61,90
+403,João Felipe Silva,3,50,58,74
+403,João Felipe Silva,4,43,62,74
+403,João Felipe Silva,5,54,77,87
+403,João Felipe Silva,6,50,60,89
+403,João Felipe Silva,7,59,75,86
+403,João Felipe Silva,8,25,39,99
+404,Luiza da Rocha,1,8,22,62
+404,Luiza da Rocha,2,41,33,50
+404,Luiza da Rocha,3,38,16,37
+404,Luiza da Rocha,4,28,7,37
+404,Luiza da Rocha,5,17,44,51
+404,Luiza da Rocha,6,29,30,41
+404,Luiza da Rocha,7,39,34,46
+404,Luiza da Rocha,8,28,8,26
+405,Yago Sá,1,79,24,19
+405,Yago Sá,2,66,0,49
+405,Yago Sá,3,96,0,26
+405,Yago Sá,4,67,18,33
+405,Yago Sá,5,99,12,37
+405,Yago Sá,6,65,2,21
+405,Yago Sá,7,78,22,19
+405,Yago Sá,8,90,21,31
+406,Luana Mendes,1,94,100,2
+406,Luana Mendes,2,70,100,28
+406,Luana Mendes,3,72,82,7
+406,Luana Mendes,4,92,71,8
+406,Luana Mendes,5,94,100,3
+406,Luana Mendes,6,89,100,14
+406,Luana Mendes,7,87,100,1
+406,Luana Mendes,8,98,82,19
+407,Diego Nascimento,1,36,100,58
+407,Diego Nascimento,2,36,98,77
+407,Diego Nascimento,3,44,91,69
+407,Diego Nascimento,4,17,82,77
+407,Diego Nascimento,5,40,75,76
+407,Diego Nascimento,6,23,100,67
+407,Diego Nascimento,7,51,78,73
+407,Diego Nascimento,8,52,85,66
+408,Mariah Vieira,1,100,73,74
+408,Mariah Vieira,2,100,78,94
+408,Mariah Vieira,3,91,63,100
+408,Mariah Vieira,4,79,66,100
+408,Mariah Vieira,5,83,50,100
+408,Mariah Vieira,6,100,63,100
+408,Mariah Vieira,7,80,75,85
+408,Mariah Vieira,8,79,62,100
+409,Nicole da Costa,1,100,68,42
+409,Nicole da Costa,2,82,84,35
+409,Nicole da Costa,3,100,69,34
+409,Nicole da Costa,4,100,83,40
+409,Nicole da Costa,5,89,67,31
+409,Nicole da Costa,6,87,64,29
+409,Nicole da Costa,7,100,76,45
+409,Nicole da Costa,8,89,70,31
+410,Dra. Ester Marques,1,52,22,50
+410,Dra. Ester Marques,2,66,13,43
+410,Dra. Ester Marques,3,56,22,48
+410,Dra. Ester Marques,4,47,28,56
+410,Dra. Ester Marques,5,77,23,47
+410,Dra. Ester Marques,6,48,44,31
+410,Dra. Ester Marques,7,71,34,48
+410,Dra. Ester Marques,8,64,19,68
+411,Otto Borges,1,88,21,52
+411,Otto Borges,2,100,8,52
+411,Otto Borges,3,95,11,63
+411,Otto Borges,4,100,18,57
+411,Otto Borges,5,81,42,30
+411,Otto Borges,6,100,43,51
+411,Otto Borges,7,72,39,47
+411,Otto Borges,8,99,12,65
+412,Ravi Vieira,1,79,56,82
+412,Ravi Vieira,2,86,67,96
+412,Ravi Vieira,3,69,56,91
+412,Ravi Vieira,4,80,72,97
+412,Ravi Vieira,5,72,59,87
+412,Ravi Vieira,6,73,38,62
+412,Ravi Vieira,7,88,40,100
+412,Ravi Vieira,8,62,59,74
+413,Agatha Ramos,1,95,6,24
+413,Agatha Ramos,2,79,33,27
+413,Agatha Ramos,3,78,12,6
+413,Agatha Ramos,4,88,21,3
+413,Agatha Ramos,5,100,23,16
+413,Agatha Ramos,6,100,6,12
+413,Agatha Ramos,7,91,27,4
+413,Agatha Ramos,8,100,2,23
+414,Noah Ribeiro,1,63,18,41
+414,Noah Ribeiro,2,83,0,64
+414,Noah Ribeiro,3,76,4,48
+414,Noah Ribeiro,4,58,0,64
+414,Noah Ribeiro,5,65,2,45
+414,Noah Ribeiro,6,79,30,52
+414,Noah Ribeiro,7,75,10,29
+414,Noah Ribeiro,8,63,22,56
+415,Lorenzo Nogueira,1,61,69,9
+415,Lorenzo Nogueira,2,95,65,0
+415,Lorenzo Nogueira,3,68,47,22
+415,Lorenzo Nogueira,4,69,72,0
+415,Lorenzo Nogueira,5,93,54,0
+415,Lorenzo Nogueira,6,88,44,0
+415,Lorenzo Nogueira,7,70,71,24
+415,Lorenzo Nogueira,8,91,44,0
+416,Noah Carvalho,1,45,71,76
+416,Noah Carvalho,2,37,52,60
+416,Noah Carvalho,3,40,55,42
+416,Noah Carvalho,4,48,56,72
+416,Noah Carvalho,5,41,70,46
+416,Noah Carvalho,6,61,71,40
+416,Noah Carvalho,7,43,50,64
+416,Noah Carvalho,8,31,39,61
+417,Cauê Nunes,1,62,41,60
+417,Cauê Nunes,2,67,47,79
+417,Cauê Nunes,3,51,40,69
+417,Cauê Nunes,4,53,28,89
+417,Cauê Nunes,5,69,64,77
+417,Cauê Nunes,6,38,26,67
+417,Cauê Nunes,7,48,29,90
+417,Cauê Nunes,8,48,33,86
+418,Mariah Souza,1,47,27,12
+418,Mariah Souza,2,77,32,34
+418,Mariah Souza,3,39,51,14
+418,Mariah Souza,4,42,31,40
+418,Mariah Souza,5,40,51,19
+418,Mariah Souza,6,37,51,40
+418,Mariah Souza,7,67,26,5
+418,Mariah Souza,8,43,16,42
+419,Gael Henrique Monteiro,1,80,57,36
+419,Gael Henrique Monteiro,2,83,71,47
+419,Gael Henrique Monteiro,3,73,58,53
+419,Gael Henrique Monteiro,4,92,74,34
+419,Gael Henrique Monteiro,5,79,43,56
+419,Gael Henrique Monteiro,6,82,70,50
+419,Gael Henrique Monteiro,7,86,50,71
+419,Gael Henrique Monteiro,8,68,65,72
+420,Pietro Viana,1,56,100,56
+420,Pietro Viana,2,55,87,40
+420,Pietro Viana,3,49,83,47
+420,Pietro Viana,4,53,93,39
+420,Pietro Viana,5,63,100,40
+420,Pietro Viana,6,69,90,47
+420,Pietro Viana,7,50,95,36
+420,Pietro Viana,8,81,100,38
+421,Maysa Novaes,1,95,14,21
+421,Maysa Novaes,2,70,23,9
+421,Maysa Novaes,3,100,24,26
+421,Maysa Novaes,4,71,8,13
+421,Maysa Novaes,5,94,5,9
+421,Maysa Novaes,6,100,0,31
+421,Maysa Novaes,7,78,21,6
+421,Maysa Novaes,8,82,0,35
+422,Mirella Dias,1,95,63,40
+422,Mirella Dias,2,84,70,62
+422,Mirella Dias,3,93,71,24
+422,Mirella Dias,4,96,73,53
+422,Mirella Dias,5,66,72,56
+422,Mirella Dias,6,73,77,23
+422,Mirella Dias,7,90,56,25
+422,Mirella Dias,8,75,54,41
+423,Ana Caldeira,1,87,95,59
+423,Ana Caldeira,2,56,83,50
+423,Ana Caldeira,3,87,83,64
+423,Ana Caldeira,4,71,76,43
+423,Ana Caldeira,5,74,90,68
+423,Ana Caldeira,6,76,67,55
+423,Ana Caldeira,7,74,61,43
+423,Ana Caldeira,8,50,67,52
+424,Bruna Pastor,1,76,60,27
+424,Bruna Pastor,2,82,27,28
+424,Bruna Pastor,3,91,66,42
+424,Bruna Pastor,4,89,62,33
+424,Bruna Pastor,5,92,59,34
+424,Bruna Pastor,6,71,56,46
+424,Bruna Pastor,7,84,49,37
+424,Bruna Pastor,8,70,62,46
+425,Maria Fernanda Rocha,1,72,43,64
+425,Maria Fernanda Rocha,2,100,41,79
+425,Maria Fernanda Rocha,3,68,60,72
+425,Maria Fernanda Rocha,4,100,60,63
+425,Maria Fernanda Rocha,5,100,29,46
+425,Maria Fernanda Rocha,6,94,24,52
+425,Maria Fernanda Rocha,7,92,54,55
+425,Maria Fernanda Rocha,8,82,49,78
+426,Maria Isis Brito,1,42,75,62
+426,Maria Isis Brito,2,50,85,52
+426,Maria Isis Brito,3,49,95,66
+426,Maria Isis Brito,4,42,84,59
+426,Maria Isis Brito,5,65,60,62
+426,Maria Isis Brito,6,55,82,57
+426,Maria Isis Brito,7,70,92,59
+426,Maria Isis Brito,8,42,75,29
+427,Yuri Nunes,1,68,77,46
+427,Yuri Nunes,2,71,92,51
+427,Yuri Nunes,3,52,69,40
+427,Yuri Nunes,4,49,70,41
+427,Yuri Nunes,5,56,94,52
+427,Yuri Nunes,6,46,56,58
+427,Yuri Nunes,7,39,90,40
+427,Yuri Nunes,8,57,60,52
+428,Luna Cavalcanti,1,49,26,36
+428,Luna Cavalcanti,2,76,21,25
+428,Luna Cavalcanti,3,54,31,20
+428,Luna Cavalcanti,4,67,23,40
+428,Luna Cavalcanti,5,42,50,44
+428,Luna Cavalcanti,6,73,51,52
+428,Luna Cavalcanti,7,79,29,50
+428,Luna Cavalcanti,8,76,34,30
+429,Benício Rodrigues,1,100,59,32
+429,Benício Rodrigues,2,100,78,7
+429,Benício Rodrigues,3,100,72,31
+429,Benício Rodrigues,4,81,62,30
+429,Benício Rodrigues,5,100,65,23
+429,Benício Rodrigues,6,77,73,42
+429,Benício Rodrigues,7,100,67,21
+429,Benício Rodrigues,8,90,60,42
+430,Bruno Sousa,1,100,23,52
+430,Bruno Sousa,2,79,31,76
+430,Bruno Sousa,3,100,31,42
+430,Bruno Sousa,4,79,15,77
+430,Bruno Sousa,5,78,30,67
+430,Bruno Sousa,6,85,3,51
+430,Bruno Sousa,7,76,25,75
+430,Bruno Sousa,8,100,30,63
+431,Sr. Cauê Araújo,1,100,77,54
+431,Sr. Cauê Araújo,2,100,73,65
+431,Sr. Cauê Araújo,3,94,80,63
+431,Sr. Cauê Araújo,4,100,63,67
+431,Sr. Cauê Araújo,5,100,62,34
+431,Sr. Cauê Araújo,6,91,79,39
+431,Sr. Cauê Araújo,7,100,62,33
+431,Sr. Cauê Araújo,8,94,77,57
+432,Vitor Gabriel Porto,1,93,0,100
+432,Vitor Gabriel Porto,2,77,8,75
+432,Vitor Gabriel Porto,3,94,7,100
+432,Vitor Gabriel Porto,4,100,0,87
+432,Vitor Gabriel Porto,5,85,0,76
+432,Vitor Gabriel Porto,6,76,0,77
+432,Vitor Gabriel Porto,7,84,3,100
+432,Vitor Gabriel Porto,8,89,5,81
+433,Heloisa Nascimento,1,100,42,3
+433,Heloisa Nascimento,2,100,36,13
+433,Heloisa Nascimento,3,82,39,41
+433,Heloisa Nascimento,4,80,61,37
+433,Heloisa Nascimento,5,91,44,27
+433,Heloisa Nascimento,6,94,63,33
+433,Heloisa Nascimento,7,86,44,22
+433,Heloisa Nascimento,8,100,43,31
+434,Maria Cecília Pastor,1,46,79,56
+434,Maria Cecília Pastor,2,56,53,59
+434,Maria Cecília Pastor,3,58,52,52
+434,Maria Cecília Pastor,4,70,66,59
+434,Maria Cecília Pastor,5,85,61,60
+434,Maria Cecília Pastor,6,56,42,44
+434,Maria Cecília Pastor,7,56,79,47
+434,Maria Cecília Pastor,8,80,55,45
+435,Henry Mendes,1,52,65,12
+435,Henry Mendes,2,63,60,33
+435,Henry Mendes,3,55,69,9
+435,Henry Mendes,4,38,55,32
+435,Henry Mendes,5,51,59,8
+435,Henry Mendes,6,62,68,17
+435,Henry Mendes,7,69,50,29
+435,Henry Mendes,8,58,57,30
+436,João Lucas Casa Grande,1,96,9,64
+436,João Lucas Casa Grande,2,76,0,57
+436,João Lucas Casa Grande,3,74,3,48
+436,João Lucas Casa Grande,4,73,0,62
+436,João Lucas Casa Grande,5,68,24,47
+436,João Lucas Casa Grande,6,96,8,78
+436,João Lucas Casa Grande,7,76,23,75
+436,João Lucas Casa Grande,8,96,7,49
+437,Kevin da Costa,1,94,91,35
+437,Kevin da Costa,2,79,70,36
+437,Kevin da Costa,3,64,67,33
+437,Kevin da Costa,4,60,70,66
+437,Kevin da Costa,5,59,85,47
+437,Kevin da Costa,6,91,95,36
+437,Kevin da Costa,7,97,81,65
+437,Kevin da Costa,8,95,78,32
+438,Dra. Antonella Silva,1,55,44,74
+438,Dra. Antonella Silva,2,75,14,57
+438,Dra. Antonella Silva,3,64,45,64
+438,Dra. Antonella Silva,4,71,46,64
+438,Dra. Antonella Silva,5,73,26,57
+438,Dra. Antonella Silva,6,72,24,80
+438,Dra. Antonella Silva,7,63,47,51
+438,Dra. Antonella Silva,8,47,44,85
+439,Isaac Monteiro,1,42,61,90
+439,Isaac Monteiro,2,28,39,83
+439,Isaac Monteiro,3,25,62,100
+439,Isaac Monteiro,4,32,41,100
+439,Isaac Monteiro,5,54,65,100
+439,Isaac Monteiro,6,54,43,76
+439,Isaac Monteiro,7,31,75,74
+439,Isaac Monteiro,8,45,53,100
+440,Antônio Almeida,1,86,56,60
+440,Antônio Almeida,2,74,56,61
+440,Antônio Almeida,3,82,80,88
+440,Antônio Almeida,4,68,60,59
+440,Antônio Almeida,5,78,88,69
+440,Antônio Almeida,6,79,65,57
+440,Antônio Almeida,7,51,73,85
+440,Antônio Almeida,8,60,77,68
+441,Bianca Andrade,1,60,0,81
+441,Bianca Andrade,2,36,0,98
+441,Bianca Andrade,3,60,12,100
+441,Bianca Andrade,4,65,10,100
+441,Bianca Andrade,5,65,0,100
+441,Bianca Andrade,6,65,13,100
+441,Bianca Andrade,7,58,0,83
+441,Bianca Andrade,8,34,0,93
+442,Bárbara Mendes,1,88,28,48
+442,Bárbara Mendes,2,95,67,55
+442,Bárbara Mendes,3,83,28,51
+442,Bárbara Mendes,4,91,37,57
+442,Bárbara Mendes,5,98,55,57
+442,Bárbara Mendes,6,73,53,63
+442,Bárbara Mendes,7,87,66,31
+442,Bárbara Mendes,8,93,38,61
+443,Raul Sampaio,1,22,56,71
+443,Raul Sampaio,2,48,35,89
+443,Raul Sampaio,3,19,45,69
+443,Raul Sampaio,4,54,51,89
+443,Raul Sampaio,5,30,37,80
+443,Raul Sampaio,6,16,21,71
+443,Raul Sampaio,7,29,23,83
+443,Raul Sampaio,8,51,29,74
+444,André Cavalcante,1,38,24,8
+444,André Cavalcante,2,25,13,6
+444,André Cavalcante,3,27,11,0
+444,André Cavalcante,4,27,0,14
+444,André Cavalcante,5,46,2,21
+444,André Cavalcante,6,46,24,0
+444,André Cavalcante,7,24,0,5
+444,André Cavalcante,8,18,0,0
+445,Ana Luiza Cassiano,1,39,53,21
+445,Ana Luiza Cassiano,2,12,83,8
+445,Ana Luiza Cassiano,3,27,57,0
+445,Ana Luiza Cassiano,4,26,75,2
+445,Ana Luiza Cassiano,5,41,84,0
+445,Ana Luiza Cassiano,6,39,84,0
+445,Ana Luiza Cassiano,7,15,60,0
+445,Ana Luiza Cassiano,8,32,66,10
+446,Sra. Mariah Araújo,1,55,20,92
+446,Sra. Mariah Araújo,2,57,6,69
+446,Sra. Mariah Araújo,3,64,0,84
+446,Sra. Mariah Araújo,4,66,16,97
+446,Sra. Mariah Araújo,5,73,27,80
+446,Sra. Mariah Araújo,6,60,23,89
+446,Sra. Mariah Araújo,7,76,1,100
+446,Sra. Mariah Araújo,8,50,7,87
+447,Kamilly da Rocha,1,70,71,22
+447,Kamilly da Rocha,2,68,74,52
+447,Kamilly da Rocha,3,53,46,17
+447,Kamilly da Rocha,4,79,52,31
+447,Kamilly da Rocha,5,41,57,54
+447,Kamilly da Rocha,6,73,59,36
+447,Kamilly da Rocha,7,60,37,42
+447,Kamilly da Rocha,8,57,74,43
+448,Alana Lima,1,20,16,100
+448,Alana Lima,2,23,0,70
+448,Alana Lima,3,20,5,97
+448,Alana Lima,4,31,9,74
+448,Alana Lima,5,35,27,84
+448,Alana Lima,6,18,4,70
+448,Alana Lima,7,25,23,100
+448,Alana Lima,8,45,0,88
+449,Dr. Murilo Ramos,1,13,8,6
+449,Dr. Murilo Ramos,2,43,3,10
+449,Dr. Murilo Ramos,3,36,17,0
+449,Dr. Murilo Ramos,4,41,0,0
+449,Dr. Murilo Ramos,5,16,18,22
+449,Dr. Murilo Ramos,6,26,11,20
+449,Dr. Murilo Ramos,7,16,17,0
+449,Dr. Murilo Ramos,8,45,13,0
+450,João Lucas Marques,1,41,83,97
+450,João Lucas Marques,2,43,93,100
+450,João Lucas Marques,3,56,86,91
+450,João Lucas Marques,4,66,93,84
+450,João Lucas Marques,5,55,77,100
+450,João Lucas Marques,6,68,69,95
+450,João Lucas Marques,7,59,83,79
+450,João Lucas Marques,8,45,75,100
+451,Aylla Vasconcelos,1,10,46,57
+451,Aylla Vasconcelos,2,17,66,60
+451,Aylla Vasconcelos,3,16,67,49
+451,Aylla Vasconcelos,4,45,60,38
+451,Aylla Vasconcelos,5,22,58,28
+451,Aylla Vasconcelos,6,41,81,60
+451,Aylla Vasconcelos,7,12,53,49
+451,Aylla Vasconcelos,8,45,49,36
+452,José Miguel Fonseca,1,57,18,27
+452,José Miguel Fonseca,2,48,39,13
+452,José Miguel Fonseca,3,19,49,35
+452,José Miguel Fonseca,4,48,41,23
+452,José Miguel Fonseca,5,46,26,38
+452,José Miguel Fonseca,6,53,30,4
+452,José Miguel Fonseca,7,29,36,9
+452,José Miguel Fonseca,8,45,51,27
+453,Igor Monteiro,1,100,0,30
+453,Igor Monteiro,2,85,0,34
+453,Igor Monteiro,3,100,16,40
+453,Igor Monteiro,4,100,30,7
+453,Igor Monteiro,5,81,3,34
+453,Igor Monteiro,6,100,33,37
+453,Igor Monteiro,7,87,6,22
+453,Igor Monteiro,8,77,18,25
+454,Benjamin Martins,1,94,92,32
+454,Benjamin Martins,2,88,100,33
+454,Benjamin Martins,3,69,100,29
+454,Benjamin Martins,4,92,100,30
+454,Benjamin Martins,5,91,94,21
+454,Benjamin Martins,6,95,96,24
+454,Benjamin Martins,7,82,100,0
+454,Benjamin Martins,8,78,100,34
+455,Gabrielly Câmara,1,31,0,21
+455,Gabrielly Câmara,2,47,3,44
+455,Gabrielly Câmara,3,25,6,36
+455,Gabrielly Câmara,4,42,0,14
+455,Gabrielly Câmara,5,55,17,31
+455,Gabrielly Câmara,6,25,2,10
+455,Gabrielly Câmara,7,63,0,49
+455,Gabrielly Câmara,8,61,17,16
+456,Vitor Siqueira,1,75,1,94
+456,Vitor Siqueira,2,77,13,89
+456,Vitor Siqueira,3,75,0,92
+456,Vitor Siqueira,4,38,18,73
+456,Vitor Siqueira,5,71,26,78
+456,Vitor Siqueira,6,77,22,75
+456,Vitor Siqueira,7,59,26,92
+456,Vitor Siqueira,8,77,29,54
+457,Pietro Sales,1,41,54,25
+457,Pietro Sales,2,56,45,13
+457,Pietro Sales,3,40,35,1
+457,Pietro Sales,4,42,44,0
+457,Pietro Sales,5,58,38,10
+457,Pietro Sales,6,39,49,0
+457,Pietro Sales,7,40,66,12
+457,Pietro Sales,8,64,38,0
+458,Leonardo Pereira,1,9,93,66
+458,Leonardo Pereira,2,45,74,54
+458,Leonardo Pereira,3,43,89,50
+458,Leonardo Pereira,4,11,84,41
+458,Leonardo Pereira,5,31,100,38
+458,Leonardo Pereira,6,36,87,68
+458,Leonardo Pereira,7,10,100,54
+458,Leonardo Pereira,8,38,90,39
+459,Sabrina Rezende,1,47,21,1
+459,Sabrina Rezende,2,37,29,20
+459,Sabrina Rezende,3,64,46,14
+459,Sabrina Rezende,4,60,25,0
+459,Sabrina Rezende,5,43,55,10
+459,Sabrina Rezende,6,53,20,0
+459,Sabrina Rezende,7,74,53,1
+459,Sabrina Rezende,8,37,31,6
+460,Mariah Rios,1,45,40,3
+460,Mariah Rios,2,28,34,19
+460,Mariah Rios,3,14,20,0
+460,Mariah Rios,4,44,43,4
+460,Mariah Rios,5,39,41,0
+460,Mariah Rios,6,50,31,20
+460,Mariah Rios,7,39,48,0
+460,Mariah Rios,8,49,17,0
+461,Srta. Carolina da Costa,1,80,70,71
+461,Srta. Carolina da Costa,2,75,99,49
+461,Srta. Carolina da Costa,3,66,100,53
+461,Srta. Carolina da Costa,4,54,100,41
+461,Srta. Carolina da Costa,5,83,100,47
+461,Srta. Carolina da Costa,6,64,82,60
+461,Srta. Carolina da Costa,7,53,100,73
+461,Srta. Carolina da Costa,8,54,90,53
+462,Matheus Correia,1,39,100,50
+462,Matheus Correia,2,37,82,53
+462,Matheus Correia,3,29,97,54
+462,Matheus Correia,4,44,100,60
+462,Matheus Correia,5,27,89,82
+462,Matheus Correia,6,49,98,69
+462,Matheus Correia,7,32,82,75
+462,Matheus Correia,8,43,100,60
+463,Sr. Arthur Ramos,1,75,0,47
+463,Sr. Arthur Ramos,2,66,2,18
+463,Sr. Arthur Ramos,3,50,0,24
+463,Sr. Arthur Ramos,4,52,17,27
+463,Sr. Arthur Ramos,5,65,8,12
+463,Sr. Arthur Ramos,6,62,12,18
+463,Sr. Arthur Ramos,7,75,2,50
+463,Sr. Arthur Ramos,8,87,0,20
+464,João da Cunha,1,53,97,94
+464,João da Cunha,2,28,73,66
+464,João da Cunha,3,23,91,95
+464,João da Cunha,4,18,59,100
+464,João da Cunha,5,26,79,73
+464,João da Cunha,6,26,92,100
+464,João da Cunha,7,30,85,76
+464,João da Cunha,8,53,70,79
+465,Maria Luiza Novaes,1,100,14,17
+465,Maria Luiza Novaes,2,92,45,21
+465,Maria Luiza Novaes,3,76,23,31
+465,Maria Luiza Novaes,4,100,35,26
+465,Maria Luiza Novaes,5,100,31,54
+465,Maria Luiza Novaes,6,97,15,31
+465,Maria Luiza Novaes,7,78,18,42
+465,Maria Luiza Novaes,8,100,16,44
+466,Manuela Alves,1,70,43,20
+466,Manuela Alves,2,45,19,51
+466,Manuela Alves,3,78,18,30
+466,Manuela Alves,4,50,37,36
+466,Manuela Alves,5,52,44,56
+466,Manuela Alves,6,39,58,27
+466,Manuela Alves,7,44,46,45
+466,Manuela Alves,8,59,50,52
+467,Alice Almeida,1,45,36,74
+467,Alice Almeida,2,37,49,63
+467,Alice Almeida,3,44,55,77
+467,Alice Almeida,4,43,28,52
+467,Alice Almeida,5,43,33,74
+467,Alice Almeida,6,23,43,52
+467,Alice Almeida,7,57,38,55
+467,Alice Almeida,8,58,26,59
+468,Vicente Gonçalves,1,58,66,56
+468,Vicente Gonçalves,2,64,81,56
+468,Vicente Gonçalves,3,74,76,40
+468,Vicente Gonçalves,4,48,91,58
+468,Vicente Gonçalves,5,45,83,42
+468,Vicente Gonçalves,6,52,83,54
+468,Vicente Gonçalves,7,37,88,66
+468,Vicente Gonçalves,8,38,83,57
+469,Theodoro Nascimento,1,26,33,56
+469,Theodoro Nascimento,2,42,33,44
+469,Theodoro Nascimento,3,47,67,44
+469,Theodoro Nascimento,4,40,35,41
+469,Theodoro Nascimento,5,19,41,77
+469,Theodoro Nascimento,6,36,49,70
+469,Theodoro Nascimento,7,48,60,69
+469,Theodoro Nascimento,8,26,48,62
+470,Carlos Eduardo Vieira,1,55,64,79
+470,Carlos Eduardo Vieira,2,39,77,87
+470,Carlos Eduardo Vieira,3,60,79,80
+470,Carlos Eduardo Vieira,4,33,59,69
+470,Carlos Eduardo Vieira,5,43,78,68
+470,Carlos Eduardo Vieira,6,54,64,73
+470,Carlos Eduardo Vieira,7,60,70,99
+470,Carlos Eduardo Vieira,8,25,58,86
+471,Julia Correia,1,52,99,42
+471,Julia Correia,2,39,100,31
+471,Julia Correia,3,65,100,54
+471,Julia Correia,4,75,94,45
+471,Julia Correia,5,49,100,32
+471,Julia Correia,6,73,100,44
+471,Julia Correia,7,67,89,32
+471,Julia Correia,8,45,97,43
+472,Daniel Teixeira,1,78,22,29
+472,Daniel Teixeira,2,83,21,40
+472,Daniel Teixeira,3,88,49,28
+472,Daniel Teixeira,4,100,32,6
+472,Daniel Teixeira,5,86,56,31
+472,Daniel Teixeira,6,78,39,13
+472,Daniel Teixeira,7,84,34,25
+472,Daniel Teixeira,8,75,57,14
+473,Julia das Neves,1,13,80,59
+473,Julia das Neves,2,40,100,48
+473,Julia das Neves,3,40,87,50
+473,Julia das Neves,4,26,100,34
+473,Julia das Neves,5,13,81,40
+473,Julia das Neves,6,12,86,50
+473,Julia das Neves,7,17,100,39
+473,Julia das Neves,8,15,100,52
+474,Benjamin Fernandes,1,40,93,17
+474,Benjamin Fernandes,2,26,93,0
+474,Benjamin Fernandes,3,24,69,0
+474,Benjamin Fernandes,4,21,74,28
+474,Benjamin Fernandes,5,48,90,13
+474,Benjamin Fernandes,6,36,95,10
+474,Benjamin Fernandes,7,33,98,31
+474,Benjamin Fernandes,8,37,72,0
+475,Daniela Melo,1,94,48,36
+475,Daniela Melo,2,98,49,42
+475,Daniela Melo,3,82,49,54
+475,Daniela Melo,4,88,51,64
+475,Daniela Melo,5,97,40,56
+475,Daniela Melo,6,88,36,37
+475,Daniela Melo,7,87,64,51
+475,Daniela Melo,8,100,36,43
+476,Emanuelly da Cunha,1,84,8,81
+476,Emanuelly da Cunha,2,100,34,93
+476,Emanuelly da Cunha,3,77,0,80
+476,Emanuelly da Cunha,4,85,9,88
+476,Emanuelly da Cunha,5,83,34,100
+476,Emanuelly da Cunha,6,100,38,100
+476,Emanuelly da Cunha,7,100,23,85
+476,Emanuelly da Cunha,8,100,39,100
+477,Bryan Nascimento,1,49,82,22
+477,Bryan Nascimento,2,73,79,44
+477,Bryan Nascimento,3,69,93,24
+477,Bryan Nascimento,4,70,77,49
+477,Bryan Nascimento,5,53,97,43
+477,Bryan Nascimento,6,69,76,46
+477,Bryan Nascimento,7,73,64,44
+477,Bryan Nascimento,8,59,79,58
+478,Erick Gonçalves,1,71,70,62
+478,Erick Gonçalves,2,79,74,45
+478,Erick Gonçalves,3,85,44,65
+478,Erick Gonçalves,4,52,57,73
+478,Erick Gonçalves,5,64,56,50
+478,Erick Gonçalves,6,73,67,42
+478,Erick Gonçalves,7,74,55,44
+478,Erick Gonçalves,8,82,72,41
+479,Emanuelly Macedo,1,65,0,60
+479,Emanuelly Macedo,2,69,22,65
+479,Emanuelly Macedo,3,74,1,36
+479,Emanuelly Macedo,4,85,25,43
+479,Emanuelly Macedo,5,67,0,64
+479,Emanuelly Macedo,6,86,28,45
+479,Emanuelly Macedo,7,67,17,47
+479,Emanuelly Macedo,8,59,1,53
+480,Ana Sophia Sampaio,1,79,67,61
+480,Ana Sophia Sampaio,2,99,40,63
+480,Ana Sophia Sampaio,3,90,60,50
+480,Ana Sophia Sampaio,4,85,67,69
+480,Ana Sophia Sampaio,5,100,48,75
+480,Ana Sophia Sampaio,6,80,60,44
+480,Ana Sophia Sampaio,7,94,70,76
+480,Ana Sophia Sampaio,8,77,58,58
+481,Vinícius Sampaio,1,23,28,89
+481,Vinícius Sampaio,2,33,15,91
+481,Vinícius Sampaio,3,16,11,74
+481,Vinícius Sampaio,4,24,14,63
+481,Vinícius Sampaio,5,35,20,98
+481,Vinícius Sampaio,6,30,24,76
+481,Vinícius Sampaio,7,17,44,76
+481,Vinícius Sampaio,8,22,37,96
+482,Antônio Dias,1,98,30,91
+482,Antônio Dias,2,98,27,100
+482,Antônio Dias,3,61,10,90
+482,Antônio Dias,4,86,37,100
+482,Antônio Dias,5,60,32,92
+482,Antônio Dias,6,97,17,97
+482,Antônio Dias,7,70,6,89
+482,Antônio Dias,8,92,30,100
+483,Ayla Costa,1,46,10,39
+483,Ayla Costa,2,27,19,41
+483,Ayla Costa,3,30,17,28
+483,Ayla Costa,4,46,6,62
+483,Ayla Costa,5,38,14,53
+483,Ayla Costa,6,28,28,41
+483,Ayla Costa,7,41,20,40
+483,Ayla Costa,8,29,28,62
+484,Davi Luiz Moura,1,4,60,79
+484,Davi Luiz Moura,2,36,63,91
+484,Davi Luiz Moura,3,6,44,83
+484,Davi Luiz Moura,4,33,50,86
+484,Davi Luiz Moura,5,30,47,100
+484,Davi Luiz Moura,6,18,57,93
+484,Davi Luiz Moura,7,5,74,100
+484,Davi Luiz Moura,8,22,59,77
+485,Ester Novaes,1,42,15,21
+485,Ester Novaes,2,29,0,39
+485,Ester Novaes,3,10,22,22
+485,Ester Novaes,4,11,24,14
+485,Ester Novaes,5,13,4,46
+485,Ester Novaes,6,17,0,35
+485,Ester Novaes,7,28,7,34
+485,Ester Novaes,8,37,0,24
+486,Aurora Pastor,1,29,0,64
+486,Aurora Pastor,2,4,0,73
+486,Aurora Pastor,3,2,2,64
+486,Aurora Pastor,4,17,0,69
+486,Aurora Pastor,5,20,0,94
+486,Aurora Pastor,6,3,0,90
+486,Aurora Pastor,7,27,0,64
+486,Aurora Pastor,8,14,22,97
+487,João Guilherme Teixeira,1,6,12,60
+487,João Guilherme Teixeira,2,19,49,70
+487,João Guilherme Teixeira,3,5,18,81
+487,João Guilherme Teixeira,4,36,16,75
+487,João Guilherme Teixeira,5,17,49,65
+487,João Guilherme Teixeira,6,12,31,51
+487,João Guilherme Teixeira,7,35,27,67
+487,João Guilherme Teixeira,8,3,27,85
+488,Sra. Ana Gomes,1,66,95,70
+488,Sra. Ana Gomes,2,63,100,54
+488,Sra. Ana Gomes,3,86,74,84
+488,Sra. Ana Gomes,4,79,100,59
+488,Sra. Ana Gomes,5,64,87,69
+488,Sra. Ana Gomes,6,88,100,62
+488,Sra. Ana Gomes,7,86,84,81
+488,Sra. Ana Gomes,8,88,86,92
+489,Pedro Henrique Vasconcelos,1,33,28,82
+489,Pedro Henrique Vasconcelos,2,45,27,71
+489,Pedro Henrique Vasconcelos,3,32,50,64
+489,Pedro Henrique Vasconcelos,4,23,60,70
+489,Pedro Henrique Vasconcelos,5,49,59,53
+489,Pedro Henrique Vasconcelos,6,17,38,52
+489,Pedro Henrique Vasconcelos,7,29,44,63
+489,Pedro Henrique Vasconcelos,8,33,50,68
+490,Antônio Campos,1,47,83,42
+490,Antônio Campos,2,48,70,57
+490,Antônio Campos,3,40,78,28
+490,Antônio Campos,4,65,95,52
+490,Antônio Campos,5,54,86,31
+490,Antônio Campos,6,64,90,43
+490,Antônio Campos,7,62,95,38
+490,Antônio Campos,8,39,84,52
+491,Maria Liz Cavalcanti,1,55,68,6
+491,Maria Liz Cavalcanti,2,36,44,6
+491,Maria Liz Cavalcanti,3,62,41,22
+491,Maria Liz Cavalcanti,4,42,62,15
+491,Maria Liz Cavalcanti,5,68,48,22
+491,Maria Liz Cavalcanti,6,37,51,15
+491,Maria Liz Cavalcanti,7,65,73,22
+491,Maria Liz Cavalcanti,8,60,46,7
+492,Ian Brito,1,52,23,33
+492,Ian Brito,2,41,20,0
+492,Ian Brito,3,52,49,16
+492,Ian Brito,4,47,22,33
+492,Ian Brito,5,44,18,27
+492,Ian Brito,6,47,20,24
+492,Ian Brito,7,35,19,5
+492,Ian Brito,8,57,27,31
+493,Sr. Brayan Barbosa,1,51,85,25
+493,Sr. Brayan Barbosa,2,18,65,27
+493,Sr. Brayan Barbosa,3,34,78,8
+493,Sr. Brayan Barbosa,4,17,58,11
+493,Sr. Brayan Barbosa,5,23,77,0
+493,Sr. Brayan Barbosa,6,40,61,0
+493,Sr. Brayan Barbosa,7,41,52,27
+493,Sr. Brayan Barbosa,8,24,56,0
+494,Dante Nogueira,1,66,79,77
+494,Dante Nogueira,2,92,100,67
+494,Dante Nogueira,3,94,94,59
+494,Dante Nogueira,4,75,99,71
+494,Dante Nogueira,5,73,75,79
+494,Dante Nogueira,6,87,76,58
+494,Dante Nogueira,7,85,100,65
+494,Dante Nogueira,8,76,95,97
+495,Bruna da Rosa,1,73,17,72
+495,Bruna da Rosa,2,76,18,82
+495,Bruna da Rosa,3,90,18,54
+495,Bruna da Rosa,4,79,3,63
+495,Bruna da Rosa,5,100,5,53
+495,Bruna da Rosa,6,91,19,80
+495,Bruna da Rosa,7,100,0,51
+495,Bruna da Rosa,8,80,0,56
+496,Sr. Daniel Ribeiro,1,55,29,46
+496,Sr. Daniel Ribeiro,2,61,33,56
+496,Sr. Daniel Ribeiro,3,46,15,51
+496,Sr. Daniel Ribeiro,4,69,27,54
+496,Sr. Daniel Ribeiro,5,42,24,38
+496,Sr. Daniel Ribeiro,6,59,33,37
+496,Sr. Daniel Ribeiro,7,53,19,61
+496,Sr. Daniel Ribeiro,8,43,20,57
+497,Juliana das Neves,1,35,41,32
+497,Juliana das Neves,2,33,44,35
+497,Juliana das Neves,3,25,46,32
+497,Juliana das Neves,4,39,44,66
+497,Juliana das Neves,5,55,28,43
+497,Juliana das Neves,6,31,37,42
+497,Juliana das Neves,7,55,35,50
+497,Juliana das Neves,8,27,36,33
+498,Arthur Miguel Souza,1,74,66,44
+498,Arthur Miguel Souza,2,62,32,50
+498,Arthur Miguel Souza,3,41,69,52
+498,Arthur Miguel Souza,4,51,44,56
+498,Arthur Miguel Souza,5,44,52,23
+498,Arthur Miguel Souza,6,66,52,42
+498,Arthur Miguel Souza,7,40,42,24
+498,Arthur Miguel Souza,8,52,45,31
+499,Pedro Miguel Cavalcante,1,86,25,19
+499,Pedro Miguel Cavalcante,2,100,38,0
+499,Pedro Miguel Cavalcante,3,100,32,20
+499,Pedro Miguel Cavalcante,4,79,44,0
+499,Pedro Miguel Cavalcante,5,94,47,0
+499,Pedro Miguel Cavalcante,6,79,49,0
+499,Pedro Miguel Cavalcante,7,99,25,16
+499,Pedro Miguel Cavalcante,8,100,33,0
+500,Isaac Rodrigues,1,52,0,56
+500,Isaac Rodrigues,2,54,4,26
+500,Isaac Rodrigues,3,55,9,50
+500,Isaac Rodrigues,4,71,0,48
+500,Isaac Rodrigues,5,69,20,52
+500,Isaac Rodrigues,6,67,6,51
+500,Isaac Rodrigues,7,76,0,41
+500,Isaac Rodrigues,8,60,27,59

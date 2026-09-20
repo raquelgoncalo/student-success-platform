@@ -1,0 +1,501 @@
+id,nome,progresso,presenca,entregas,satisfacao,participacao_comunidade
+1,Maria Luísa Novaes,44,21,73,9,32
+2,Marcelo Melo,76,24,91,7,78
+3,Srta. Kamilly Pacheco,87,88,85,6,6
+4,Julia da Rosa,71,37,67,10,45
+5,Sr. Diego da Cruz,46,23,25,2,32
+6,João Pedro Barbosa,10,90,94,1,41
+7,Dr. Ryan Castro,30,65,38,1,59
+8,Joana Moreira,90,34,67,1,91
+9,Sra. Ester da Cunha,50,56,42,4,14
+10,Letícia Peixoto,91,54,26,3,2
+11,Felipe Souza,83,87,29,9,50
+12,André Azevedo,90,88,60,3,5
+13,Luiza Pimenta,81,26,9,1,32
+14,Thomas Alves,23,85,85,6,70
+15,Bruno Fonseca,35,50,13,7,26
+16,Helena Peixoto,33,24,84,4,67
+17,Levi Oliveira,58,68,32,2,91
+18,Dra. Beatriz Ribeiro,100,54,86,4,76
+19,Vinicius Camargo,8,64,29,10,11
+20,Melissa Pimenta,78,77,12,5,90
+21,Ana Luiza Costa,82,78,28,5,15
+22,Dr. Pedro Lucas Albuquerque,53,25,68,6,69
+23,Dr. Gael Sampaio,0,40,23,6,75
+24,Ana Julia Duarte,62,31,87,9,25
+25,Isabella Pastor,2,39,58,5,9
+26,João Gabriel Araújo,12,51,85,9,36
+27,Sr. João Guilherme Barros,27,60,69,7,54
+28,Juan Souza,50,64,59,7,66
+29,Zoe Jesus,29,53,83,3,73
+30,Vinicius Gonçalves,76,90,31,2,60
+31,Nicole da Paz,80,32,97,8,55
+32,Ana Cecília Duarte,25,91,22,3,4
+33,Arthur Melo,22,44,35,10,90
+34,Davi Lucca Cirino,98,64,97,9,5
+35,Raul Fernandes,73,65,100,2,63
+36,Lunna da Costa,45,25,48,3,77
+37,Dr. Gustavo Henrique da Cunha,83,36,11,9,10
+38,Maria Alice Nunes,58,22,87,1,45
+39,Ana Beatriz Sousa,75,55,49,1,37
+40,Larissa Cunha,35,22,66,10,31
+41,Ravi Lucca Santos,2,71,24,8,15
+42,Bianca Mendes,50,73,5,3,35
+43,Luiz Henrique Araújo,14,61,51,2,39
+44,Lunna Garcia,77,99,81,2,28
+45,Esther Lopes,82,52,16,9,4
+46,Maria Alice Martins,50,50,80,7,65
+47,João Vasconcelos,95,51,19,1,2
+48,Matheus da Rosa,95,68,28,2,59
+49,Emanuel Campos,28,39,66,6,81
+50,Dra. Kamilly Costela,14,91,14,3,73
+51,Camila Peixoto,40,44,31,7,16
+52,Sophia Fonseca,50,45,12,3,55
+53,Ana Vitória Rocha,46,34,41,1,72
+54,Dr. Matheus da Rosa,38,56,47,9,76
+55,Eloah da Rocha,44,35,0,1,16
+56,Manuella Vieira,3,82,9,7,40
+57,Maria Helena Peixoto,54,87,74,6,84
+58,Samuel Castro,5,73,78,8,72
+59,Maria Vitória Nunes,34,34,47,5,89
+60,Marina Silva,56,89,67,7,68
+61,Dra. Eduarda Santos,28,67,29,7,80
+62,Cecilia Cavalcante,8,99,29,10,28
+63,Vitória Nunes,22,48,35,9,89
+64,Marcelo Azevedo,15,98,6,3,73
+65,João Felipe Silveira,62,59,89,1,46
+66,Matheus da Luz,95,76,1,2,49
+67,Ravy Ferreira,78,73,72,4,0
+68,Maria Vitória Borges,83,81,77,10,66
+69,Sr. Oliver Campos,10,100,40,7,56
+70,Dra. Maria Eduarda Rocha,68,67,81,10,51
+71,Samuel Pinto,9,61,69,6,88
+72,Esther Vargas,64,76,89,6,3
+73,Jade Teixeira,99,76,72,5,27
+74,Davi Lucca Machado,78,72,14,4,39
+75,Luiz Henrique Camargo,58,22,54,2,12
+76,Léo Marques,33,33,45,6,41
+77,Jade Costela,43,24,48,10,8
+78,Srta. Eloá da Cunha,46,25,53,9,40
+79,Brenda Pereira,27,37,91,2,76
+80,Ísis Leão,2,93,49,2,100
+81,Henry Gabriel Cirino,82,87,9,5,65
+82,Dra. Maya Nunes,6,90,56,10,73
+83,Sr. Leandro da Rosa,32,73,80,5,53
+84,Aurora Aragão,19,69,23,10,40
+85,Sr. Ravy da Cruz,65,51,43,10,66
+86,Rafael Nascimento,67,90,5,4,3
+87,Dra. Anna Liz Albuquerque,94,74,75,10,56
+88,Sr. Luiz Felipe Fernandes,96,29,90,4,61
+89,Theo Costela,61,45,73,9,58
+90,Beatriz Macedo,18,47,18,5,69
+91,Anna Liz Rocha,76,52,12,3,42
+92,Nicolas Jesus,46,47,83,6,2
+93,Francisco Viana,78,98,77,4,75
+94,Maria Sophia Aragão,62,70,0,3,72
+95,Henry Gabriel Moraes,31,29,22,6,22
+96,Ryan Almeida,17,33,79,5,33
+97,Nathan Sá,9,77,74,5,45
+98,Maria Fernanda Campos,23,86,55,3,99
+99,Heloisa da Rosa,98,85,98,8,25
+100,Mateus Novais,88,71,12,9,26
+101,Josué Correia,54,49,51,5,96
+102,Isaque Pires,98,26,77,1,11
+103,Nathan Aparecida,40,63,25,8,26
+104,João da Mota,31,70,80,4,38
+105,Pedro Leão,10,31,6,1,44
+106,João Gabriel Porto,8,69,45,6,46
+107,André Brito,56,98,86,4,91
+108,Mariane Albuquerque,90,70,18,3,19
+109,Aylla Borges,0,58,69,10,55
+110,Dr. Léo Fernandes,22,100,52,3,17
+111,Rafael Cassiano,95,24,91,2,17
+112,Anthony da Rocha,98,80,75,6,72
+113,Clarice Ramos,89,93,38,6,17
+114,Sr. Theodoro Souza,62,58,47,7,37
+115,Aurora Cassiano,72,42,44,10,11
+116,Miguel Castro,63,70,20,2,59
+117,Nicolas Alves,51,82,88,8,19
+118,Ana Liz Ribeiro,60,100,51,4,20
+119,Sra. Maria Clara Silveira,31,82,38,7,34
+120,Thomas Freitas,66,50,24,10,50
+121,Ísis Siqueira,30,31,91,4,43
+122,Augusto Monteiro,61,49,7,7,72
+123,Heloisa Moreira,13,28,45,3,55
+124,Luiz Gustavo Rodrigues,23,62,68,9,63
+125,Alícia Aragão,39,24,61,7,34
+126,Lívia Silveira,65,66,91,5,95
+127,Dr. João Pedro Borges,49,65,78,8,70
+128,Vitor Hugo Siqueira,1,95,8,5,15
+129,Hellena Duarte,41,100,100,6,20
+130,Sr. Miguel Freitas,100,73,5,9,1
+131,Ana Carolina Vieira,48,75,65,10,84
+132,Leonardo Souza,2,47,5,4,77
+133,Ravi Lucca Câmara,92,77,61,5,53
+134,Luiz Fernando Mendes,39,39,20,6,18
+135,Maria Clara Fogaça,45,96,14,5,9
+136,Helena Ribeiro,52,89,33,2,78
+137,Mateus Moreira,27,82,20,9,77
+138,Ravi Lucca Machado,15,27,10,1,69
+139,Bernardo Fonseca,26,31,83,3,1
+140,Sophie Nogueira,59,86,55,5,11
+141,Marcos Vinicius Dias,42,73,17,5,15
+142,Srta. Luna Vasconcelos,53,88,81,6,33
+143,Davi Lucas da Cunha,29,71,63,4,94
+144,Vinícius Cunha,15,37,75,1,27
+145,Ana Cecília Lopes,35,26,80,9,96
+146,Nicolas Monteiro,38,28,19,3,97
+147,Ana Vitória Nunes,72,48,100,9,48
+148,Erick Rios,80,75,2,6,71
+149,Lorenzo Brito,61,40,76,4,26
+150,Alana Moura,15,40,58,2,22
+151,Pietro Costela,23,28,29,7,37
+152,Natália Rocha,78,82,69,9,65
+153,Dr. Juan Rezende,39,99,82,3,23
+154,Melissa da Mota,22,80,9,10,61
+155,Benjamim Castro,81,92,22,5,82
+156,Ana Andrade,33,69,3,10,72
+157,Igor Castro,16,58,82,10,0
+158,Alice Novaes,80,51,32,5,22
+159,Vitória Moreira,95,73,93,8,16
+160,Valentim Andrade,7,60,39,6,41
+161,Ravi Lucca Freitas,32,80,24,7,93
+162,Sr. Antônio Marques,96,50,28,4,54
+163,Arthur Miguel Marques,54,66,100,7,58
+164,Dra. Allana Cirino,44,41,95,10,53
+165,Dra. Maria Pereira,50,78,95,8,26
+166,Ester Camargo,9,41,7,5,44
+167,Gabriel Freitas,75,21,72,10,58
+168,Raquel Machado,12,84,75,3,51
+169,Davi Luiz Carvalho,91,97,82,5,72
+170,Júlia Macedo,51,56,50,9,12
+171,Pedro Miguel Farias,89,93,24,7,25
+172,João Pedro Silva,80,78,93,10,4
+173,Guilherme Pires,32,24,40,6,47
+174,Ryan Pacheco,76,34,23,9,47
+175,Júlia Monteiro,75,80,56,3,53
+176,Luísa da Conceição,84,91,14,1,9
+177,Yuri Fonseca,40,91,36,5,37
+178,Stella Cavalcanti,60,81,45,2,77
+179,André Freitas,56,74,22,4,59
+180,Anthony das Neves,50,75,71,10,70
+181,Amanda Aragão,5,22,45,9,43
+182,Cauê Alves,26,62,61,10,75
+183,Davi Luiz Marques,34,59,37,10,34
+184,Gabriela Lima,25,99,34,2,60
+185,João Cavalcanti,35,54,24,7,23
+186,Mariane da Mata,91,74,97,5,100
+187,Srta. Ana Luiza Camargo,49,54,63,10,28
+188,Hadassa Sales,14,64,90,9,7
+189,Kevin Caldeira,97,30,23,2,60
+190,Sr. Theodoro Mendonça,69,90,4,6,96
+191,Davi Lucca Castro,41,52,3,7,31
+192,Sr. Caio Andrade,86,96,28,4,99
+193,Catarina Pimenta,21,73,25,1,88
+194,Benjamim da Mota,95,100,8,10,8
+195,Zoe Novais,92,47,94,4,14
+196,Dra. Maria da Rosa,94,47,11,7,41
+197,Gael Teixeira,83,82,4,5,37
+198,Miguel Cunha,37,94,91,10,5
+199,Laís Nunes,35,20,45,4,70
+200,Theo Rodrigues,58,39,77,1,43
+201,Rael Ribeiro,63,36,25,4,32
+202,Elisa da Paz,25,79,3,6,83
+203,Lorenzo Pastor,100,55,26,6,30
+204,Melissa Mendes,17,44,67,9,82
+205,Fernando Casa Grande,92,79,14,1,66
+206,Mateus Cirino,10,52,47,9,99
+207,Sarah Novais,80,50,65,1,0
+208,Sarah Lopes,35,87,7,1,88
+209,Rhavi Pires,38,56,69,6,61
+210,Vitor das Neves,60,54,97,1,90
+211,Apollo Lima,31,40,1,7,8
+212,Antônio Fogaça,40,75,16,6,22
+213,José Pedro Novais,48,66,20,4,9
+214,Josué da Conceição,82,83,34,7,2
+215,Dr. João Gabriel Câmara,50,31,78,9,52
+216,Vitor Gabriel da Mota,32,95,60,4,44
+217,Ana Cecília Ramos,87,59,93,7,45
+218,Breno Barbosa,38,29,15,9,81
+219,João Miguel Fogaça,79,76,90,6,60
+220,Hadassa das Neves,70,63,30,5,62
+221,Dr. Luigi Mendonça,61,73,87,1,65
+222,Eloah Vargas,13,38,19,8,57
+223,Ravy Ferreira,11,33,27,8,82
+224,Alice Cavalcante,8,25,46,3,1
+225,Leandro Vieira,43,53,79,9,79
+226,Anna Liz Vargas,73,53,44,6,24
+227,Srta. Valentina da Cunha,14,74,45,1,72
+228,Mirella Rios,48,94,16,4,44
+229,Larissa Vargas,61,73,14,7,34
+230,Srta. Ana Sophia da Conceição,58,21,73,9,36
+231,Vinícius Nascimento,8,93,36,7,32
+232,Dra. Marcela da Rosa,84,76,36,9,41
+233,Breno da Costa,60,99,9,4,13
+234,Bernardo Pimenta,68,90,22,1,67
+235,Maria Fernanda Nascimento,76,84,89,10,47
+236,Matteo Barros,83,96,28,9,95
+237,Srta. Rafaela Fonseca,90,55,74,4,40
+238,Nicole Gonçalves,13,29,25,2,39
+239,Sra. Ana Vitória Lima,91,69,48,1,72
+240,Luísa Costa,19,88,51,4,100
+241,Diego Cirino,37,98,63,1,38
+242,Luna Leão,27,65,11,8,3
+243,Pietro Macedo,56,85,5,6,50
+244,Matheus Sales,81,26,81,4,9
+245,Sra. Maria Isis Sá,29,87,59,1,72
+246,Juan Montenegro,32,70,21,1,33
+247,Zoe da Paz,81,70,41,1,52
+248,Olivia Pacheco,10,99,27,6,74
+249,Theo Sá,51,88,16,7,54
+250,Srta. Sara Machado,31,80,75,5,80
+251,Brayan Camargo,26,57,69,6,75
+252,Sr. Luiz Henrique Machado,49,91,43,2,60
+253,Gabrielly da Rocha,29,74,19,10,54
+254,Bruno Dias,73,43,40,10,82
+255,Matheus Aragão,46,92,42,5,17
+256,Ian Barbosa,73,64,56,5,32
+257,Antônio Gonçalves,43,30,75,4,0
+258,Sr. Arthur Borges,68,88,53,8,2
+259,Otto Brito,61,91,83,8,17
+260,José Correia,65,21,79,6,47
+261,Nina Novais,83,82,60,5,99
+262,Bruna Albuquerque,80,24,21,8,45
+263,Bianca Câmara,86,48,86,6,0
+264,Daniel Andrade,10,92,24,9,46
+265,Elisa Gonçalves,23,87,51,3,47
+266,Catarina da Cruz,30,60,18,9,0
+267,Dom Sales,70,82,37,3,46
+268,Dr. Benicio Casa Grande,12,54,77,7,2
+269,Eduarda da Cunha,73,57,11,8,94
+270,Lunna Pereira,1,30,14,5,65
+271,Maitê Carvalho,78,34,29,5,67
+272,Ana Júlia Ribeiro,83,39,5,1,71
+273,Luana Barros,58,63,78,2,35
+274,Luiz Gustavo Dias,32,22,4,10,28
+275,Larissa Pacheco,98,54,10,3,3
+276,Dr. Mathias Fogaça,20,61,70,10,56
+277,Caio Moraes,85,82,14,3,87
+278,Dr. João Vitor da Mota,44,85,48,10,41
+279,Benjamim Porto,73,100,68,5,74
+280,Sophia Mendonça,14,82,43,2,25
+281,Bárbara da Rocha,22,44,39,8,72
+282,Ana Luiza Ribeiro,64,59,38,1,21
+283,Ágatha Ramos,47,21,12,5,6
+284,Catarina Campos,89,51,48,3,84
+285,Francisco Cavalcanti,10,71,44,7,45
+286,Dra. Julia Porto,24,79,55,4,36
+287,Luiz Felipe Novais,11,28,56,5,65
+288,Srta. Maria da Rocha,34,91,4,1,28
+289,Calebe Caldeira,74,96,29,10,89
+290,Alana Dias,38,22,97,9,63
+291,Maria Luiza da Cunha,89,34,96,8,46
+292,Fernanda Andrade,6,86,77,6,46
+293,Rafael Martins,1,50,20,1,70
+294,Lívia Abreu,82,30,84,1,57
+295,Ravi Pimenta,4,97,81,6,8
+296,Davi Lucca Santos,35,100,64,6,13
+297,Antony Garcia,88,40,5,5,1
+298,Antonella Montenegro,53,76,100,1,30
+299,Sofia Leão,71,39,73,10,87
+300,Lucca Costa,68,73,17,2,43
+301,Srta. Antonella da Costa,67,27,44,2,19
+302,Mariah Borges,97,30,41,2,98
+303,Gael Henrique da Conceição,14,20,42,3,34
+304,Dra. Lunna Guerra,90,85,43,4,18
+305,Arthur Gabriel Sousa,55,46,19,4,14
+306,Dra. Joana Fernandes,33,47,27,7,38
+307,Evelyn Azevedo,30,26,46,2,34
+308,Josué Casa Grande,43,99,7,8,68
+309,Ana Sophia Martins,43,41,71,6,93
+310,Dr. Juan Freitas,13,77,65,3,18
+311,Daniela Silveira,34,33,27,3,80
+312,Bryan da Mota,52,49,30,4,32
+313,Anthony Pastor,76,50,69,3,90
+314,Cecília Machado,91,96,3,8,84
+315,Maria Julia Garcia,3,60,89,6,69
+316,Raul Freitas,78,99,25,5,39
+317,Beatriz Rios,11,51,89,9,40
+318,Lorena Sampaio,26,55,31,6,91
+319,Sra. Gabrielly Viana,83,93,31,8,48
+320,Sophia Rocha,77,29,36,8,1
+321,Cecília Fogaça,87,67,26,1,25
+322,João Gabriel Ferreira,74,51,32,9,19
+323,Arthur Albuquerque,14,56,82,7,74
+324,Davi Miguel Silveira,63,81,2,3,61
+325,Apollo Pinto,24,57,18,7,75
+326,Yuri Gonçalves,78,30,70,8,87
+327,Vicente Vieira,4,75,2,1,1
+328,Sr. Lorenzo Porto,17,51,31,7,51
+329,Rodrigo Barros,27,34,43,8,89
+330,Lorena Vasconcelos,58,41,64,1,50
+331,Gabrielly Montenegro,1,97,90,6,78
+332,Bruno Vasconcelos,99,46,58,7,38
+333,Sra. Helena Guerra,27,73,95,5,54
+334,Srta. Maria Fernanda Fonseca,41,54,43,10,60
+335,Dr. Ravi Cardoso,0,67,84,2,98
+336,Heloísa Pacheco,55,95,33,6,94
+337,Felipe Fonseca,100,54,71,8,54
+338,Esther Nunes,38,24,46,6,81
+339,Kaique Silveira,56,75,40,3,81
+340,Leonardo Machado,67,69,15,9,84
+341,Sra. Ana Carolina Castro,98,31,49,4,22
+342,Cauã Rios,86,50,39,2,22
+343,Théo Alves,83,78,23,1,1
+344,Renan Garcia,39,77,3,10,85
+345,Manuela Albuquerque,28,94,12,6,62
+346,Vitor Hugo Siqueira,70,22,31,4,75
+347,Ana Júlia Brito,88,25,24,7,18
+348,Ravi Lucca Marques,80,57,74,8,30
+349,Murilo Vasconcelos,6,59,2,4,28
+350,Dante Siqueira,71,31,48,5,39
+351,Noah Lima,0,59,20,3,33
+352,Maria Eduarda Rios,7,61,11,10,86
+353,Alexia Nascimento,50,54,85,9,89
+354,Léo Carvalho,87,22,86,7,83
+355,Ester Pereira,66,30,34,6,26
+356,Isabel Costela,62,44,63,9,50
+357,Srta. Ayla Ramos,78,81,51,2,76
+358,Thiago Porto,75,53,77,6,51
+359,Sr. João Felipe Camargo,26,74,94,10,51
+360,Erick Casa Grande,59,73,89,9,2
+361,Ian Moraes,36,35,29,10,100
+362,Olívia Monteiro,62,84,91,1,74
+363,Ana Vitória Lima,55,33,47,8,84
+364,Gael Henrique da Costa,72,82,56,7,58
+365,Ana Beatriz Teixeira,16,86,8,1,90
+366,Luiz Miguel Silveira,71,93,9,1,23
+367,Maria Flor da Rocha,100,99,92,1,50
+368,João Lucas Nunes,92,87,46,2,68
+369,Enrico Costa,4,56,73,4,68
+370,Dr. Luiz Otávio Gomes,20,90,93,4,7
+371,Clara Cavalcanti,30,23,18,7,46
+372,Rafaela Leão,89,67,58,2,24
+373,Isabelly Abreu,12,63,53,5,8
+374,Liz da Luz,95,68,14,2,34
+375,Letícia da Costa,28,62,60,7,33
+376,Lorena Ramos,58,27,98,1,92
+377,Gabrielly Marques,69,20,91,7,48
+378,Joana Farias,64,89,1,5,12
+379,Sra. Joana Gonçalves,28,22,27,1,81
+380,Igor Mendonça,3,72,44,10,98
+381,Sabrina Ferreira,38,31,53,5,85
+382,Zoe Correia,69,42,52,8,38
+383,Olívia Pastor,51,65,21,4,58
+384,Rodrigo Novaes,66,92,78,8,37
+385,Luana Fernandes,30,38,63,7,40
+386,Lucas da Mata,26,94,36,7,96
+387,Stella Azevedo,21,24,70,1,78
+388,Clara Peixoto,56,72,23,7,17
+389,Asafe Silva,24,93,51,2,52
+390,Eduardo Pires,85,32,84,3,16
+391,Benjamin Mendonça,20,58,48,10,78
+392,Anna Liz Gonçalves,70,77,88,1,47
+393,Maria Laura Cirino,76,100,75,9,45
+394,Luana da Costa,89,62,82,9,48
+395,Pedro da Conceição,77,39,37,1,53
+396,Bento Melo,12,88,57,10,23
+397,Guilherme Brito,90,29,32,8,58
+398,Théo Melo,49,97,33,5,95
+399,João Pedro Campos,48,94,66,10,27
+400,Dr. Guilherme Porto,34,33,95,8,94
+401,Nicolas Mendonça,4,68,95,4,32
+402,Srta. Bruna Mendes,4,100,78,10,36
+403,João Felipe Silva,51,42,59,6,80
+404,Luiza da Rocha,89,27,24,2,46
+405,Yago Sá,82,80,7,9,35
+406,Luana Mendes,44,90,90,9,11
+407,Diego Nascimento,53,35,90,6,64
+408,Mariah Vieira,16,98,58,5,92
+409,Nicole da Costa,84,99,72,4,29
+410,Dra. Ester Marques,11,60,32,7,48
+411,Otto Borges,51,89,25,7,49
+412,Ravi Vieira,74,68,56,2,82
+413,Agatha Ramos,33,95,19,8,10
+414,Noah Ribeiro,2,66,15,2,49
+415,Lorenzo Nogueira,12,79,57,1,7
+416,Noah Carvalho,78,45,59,5,59
+417,Cauê Nunes,89,54,44,6,76
+418,Mariah Souza,17,57,36,2,25
+419,Gael Henrique Monteiro,19,87,61,7,52
+420,Pietro Viana,23,64,98,6,41
+421,Maysa Novaes,60,89,14,9,19
+422,Mirella Dias,51,79,58,10,43
+423,Ana Caldeira,55,70,77,6,56
+424,Bruna Pastor,39,77,46,7,26
+425,Maria Fernanda Rocha,73,88,44,7,60
+426,Maria Isis Brito,17,52,79,9,49
+427,Yuri Nunes,1,55,76,10,49
+428,Luna Cavalcanti,25,59,35,7,33
+429,Benício Rodrigues,72,96,77,8,22
+430,Bruno Sousa,84,93,16,1,60
+431,Sr. Cauê Araújo,83,99,74,3,48
+432,Vitor Gabriel Porto,11,83,3,7,93
+433,Heloisa Nascimento,4,94,50,4,21
+434,Maria Cecília Pastor,77,65,61,1,47
+435,Henry Mendes,97,49,66,5,26
+436,João Lucas Casa Grande,76,83,7,8,61
+437,Kevin da Costa,30,77,80,10,50
+438,Dra. Antonella Silva,80,60,33,5,66
+439,Isaac Monteiro,84,40,55,4,94
+440,Antônio Almeida,80,70,75,10,74
+441,Bianca Andrade,20,50,9,10,91
+442,Bárbara Mendes,10,87,48,1,47
+443,Raul Sampaio,17,36,41,9,76
+444,André Cavalcante,10,26,6,9,2
+445,Ana Luiza Cassiano,20,23,72,1,8
+446,Sra. Mariah Araújo,77,65,12,4,86
+447,Kamilly da Rocha,89,60,55,7,37
+448,Alana Lima,92,33,10,3,82
+449,Dr. Murilo Ramos,97,32,2,4,12
+450,João Lucas Marques,81,61,84,9,97
+451,Aylla Vasconcelos,63,27,66,1,46
+452,José Miguel Fonseca,81,38,31,10,18
+453,Igor Monteiro,47,97,13,3,27
+454,Benjamin Martins,11,79,99,2,14
+455,Gabrielly Câmara,32,43,4,2,30
+456,Vitor Siqueira,77,58,11,1,74
+457,Pietro Sales,47,54,46,9,6
+458,Leonardo Pereira,61,25,93,7,57
+459,Sabrina Rezende,61,56,38,2,4
+460,Mariah Rios,79,30,37,3,2
+461,Srta. Carolina da Costa,25,67,89,1,58
+462,Matheus Correia,35,45,96,7,64
+463,Sr. Arthur Ramos,3,67,4,5,30
+464,João da Cunha,1,34,78,7,84
+465,Maria Luiza Novaes,29,91,30,4,37
+466,Manuela Alves,39,59,38,4,37
+467,Alice Almeida,43,38,35,2,63
+468,Vicente Gonçalves,98,57,81,8,52
+469,Theodoro Nascimento,100,29,47,2,57
+470,Carlos Eduardo Vieira,70,40,67,7,84
+471,Julia Correia,17,58,94,10,43
+472,Daniel Teixeira,90,95,41,6,25
+473,Julia das Neves,12,32,100,2,51
+474,Benjamin Fernandes,40,40,82,10,11
+475,Daniela Melo,55,90,49,4,56
+476,Emanuelly da Cunha,97,96,19,2,91
+477,Bryan Nascimento,87,68,77,9,41
+478,Erick Gonçalves,42,70,62,7,55
+479,Emanuelly Macedo,77,71,17,8,54
+480,Ana Sophia Sampaio,72,88,59,6,58
+481,Vinícius Sampaio,48,35,24,9,82
+482,Antônio Dias,5,78,20,7,95
+483,Ayla Costa,10,41,12,9,47
+484,Davi Luiz Moura,100,21,56,2,92
+485,Ester Novaes,50,26,9,3,33
+486,Aurora Pastor,54,22,2,5,84
+487,João Guilherme Teixeira,56,23,31,8,69
+488,Sra. Ana Gomes,60,72,89,8,73
+489,Pedro Henrique Vasconcelos,51,32,41,6,67
+490,Antônio Campos,48,53,89,5,41
+491,Maria Liz Cavalcanti,18,56,60,7,10
+492,Ian Brito,32,43,30,2,17
+493,Sr. Brayan Barbosa,35,34,69,6,8
+494,Dante Nogueira,4,86,95,10,78
+495,Bruna da Rosa,13,86,4,8,63
+496,Sr. Daniel Ribeiro,0,56,34,5,52
+497,Juliana das Neves,50,37,27,7,51
+498,Arthur Miguel Souza,45,56,51,7,39
+499,Pedro Miguel Cavalcante,98,96,31,3,1
+500,Isaac Rodrigues,63,62,10,10,43
