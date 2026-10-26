@@ -1,6 +1,6 @@
-<img width="1920" height="5394" alt="image" src="https://github.com/user-attachments/assets/2ec66d2c-cf5c-429b-9997-44a99b47f277" />
-
 # 🎓 Student Success Platform
+
+<img width="1920" height="5394" alt="image" src="https://github.com/user-attachments/assets/2ec66d2c-cf5c-429b-9997-44a99b47f277" />
 
 Plataforma de análise de engajamento e acompanhamento da experiência do aluno desenvolvida com Python e Streamlit.
 
@@ -93,4 +93,5 @@ Próximas evoluções:
 - Deploy em produção
 
 <a href="https://student-success-platform.streamlit.app/">Live Preview</a>
+========
 
